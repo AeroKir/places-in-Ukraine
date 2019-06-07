@@ -1,0 +1,387 @@
+[
+  {
+    "id": 707716,
+    "name": "Il’ichëvka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.383331,
+      "lat": 44.666668
+    },
+    "nameUa": "Іллічівка",
+    "nameRu": "Ильичевка"
+  },
+  {
+    "id": 707611,
+    "name": "Imshanaya",
+    "country": "UA",
+    "coord": {
+      "lon": 33.783333,
+      "lat": 51.900002
+    },
+    "nameUa": "Імшана",
+    "nameRu": "Имшана"
+  },
+  {
+    "id": 707305,
+    "name": "Izobil’ne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.352059,
+      "lat": 44.706944
+    },
+    "nameUa": "Ізобільне",
+    "nameRu": "Изобильное"
+  },
+  {
+    "id": 707470,
+    "name": "Ivano-Frankivs’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 24.5,
+      "lat": 48.5
+    },
+    "nameUa": "Івано-Франківська область",
+    "nameRu": "Ивано-Франковская область"
+  },
+  {
+    "id": 707552,
+    "name": "Isar",
+    "country": "UA",
+    "coord": {
+      "lon": 34.099998,
+      "lat": 44.5
+    },
+    "nameUa": "Ісар",
+    "nameRu": "Исар"
+  },
+  {
+    "id": 712576,
+    "name": "Inkerman",
+    "country": "UA",
+    "coord": {
+      "lon": 33.599998,
+      "lat": 44.599998
+    },
+    "nameUa": "Інкерман",
+    "nameRu": "Инкерман"
+  },
+  {
+    "id": 707526,
+    "name": "Istoki",
+    "country": "UA",
+    "coord": {
+      "lon": 33.833332,
+      "lat": 44.583332
+    },
+    "nameUa": "Істоки",
+    "nameRu": "Истоки"
+  },
+  {
+    "id": 707647,
+    "name": "Imeni Lenina",
+    "country": "UA",
+    "coord": {
+      "lon": 36.774723,
+      "lat": 46.636112
+    },
+    "nameUa": "Імені Леніна",
+    "nameRu": "Имени Ленина"
+  },
+  {
+    "id": 6722153,
+    "name": "Ivanivka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.202209,
+      "lat": 50.005161
+    },
+    "nameUa": "Іванівка",
+    "nameRu": "Ивановка"
+  },
+  {
+    "id": 806512,
+    "name": "Imeni Frunze",
+    "country": "UA",
+    "coord": {
+      "lon": 36.33852,
+      "lat": 49.965851
+    },
+    "nameUa": "Імені Фрунзе",
+    "nameRu": "Имени Фрунзе"
+  },
+  {
+    "id": 6725459,
+    "name": "Il’icha",
+    "country": "UA",
+    "coord": {
+      "lon": 36.171322,
+      "lat": 50.302448
+    },
+    "nameUa": "Нова Козача",
+    "nameRu": "Новая Казачья"
+  },
+  {
+    "id": 707356,
+    "name": "Ivanovskiy",
+    "country": "UA",
+    "coord": {
+      "lon": 35.366669,
+      "lat": 47.883331
+    },
+    "nameUa": "Іванівський",
+    "nameRu": "Ивановский"
+  },
+  {
+    "id": 7021003,
+    "name": "Izumrudne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.410198,
+      "lat": 45.737942
+    },
+    "nameUa": "Ізумрудне",
+    "nameRu": "Изумрудное"
+  },
+  {
+    "id": 699844,
+    "name": "Ivanivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.24807,
+      "lat": 44.937309
+    },
+    "nameUa": "Іванівка",
+    "nameRu": "Ивановка"
+  },
+  {
+    "id": 707711,
+    "name": "Il’ichëvskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.966671,
+      "lat": 44.849998
+    },
+    "nameUa": "Іллічівське",
+    "nameRu": "Ильичёвское"
+  },
+  {
+    "id": 707663,
+    "name": "Imeni Artëma",
+    "country": "UA",
+    "coord": {
+      "lon": 33.366669,
+      "lat": 47.933331
+    },
+    "nameUa": "Імені Артема",
+    "nameRu": "Имени Артема"
+  },
+  {
+    "id": 707511,
+    "name": "Ivanenki",
+    "country": "UA",
+    "coord": {
+      "lon": 35.283329,
+      "lat": 48.033329
+    },
+    "nameUa": "Іваненки",
+    "nameRu": "Иваненки"
+  },
+  {
+    "id": 707565,
+    "name": "Irpin",
+    "country": "UA",
+    "coord": {
+      "lon": 30.250549,
+      "lat": 50.521751
+    },
+    "nameUa": "Ірпінь",
+    "nameRu": "Ирпень"
+  },
+  {
+    "id": 707688,
+    "name": "Illichivsk",
+    "country": "UA",
+    "coord": {
+      "lon": 30.654779,
+      "lat": 46.304951
+    },
+    "nameUa": "Чорноморськ",
+    "nameRu": "Черноморск"
+  },
+  {
+    "id": 707308,
+    "name": "Izmayil",
+    "country": "UA",
+    "coord": {
+      "lon": 28.84079,
+      "lat": 45.349289
+    },
+    "nameUa": "Ізмаїл",
+    "nameRu": "Измаил"
+  },
+  {
+    "id": 707559,
+    "name": "Irshava",
+    "country": "UA",
+    "coord": {
+      "lon": 23.03846,
+      "lat": 48.316669
+    },
+    "nameUa": "Іршава",
+    "nameRu": "Иршава"
+  },
+  {
+    "id": 707296,
+    "name": "Izyaslav",
+    "country": "UA",
+    "coord": {
+      "lon": 26.821251,
+      "lat": 50.119469
+    },
+    "nameUa": "Ізяслав",
+    "nameRu": "Изяслав"
+  },
+  {
+    "id": 707679,
+    "name": "Ilovaysk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.202358,
+      "lat": 47.92498
+    },
+    "nameUa": "Іловайськ",
+    "nameRu": "Иловайск"
+  },
+  {
+    "id": 686762,
+    "name": "Ivano-Frankove",
+    "country": "UA",
+    "coord": {
+      "lon": 23.73333,
+      "lat": 49.916672
+    },
+    "nameUa": "Івано-Франкове",
+    "nameRu": "Ивано-Франково"
+  },
+  {
+    "id": 707489,
+    "name": "Ivankiv",
+    "country": "UA",
+    "coord": {
+      "lon": 29.89426,
+      "lat": 50.938641
+    },
+    "nameUa": "Іванків",
+    "nameRu": "Иванков"
+  },
+  {
+    "id": 707744,
+    "name": "Ichnya",
+    "country": "UA",
+    "coord": {
+      "lon": 32.394249,
+      "lat": 50.862579
+    },
+    "nameUa": "Ічня",
+    "nameRu": "Ичня"
+  },
+  {
+    "id": 707689,
+    "name": "Illarionovo",
+    "country": "UA",
+    "coord": {
+      "lon": 35.275391,
+      "lat": 48.40657
+    },
+    "nameUa": "Іларіонове",
+    "nameRu": "Илларионово"
+  },
+  {
+    "id": 707471,
+    "name": "Ivano-Frankivsk",
+    "country": "UA",
+    "coord": {
+      "lon": 24.709721,
+      "lat": 48.921501
+    },
+    "nameUa": "Івано-Франківськ",
+    "nameRu": "Ивано-Франковск"
+  },
+  {
+    "id": 707488,
+    "name": "Ivan’kov",
+    "country": "UA",
+    "coord": {
+      "lon": 32.833328,
+      "lat": 51.150002
+    },
+    "nameUa": "Іванків",
+    "nameRu": "Иванков"
+  },
+  {
+    "id": 707292,
+    "name": "Izyum",
+    "country": "UA",
+    "coord": {
+      "lon": 37.248482,
+      "lat": 49.208752
+    },
+    "nameUa": "Ізюм",
+    "nameRu": "Изюм"
+  },
+  {
+    "id": 707317,
+    "name": "Iza",
+    "country": "UA",
+    "coord": {
+      "lon": 23.328659,
+      "lat": 48.215248
+    },
+    "nameUa": "Іза",
+    "nameRu": "Иза"
+  },
+  {
+    "id": 707451,
+    "name": "Ivanivka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.46998,
+      "lat": 46.975689
+    },
+    "nameUa": "Іванівка",
+    "nameRu": "Ивановка"
+  },
+  {
+    "id": 707453,
+    "name": "Ivanivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.552979,
+      "lat": 46.720821
+    },
+    "nameUa": "Іванівка",
+    "nameRu": "Ивановка"
+  },
+  {
+    "id": 707529,
+    "name": "Ispas",
+    "country": "UA",
+    "coord": {
+      "lon": 25.274059,
+      "lat": 48.29734
+    },
+    "nameUa": "Іспас",
+    "nameRu": "Испас"
+  },
+  {
+    "id": 707695,
+    "name": "Illintsi",
+    "country": "UA",
+    "coord": {
+      "lon": 29.21773,
+      "lat": 49.10479
+    },
+    "nameUa": "Іллінці",
+    "nameRu": "Ильинцы"
+  }
+]

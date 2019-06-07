@@ -1,0 +1,1124 @@
+[
+  {
+    "id": 690679,
+    "name": "Nyzhni Petrivtsi",
+    "country": "UA",
+    "coord": {
+      "lon": 25.72327,
+      "lat": 48.028469
+    },
+    "nameUa": "Нижні Петрівці",
+    "nameRu": "Нижние Петровцы"
+  },
+  {
+    "id": 699996,
+    "name": "Nizhniy Airgul’",
+    "country": "UA",
+    "coord": {
+      "lon": 33.950001,
+      "lat": 44.599998
+    },
+    "nameUa": "Нижній Аїргул",
+    "nameRu": "Нижний Аиргул"
+  },
+  {
+    "id": 699318,
+    "name": "Novopillya",
+    "country": "UA",
+    "coord": {
+      "lon": 33.916668,
+      "lat": 44.583332
+    },
+    "nameUa": "Новопілля",
+    "nameRu": "Новополье"
+  },
+  {
+    "id": 699072,
+    "name": "Novoul’yanovka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.866669,
+      "lat": 44.599998
+    },
+    "nameUa": "Новоульянівка",
+    "nameRu": "Новоульяновка"
+  },
+  {
+    "id": 700416,
+    "name": "Nauchnyy",
+    "country": "UA",
+    "coord": {
+      "lon": 34.016666,
+      "lat": 44.733334
+    },
+    "nameUa": "Научний",
+    "nameRu": "Научный"
+  },
+  {
+    "id": 700072,
+    "name": "Nikol’skaya",
+    "country": "UA",
+    "coord": {
+      "lon": 30.583332,
+      "lat": 50.450001
+    },
+    "nameUa": "Нікольська",
+    "nameRu": "Никольская"
+  },
+  {
+    "id": 699317,
+    "name": "Novo-Poznyaki",
+    "country": "UA",
+    "coord": {
+      "lon": 30.633333,
+      "lat": 50.416668
+    },
+    "nameUa": "Ново-Позняки",
+    "nameRu": "Ново-Позняки"
+  },
+  {
+    "id": 699871,
+    "name": "Novaya Darnitsa",
+    "country": "UA",
+    "coord": {
+      "lon": 30.65,
+      "lat": 50.433334
+    },
+    "nameUa": "Нова Дарниця",
+    "nameRu": "Новая Дарница"
+  },
+  {
+    "id": 700396,
+    "name": "Nebilitsa",
+    "country": "UA",
+    "coord": {
+      "lon": 29.6,
+      "lat": 50.416668
+    },
+    "nameUa": "Небелиця",
+    "nameRu": "Небелица"
+  },
+  {
+    "id": 711527,
+    "name": "Nikita",
+    "country": "UA",
+    "coord": {
+      "lon": 34.233334,
+      "lat": 44.533333
+    },
+    "nameUa": "Нікіта",
+    "nameRu": "Никита"
+  },
+  {
+    "id": 699992,
+    "name": "Nizhniy Chorgun’",
+    "country": "UA",
+    "coord": {
+      "lon": 33.683334,
+      "lat": 44.533333
+    },
+    "nameUa": "Нижній Чоргун",
+    "nameRu": "Нижний Чоргун"
+  },
+  {
+    "id": 698866,
+    "name": "Novyi Svit",
+    "country": "UA",
+    "coord": {
+      "lon": 34.900002,
+      "lat": 44.816666
+    },
+    "nameUa": "Новий Світ",
+    "nameRu": "Новый Свет"
+  },
+  {
+    "id": 796898,
+    "name": "Novyy Koyash",
+    "country": "UA",
+    "coord": {
+      "lon": 36.228611,
+      "lat": 45.045555
+    },
+    "nameUa": "Новий Кояш",
+    "nameRu": "Новый Кояш"
+  },
+  {
+    "id": 700432,
+    "name": "Nasypne",
+    "country": "UA",
+    "coord": {
+      "lon": 35.283333,
+      "lat": 45.049999
+    },
+    "nameUa": "Насипне",
+    "nameRu": "Насыпное"
+  },
+  {
+    "id": 699550,
+    "name": "Novoivanivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.799999,
+      "lat": 45.450001
+    },
+    "nameUa": "Новоіванівка",
+    "nameRu": "Новоивановка"
+  },
+  {
+    "id": 699706,
+    "name": "Novooleksiyivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.642776,
+      "lat": 46.226944
+    },
+    "nameUa": "Новоолексіївка",
+    "nameRu": "Новоалексеевка"
+  },
+  {
+    "id": 699100,
+    "name": "Novotroyitske",
+    "country": "UA",
+    "coord": {
+      "lon": 34.332779,
+      "lat": 46.351112
+    },
+    "nameUa": "Новотроїцьке",
+    "nameRu": "Новотроицкое"
+  },
+  {
+    "id": 699657,
+    "name": "Novobohdanivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.327221,
+      "lat": 47.081944
+    },
+    "nameUa": "Новобогданівка",
+    "nameRu": "Новобогдановка"
+  },
+  {
+    "id": 699573,
+    "name": "Novo-Grigor’yevka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.316668,
+      "lat": 47.549999
+    },
+    "nameUa": "Новогригорівка",
+    "nameRu": "Новогригоровка"
+  },
+  {
+    "id": 700151,
+    "name": "Nikolayevka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.200001,
+      "lat": 47.783333
+    },
+    "nameUa": "Миколаївка",
+    "nameRu": "Николаевка"
+  },
+  {
+    "id": 700022,
+    "name": "Nizhnedneprovsk",
+    "country": "UA",
+    "coord": {
+      "lon": 35.066666,
+      "lat": 48.5
+    },
+    "nameUa": "Нижньоднiпровськ",
+    "nameRu": "Нижнеднепровск"
+  },
+  {
+    "id": 699445,
+    "name": "Novomoskovsk",
+    "country": "UA",
+    "coord": {
+      "lon": 35.200001,
+      "lat": 48.616669
+    },
+    "nameUa": "Новомосковськ",
+    "nameRu": "Новомосковск"
+  },
+  {
+    "id": 812803,
+    "name": "Nadtochiv",
+    "country": "UA",
+    "coord": {
+      "lon": 36.080132,
+      "lat": 49.968392
+    },
+    "nameUa": "Надточії",
+    "nameRu": "Надточии"
+  },
+  {
+    "id": 699406,
+    "name": "Novo-Nikolayevka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.275002,
+      "lat": 49.33028
+    },
+    "nameUa": "Паризьке",
+    "nameRu": "Парижское"
+  },
+  {
+    "id": 808841,
+    "name": "Novo Ivanovka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.340832,
+      "lat": 49.084438
+    },
+    "nameUa": "Ново-Іванівка",
+    "nameRu": "Ново-Ивановка"
+  },
+  {
+    "id": 700272,
+    "name": "Nestileyevka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.25,
+      "lat": 48.849998
+    },
+    "nameUa": "Нестеліївка",
+    "nameRu": "Нестелиевка"
+  },
+  {
+    "id": 699718,
+    "name": "Novo-Aleksandrovka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.200001,
+      "lat": 48.799999
+    },
+    "nameUa": "Новоолександрівка",
+    "nameRu": "Новоалександровка"
+  },
+  {
+    "id": 699562,
+    "name": "Novo-Grigor’yevka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.116669,
+      "lat": 48.73333
+    },
+    "nameUa": "Новогригорівка",
+    "nameRu": "Новогригоровка"
+  },
+  {
+    "id": 699967,
+    "name": "Nizhnyanka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.916672,
+      "lat": 48.666672
+    },
+    "nameUa": "Нижнянка",
+    "nameRu": "Нижнянка"
+  },
+  {
+    "id": 700201,
+    "name": "Nikiforovskiy",
+    "country": "UA",
+    "coord": {
+      "lon": 35.366669,
+      "lat": 47.916672
+    },
+    "nameUa": "Українка",
+    "nameRu": "Украинка"
+  },
+  {
+    "id": 699606,
+    "name": "Novofëdorovka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.316669,
+      "lat": 47.083328
+    },
+    "nameUa": "Новофедорівка",
+    "nameRu": "Новофёдоровка"
+  },
+  {
+    "id": 7048362,
+    "name": "Novoyefremivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.93766,
+      "lat": 46.478409
+    },
+    "nameUa": "Новоєфремівка",
+    "nameRu": "Новоефремовка"
+  },
+  {
+    "id": 7046674,
+    "name": "Novyy Trud",
+    "country": "UA",
+    "coord": {
+      "lon": 34.551159,
+      "lat": 46.07766
+    },
+    "nameUa": "Новий Труд",
+    "nameRu": "Новый Труд"
+  },
+  {
+    "id": 6981130,
+    "name": "Novoandriyivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.075611,
+      "lat": 45.21973
+    },
+    "nameUa": "Новоандріївка",
+    "nameRu": "Новоандреевка"
+  },
+  {
+    "id": 698873,
+    "name": "Novyy Sarabuz",
+    "country": "UA",
+    "coord": {
+      "lon": 34.033329,
+      "lat": 45.049999
+    },
+    "nameUa": "Укромне",
+    "nameRu": "Укромное"
+  },
+  {
+    "id": 700490,
+    "name": "Nagornoye",
+    "country": "UA",
+    "coord": {
+      "lon": 33.799999,
+      "lat": 44.799999
+    },
+    "nameUa": "Нагірне",
+    "nameRu": "Нагорное"
+  },
+  {
+    "id": 7021112,
+    "name": "Nyzhnya Holubynka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.911209,
+      "lat": 44.598068
+    },
+    "nameUa": "Нижня Голубинка",
+    "nameRu": "Нижняя Голубинка"
+  },
+  {
+    "id": 699989,
+    "name": "Nizhniye Partizany",
+    "country": "UA",
+    "coord": {
+      "lon": 34.083328,
+      "lat": 44.833328
+    },
+    "nameUa": "Партизанське",
+    "nameRu": "Партизанское"
+  },
+  {
+    "id": 699677,
+    "name": "Novoaydar",
+    "country": "UA",
+    "coord": {
+      "lon": 39.005829,
+      "lat": 48.963909
+    },
+    "nameUa": "Новоайдар",
+    "nameRu": "Новоайдар"
+  },
+  {
+    "id": 700019,
+    "name": "Nyzhnohirskyy",
+    "country": "UA",
+    "coord": {
+      "lon": 34.738392,
+      "lat": 45.447891
+    },
+    "nameUa": "Нижньогірський",
+    "nameRu": "Нижнегорский"
+  },
+  {
+    "id": 700051,
+    "name": "Nikopol",
+    "country": "UA",
+    "coord": {
+      "lon": 34.39637,
+      "lat": 47.57119
+    },
+    "nameUa": "Нікополь",
+    "nameRu": "Никополь"
+  },
+  {
+    "id": 699942,
+    "name": "Nizhyn",
+    "country": "UA",
+    "coord": {
+      "lon": 31.886881,
+      "lat": 51.048012
+    },
+    "nameUa": "Ніжин",
+    "nameRu": "Нежин"
+  },
+  {
+    "id": 700261,
+    "name": "Netishyn",
+    "country": "UA",
+    "coord": {
+      "lon": 26.64171,
+      "lat": 50.340038
+    },
+    "nameUa": "Нетішин",
+    "nameRu": "Нетешин"
+  },
+  {
+    "id": 700322,
+    "name": "Nemyriv",
+    "country": "UA",
+    "coord": {
+      "lon": 28.83779,
+      "lat": 48.97076
+    },
+    "nameUa": "Немирів",
+    "nameRu": "Немиров"
+  },
+  {
+    "id": 700500,
+    "name": "Nadychi",
+    "country": "UA",
+    "coord": {
+      "lon": 24.098597,
+      "lat": 49.976121
+    },
+    "nameUa": "Надичі",
+    "nameRu": "Надычи"
+  },
+  {
+    "id": 700507,
+    "name": "Nadvirna",
+    "country": "UA",
+    "coord": {
+      "lon": 24.569361,
+      "lat": 48.6348
+    },
+    "nameUa": "Надвірна",
+    "nameRu": "Надворная"
+  },
+  {
+    "id": 698949,
+    "name": "Novyy Chudnov",
+    "country": "UA",
+    "coord": {
+      "lon": 28.116671,
+      "lat": 50.049999
+    },
+    "nameUa": "Новий Чуднів",
+    "nameRu": "Новый Чуднов"
+  },
+  {
+    "id": 700079,
+    "name": "Nikolaypol’ye",
+    "country": "UA",
+    "coord": {
+      "lon": 37.558739,
+      "lat": 48.526958
+    },
+    "nameUa": "Миколайпілля",
+    "nameRu": "Николайполье"
+  },
+  {
+    "id": 699986,
+    "name": "Nyzhni Sirohozy",
+    "country": "UA",
+    "coord": {
+      "lon": 34.38044,
+      "lat": 46.848419
+    },
+    "nameUa": "Нижні Сірогози",
+    "nameRu": "Нижние Серогозы"
+  },
+  {
+    "id": 699329,
+    "name": "Novopokrovka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.60619,
+      "lat": 48.059181
+    },
+    "nameUa": "Новопокровка",
+    "nameRu": "Новопокровка"
+  },
+  {
+    "id": 829788,
+    "name": "Narkevychi",
+    "country": "UA",
+    "coord": {
+      "lon": 26.641781,
+      "lat": 49.51717
+    },
+    "nameUa": "Наркевичі",
+    "nameRu": "Наркевичи"
+  },
+  {
+    "id": 699034,
+    "name": "Novovorontsovka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.91748,
+      "lat": 47.500351
+    },
+    "nameUa": "Нововоронцовка",
+    "nameRu": "Нововоронцовка"
+  },
+  {
+    "id": 699035,
+    "name": "Novovolynsk",
+    "country": "UA",
+    "coord": {
+      "lon": 24.162649,
+      "lat": 50.725761
+    },
+    "nameUa": "Нововолинськ",
+    "nameRu": "Нововолынск"
+  },
+  {
+    "id": 700446,
+    "name": "Narodychi",
+    "country": "UA",
+    "coord": {
+      "lon": 29.082279,
+      "lat": 51.202862
+    },
+    "nameUa": "Народичі",
+    "nameRu": "Народичи"
+  },
+  {
+    "id": 699403,
+    "name": "Novo-Nikolayevskiy",
+    "country": "UA",
+    "coord": {
+      "lon": 37.316669,
+      "lat": 48.25
+    },
+    "nameUa": "Ново-Миколаївський",
+    "nameRu": "Ново-Николаевский"
+  },
+  {
+    "id": 699675,
+    "name": "Novoazovsk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.085991,
+      "lat": 47.113892
+    },
+    "nameUa": "Новоазовськ",
+    "nameRu": "Новоазовск"
+  },
+  {
+    "id": 699066,
+    "name": "Novo-Uspenka",
+    "country": "UA",
+    "coord": {
+      "lon": 39.216671,
+      "lat": 48.400002
+    },
+    "nameUa": "Ново-Успенка",
+    "nameRu": "Ново-Успенка"
+  },
+  {
+    "id": 699761,
+    "name": "Nove-Misto",
+    "country": "UA",
+    "coord": {
+      "lon": 29.828131,
+      "lat": 48.981129
+    },
+    "nameUa": "Нове Місто",
+    "nameRu": "Новое Мисто"
+  },
+  {
+    "id": 699453,
+    "name": "Novomyrhorod",
+    "country": "UA",
+    "coord": {
+      "lon": 31.64204,
+      "lat": 48.781052
+    },
+    "nameUa": "Новомиргород",
+    "nameRu": "Новомиргород"
+  },
+  {
+    "id": 699557,
+    "name": "Novogrodovka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.34153,
+      "lat": 48.202671
+    },
+    "nameUa": "Новогродівка",
+    "nameRu": "Новогродовка"
+  },
+  {
+    "id": 699311,
+    "name": "Novopskov",
+    "country": "UA",
+    "coord": {
+      "lon": 39.08987,
+      "lat": 49.546398
+    },
+    "nameUa": "Новопсков",
+    "nameRu": "Новопсков"
+  },
+  {
+    "id": 699777,
+    "name": "Nova Vodolaha",
+    "country": "UA",
+    "coord": {
+      "lon": 35.870781,
+      "lat": 49.718498
+    },
+    "nameUa": "Нова Водолага",
+    "nameRu": "Новая Водолага"
+  },
+  {
+    "id": 700273,
+    "name": "Nestervarka",
+    "country": "UA",
+    "coord": {
+      "lon": 28.86113,
+      "lat": 48.689751
+    },
+    "nameUa": "Нестерварка",
+    "nameRu": "Нестерварка"
+  },
+  {
+    "id": 699917,
+    "name": "Nosivka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.582821,
+      "lat": 50.931519
+    },
+    "nameUa": "Носівка",
+    "nameRu": "Носовка"
+  },
+  {
+    "id": 699553,
+    "name": "Novohrad-Volynskyy",
+    "country": "UA",
+    "coord": {
+      "lon": 27.616501,
+      "lat": 50.59412
+    },
+    "nameUa": "Новоград-Волинський",
+    "nameRu": "Новоград-Волынский"
+  },
+  {
+    "id": 699680,
+    "name": "Novoarkhanhelsk",
+    "country": "UA",
+    "coord": {
+      "lon": 30.818211,
+      "lat": 48.658031
+    },
+    "nameUa": "Новоархангельськ",
+    "nameRu": "Новоархангельск"
+  },
+  {
+    "id": 698953,
+    "name": "Novyy Buh",
+    "country": "UA",
+    "coord": {
+      "lon": 32.521599,
+      "lat": 47.693081
+    },
+    "nameUa": "Новий Буг",
+    "nameRu": "Новый Буг"
+  },
+  {
+    "id": 699078,
+    "name": "Novoukrayinka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.528521,
+      "lat": 48.326351
+    },
+    "nameUa": "Новоукраїнка",
+    "nameRu": "Новоукраинка"
+  },
+  {
+    "id": 699839,
+    "name": "Nova Kakhovka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.34864,
+      "lat": 46.754509
+    },
+    "nameUa": "Нова Каховка",
+    "nameRu": "Новая Каховка"
+  },
+  {
+    "id": 698840,
+    "name": "Nuyno",
+    "country": "UA",
+    "coord": {
+      "lon": 24.910179,
+      "lat": 51.54628
+    },
+    "nameUa": "Нуйно",
+    "nameRu": "Нуйно"
+  },
+  {
+    "id": 698852,
+    "name": "Novyy Yarychiv",
+    "country": "UA",
+    "coord": {
+      "lon": 24.305229,
+      "lat": 49.904442
+    },
+    "nameUa": "Новий Яричів",
+    "nameRu": "Новый Ярычев"
+  },
+  {
+    "id": 698861,
+    "name": "Novyy Svit",
+    "country": "UA",
+    "coord": {
+      "lon": 38.021118,
+      "lat": 47.805908
+    },
+    "nameUa": "Новий Світ",
+    "nameRu": "Новый Свет"
+  },
+  {
+    "id": 698865,
+    "name": "Novyy Svit",
+    "country": "UA",
+    "coord": {
+      "lon": 36.297371,
+      "lat": 45.477539
+    },
+    "nameUa": "Новий Світ",
+    "nameRu": "Новый Свет"
+  },
+  {
+    "id": 698869,
+    "name": "Novyy Starodub",
+    "country": "UA",
+    "coord": {
+      "lon": 33.17329,
+      "lat": 48.5158
+    },
+    "nameUa": "Новий Стародуб",
+    "nameRu": "Новый Стародуб"
+  },
+  {
+    "id": 698921,
+    "name": "Novi Troyany",
+    "country": "UA",
+    "coord": {
+      "lon": 28.856279,
+      "lat": 45.942749
+    },
+    "nameUa": "Нові Трояни",
+    "nameRu": "Новые Трояны"
+  },
+  {
+    "id": 698927,
+    "name": "Novi Sanzhary",
+    "country": "UA",
+    "coord": {
+      "lon": 34.310841,
+      "lat": 49.343948
+    },
+    "nameUa": "Нові Санжари",
+    "nameRu": "Новые Санжары"
+  },
+  {
+    "id": 698943,
+    "name": "Novi Bilokorovychi",
+    "country": "UA",
+    "coord": {
+      "lon": 28.05463,
+      "lat": 51.115479
+    },
+    "nameUa": "Нові Білокоровичі",
+    "nameRu": "Новые Белокоровичи"
+  },
+  {
+    "id": 699015,
+    "name": "Nove Davydkovo",
+    "country": "UA",
+    "coord": {
+      "lon": 22.621639,
+      "lat": 48.44133
+    },
+    "nameUa": "Нове Давидково",
+    "nameRu": "Новое Давыдково"
+  },
+  {
+    "id": 699061,
+    "name": "Novovasylivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.75362,
+      "lat": 46.831501
+    },
+    "nameUa": "Нововасилівка",
+    "nameRu": "Нововасилевка"
+  },
+  {
+    "id": 699272,
+    "name": "Novoselitsa",
+    "country": "UA",
+    "coord": {
+      "lon": 27.51955,
+      "lat": 50.070301
+    },
+    "nameUa": "Новоселиця",
+    "nameRu": "Новоселица"
+  },
+  {
+    "id": 699285,
+    "name": "Novoselytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 26.26531,
+      "lat": 48.219311
+    },
+    "nameUa": "Новоселиця",
+    "nameRu": "Новоселица"
+  },
+  {
+    "id": 699328,
+    "name": "Novopokrovka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.547729,
+      "lat": 49.842522
+    },
+    "nameUa": "Новопокровка",
+    "nameRu": "Новопокровка"
+  },
+  {
+    "id": 699410,
+    "name": "Novonikolayevka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.373989,
+      "lat": 48.556252
+    },
+    "nameUa": "Новомиколаївка",
+    "nameRu": "Новониколаевка"
+  },
+  {
+    "id": 699413,
+    "name": "Novomykolayivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.910198,
+      "lat": 47.9781
+    },
+    "nameUa": "Новомиколаївка",
+    "nameRu": "Новониколаевка"
+  },
+  {
+    "id": 699607,
+    "name": "Novofedorovka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.31781,
+      "lat": 46.17128
+    },
+    "nameUa": "Новофедорівка",
+    "nameRu": "Новофёдоровка"
+  },
+  {
+    "id": 699746,
+    "name": "Novytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 24.335421,
+      "lat": 48.963451
+    },
+    "nameUa": "Новиця",
+    "nameRu": "Новица"
+  },
+  {
+    "id": 699753,
+    "name": "Novhorod-Siverskyy",
+    "country": "UA",
+    "coord": {
+      "lon": 33.261501,
+      "lat": 52.005772
+    },
+    "nameUa": "Новгород-Сіверський",
+    "nameRu": "Новгород-Северский"
+  },
+  {
+    "id": 699756,
+    "name": "Novhorodka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.657848,
+      "lat": 48.365059
+    },
+    "nameUa": "Новгородка",
+    "nameRu": "Новгородка"
+  },
+  {
+    "id": 699802,
+    "name": "Nova Praha",
+    "country": "UA",
+    "coord": {
+      "lon": 32.902729,
+      "lat": 48.568211
+    },
+    "nameUa": "Нова Прага",
+    "nameRu": "Новая Прага"
+  },
+  {
+    "id": 699811,
+    "name": "Nova Odesa",
+    "country": "UA",
+    "coord": {
+      "lon": 31.785061,
+      "lat": 47.307781
+    },
+    "nameUa": "Нова Одеса",
+    "nameRu": "Новая Одесса"
+  },
+  {
+    "id": 699823,
+    "name": "Nova Mayachka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.22707,
+      "lat": 46.59996
+    },
+    "nameUa": "Нова Маячка",
+    "nameRu": "Новая Маячка"
+  },
+  {
+    "id": 699882,
+    "name": "Nova Borova",
+    "country": "UA",
+    "coord": {
+      "lon": 28.63446,
+      "lat": 50.692959
+    },
+    "nameUa": "Нова Борова",
+    "nameRu": "Новая Боровая"
+  },
+  {
+    "id": 699899,
+    "name": "Nova Ushytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 27.27434,
+      "lat": 48.837158
+    },
+    "nameUa": "Нова Ушиця",
+    "nameRu": "Новая Ушица"
+  },
+  {
+    "id": 699933,
+    "name": "Nyzy",
+    "country": "UA",
+    "coord": {
+      "lon": 34.784409,
+      "lat": 50.78281
+    },
+    "nameUa": "Низи",
+    "nameRu": "Низы"
+  },
+  {
+    "id": 699956,
+    "name": "Nizhnyaya Krynka",
+    "country": "UA",
+    "coord": {
+      "lon": 38.160641,
+      "lat": 48.113499
+    },
+    "nameUa": "Нижня Кринка",
+    "nameRu": "Нижняя Крынка"
+  },
+  {
+    "id": 699963,
+    "name": "Nyzhnya Duvanka",
+    "country": "UA",
+    "coord": {
+      "lon": 38.17429,
+      "lat": 49.584641
+    },
+    "nameUa": "Нижня Дуванка",
+    "nameRu": "Нижняя Дуванка"
+  },
+  {
+    "id": 700295,
+    "name": "Neresnytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 23.765881,
+      "lat": 48.118141
+    },
+    "nameUa": "Нересниця",
+    "nameRu": "Нересница"
+  },
+  {
+    "id": 700341,
+    "name": "Nelipyno",
+    "country": "UA",
+    "coord": {
+      "lon": 23.03146,
+      "lat": 48.561008
+    },
+    "nameUa": "Неліпино",
+    "nameRu": "Нелепино"
+  },
+  {
+    "id": 700371,
+    "name": "Nedryhayliv",
+    "country": "UA",
+    "coord": {
+      "lon": 33.876259,
+      "lat": 50.833981
+    },
+    "nameUa": "Недригайлів",
+    "nameRu": "Недригайлов"
+  },
+  {
+    "id": 700391,
+    "name": "Nebyliv",
+    "country": "UA",
+    "coord": {
+      "lon": 24.21657,
+      "lat": 48.815262
+    },
+    "nameUa": "Небилів",
+    "nameRu": "Небылов"
+  },
+  {
+    "id": 700410,
+    "name": "Navariya",
+    "country": "UA",
+    "coord": {
+      "lon": 23.92746,
+      "lat": 49.749519
+    },
+    "nameUa": "Наварія",
+    "nameRu": "Навария"
+  },
+  {
+    "id": 8224454,
+    "name": "Novyi Svit",
+    "country": "UA",
+    "coord": {
+      "lon": 34.91301,
+      "lat": 44.82988
+    },
+    "nameUa": "Новий Світ",
+    "nameRu": "Новый Свет"
+  }
+]

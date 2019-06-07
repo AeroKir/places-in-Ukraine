@@ -1,0 +1,695 @@
+[
+  {
+    "id": 690856,
+    "name": "Tyuzler",
+    "country": "UA",
+    "coord": {
+      "lon": 34.083332,
+      "lat": 44.466667
+    },
+    "nameUa": "Високогірне",
+    "nameRu": "Высокогорное"
+  },
+  {
+    "id": 690875,
+    "name": "Tysmenychany",
+    "country": "UA",
+    "coord": {
+      "lon": 24.66626,
+      "lat": 48.771679
+    },
+    "nameUa": "Тисменичани",
+    "nameRu": "Тысменичаны"
+  },
+  {
+    "id": 690890,
+    "name": "Tynnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 26.18486,
+      "lat": 50.601452
+    },
+    "nameUa": "Тинне",
+    "nameRu": "Тынное"
+  },
+  {
+    "id": 690985,
+    "name": "Turbiv",
+    "country": "UA",
+    "coord": {
+      "lon": 28.72117,
+      "lat": 49.347881
+    },
+    "nameUa": "Турбів",
+    "nameRu": "Турбов"
+  },
+  {
+    "id": 691019,
+    "name": "Tukhlya",
+    "country": "UA",
+    "coord": {
+      "lon": 23.47303,
+      "lat": 48.912182
+    },
+    "nameUa": "Тухля",
+    "nameRu": "Тухля"
+  },
+  {
+    "id": 691051,
+    "name": "Tsybulevka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.10288,
+      "lat": 48.387192
+    },
+    "nameUa": "Цибулівка",
+    "nameRu": "Цибулевка"
+  },
+  {
+    "id": 691052,
+    "name": "Tsybli",
+    "country": "UA",
+    "coord": {
+      "lon": 31.562811,
+      "lat": 49.994839
+    },
+    "nameUa": "Циблі",
+    "nameRu": "Цибли"
+  },
+  {
+    "id": 691184,
+    "name": "Trukhanov Ostrov",
+    "country": "UA",
+    "coord": {
+      "lon": 30.533333,
+      "lat": 50.466667
+    },
+    "nameUa": "Труханів острів",
+    "nameRu": "Труханов остров"
+  },
+  {
+    "id": 691919,
+    "name": "Tankove",
+    "country": "UA",
+    "coord": {
+      "lon": 33.816666,
+      "lat": 44.650002
+    },
+    "nameUa": "Танкове",
+    "nameRu": "Танковое"
+  },
+  {
+    "id": 691462,
+    "name": "Tole",
+    "country": "UA",
+    "coord": {
+      "lon": 33.816666,
+      "lat": 44.716667
+    },
+    "nameUa": "Дачне",
+    "nameRu": "Дачное"
+  },
+  {
+    "id": 690973,
+    "name": "Turhenyevka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.833332,
+      "lat": 44.700001
+    },
+    "nameUa": "Тургенєвка",
+    "nameRu": "Тургеневка"
+  },
+  {
+    "id": 691743,
+    "name": "Telichka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.566668,
+      "lat": 50.400002
+    },
+    "nameUa": "Теличка",
+    "nameRu": "Теличка"
+  },
+  {
+    "id": 691606,
+    "name": "Terny",
+    "country": "UA",
+    "coord": {
+      "lon": 33.983334,
+      "lat": 50.983334
+    },
+    "nameUa": "Терни",
+    "nameRu": "Терны"
+  },
+  {
+    "id": 706452,
+    "name": "Tylove",
+    "country": "UA",
+    "coord": {
+      "lon": 33.733334,
+      "lat": 44.433334
+    },
+    "nameUa": "Тилове",
+    "nameRu": "Тыловое"
+  },
+  {
+    "id": 691634,
+    "name": "Ternivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.75,
+      "lat": 44.583332
+    },
+    "nameUa": "Тернівка",
+    "nameRu": "Терновка"
+  },
+  {
+    "id": 826049,
+    "name": "Tsementna Slobidka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.468056,
+      "lat": 45.3325
+    },
+    "nameUa": "Цементна слобідка",
+    "nameRu": "Цементная слободка"
+  },
+  {
+    "id": 691469,
+    "name": "Tokmak",
+    "country": "UA",
+    "coord": {
+      "lon": 35.705833,
+      "lat": 47.251389
+    },
+    "nameUa": "Токмак",
+    "nameRu": "Токмак"
+  },
+  {
+    "id": 691630,
+    "name": "Ternovka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.333332,
+      "lat": 48.116669
+    },
+    "nameUa": "Тернівка",
+    "nameRu": "Терновка"
+  },
+  {
+    "id": 691649,
+    "name": "Ternopil’s’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 25.5,
+      "lat": 49.5
+    },
+    "nameUa": "Тернопільська область",
+    "nameRu": "Тернопольская область"
+  },
+  {
+    "id": 7020273,
+    "name": "Tymofiyivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.360882,
+      "lat": 45.659939
+    },
+    "nameUa": "Тимофіївка",
+    "nameRu": "Тимофеевка"
+  },
+  {
+    "id": 691064,
+    "name": "Tsvitkove",
+    "country": "UA",
+    "coord": {
+      "lon": 34.165859,
+      "lat": 45.31181
+    },
+    "nameUa": "Цвіткове",
+    "nameRu": "Цветково"
+  },
+  {
+    "id": 7040002,
+    "name": "Topoli",
+    "country": "UA",
+    "coord": {
+      "lon": 33.995129,
+      "lat": 44.841999
+    },
+    "nameUa": "Тополі",
+    "nameRu": "Тополи"
+  },
+  {
+    "id": 691679,
+    "name": "Terenair",
+    "country": "UA",
+    "coord": {
+      "lon": 34.26667,
+      "lat": 44.933331
+    },
+    "nameUa": "Теренаїр",
+    "nameRu": "Теренаир"
+  },
+  {
+    "id": 6983015,
+    "name": "Tretiy Samostriy",
+    "country": "UA",
+    "coord": {
+      "lon": 36.542801,
+      "lat": 45.366879
+    },
+    "nameUa": "Третій самострій",
+    "nameRu": "Третий самострой"
+  },
+  {
+    "id": 691650,
+    "name": "Ternopil",
+    "country": "UA",
+    "coord": {
+      "lon": 25.60556,
+      "lat": 49.555889
+    },
+    "nameUa": "Тернопіль",
+    "nameRu": "Тернополь"
+  },
+  {
+    "id": 691255,
+    "name": "Trostyanets",
+    "country": "UA",
+    "coord": {
+      "lon": 34.962978,
+      "lat": 50.478432
+    },
+    "nameUa": "Тростянець",
+    "nameRu": "Тростянец"
+  },
+  {
+    "id": 690906,
+    "name": "Tyachiv",
+    "country": "UA",
+    "coord": {
+      "lon": 23.57061,
+      "lat": 48.011799
+    },
+    "nameUa": "Тячів",
+    "nameRu": "Тячев"
+  },
+  {
+    "id": 691715,
+    "name": "Teofipol’",
+    "country": "UA",
+    "coord": {
+      "lon": 26.41433,
+      "lat": 49.838181
+    },
+    "nameUa": "Теофіполь",
+    "nameRu": "Теофиполь"
+  },
+  {
+    "id": 691705,
+    "name": "Teplogorsk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.591648,
+      "lat": 48.59877
+    },
+    "nameUa": "Ірміно",
+    "nameRu": "Ирмино"
+  },
+  {
+    "id": 691959,
+    "name": "Taburishche",
+    "country": "UA",
+    "coord": {
+      "lon": 33.25,
+      "lat": 49.049999
+    },
+    "nameUa": "Світловодськ",
+    "nameRu": "Светловодск"
+  },
+  {
+    "id": 691355,
+    "name": "Toshkovka",
+    "country": "UA",
+    "coord": {
+      "lon": 38.579029,
+      "lat": 48.77914
+    },
+    "nameUa": "Тошківка",
+    "nameRu": "Тошковка"
+  },
+  {
+    "id": 690960,
+    "name": "Turka",
+    "country": "UA",
+    "coord": {
+      "lon": 23.029671,
+      "lat": 49.15411
+    },
+    "nameUa": "Турка",
+    "nameRu": "Турка"
+  },
+  {
+    "id": 691374,
+    "name": "Torez",
+    "country": "UA",
+    "coord": {
+      "lon": 38.596851,
+      "lat": 48.038761
+    },
+    "nameUa": "Торез",
+    "nameRu": "Торез"
+  },
+  {
+    "id": 691741,
+    "name": "Tel’manove",
+    "country": "UA",
+    "coord": {
+      "lon": 38.024761,
+      "lat": 47.409939
+    },
+    "nameUa": "Тельманове",
+    "nameRu": "Тельманово"
+  },
+  {
+    "id": 691037,
+    "name": "Tsyurupynsk",
+    "country": "UA",
+    "coord": {
+      "lon": 32.718899,
+      "lat": 46.61842
+    },
+    "nameUa": "Олешки",
+    "nameRu": "Алёшки"
+  },
+  {
+    "id": 691293,
+    "name": "Troyits’ko-Khartsyz’k",
+    "country": "UA",
+    "coord": {
+      "lon": 38.264118,
+      "lat": 47.967918
+    },
+    "nameUa": "Троїцько-Харцизьк",
+    "nameRu": "Троицко-Харцызск"
+  },
+  {
+    "id": 865729,
+    "name": "Tavriys’k",
+    "country": "UA",
+    "coord": {
+      "lon": 33.418411,
+      "lat": 46.75285
+    },
+    "nameUa": "Таврійськ",
+    "nameRu": "Таврийск"
+  },
+  {
+    "id": 690873,
+    "name": "Tysmenytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 24.84482,
+      "lat": 48.902191
+    },
+    "nameUa": "Тисмениця",
+    "nameRu": "Тысменица"
+  },
+  {
+    "id": 865087,
+    "name": "Teplodar",
+    "country": "UA",
+    "coord": {
+      "lon": 30.325199,
+      "lat": 46.505852
+    },
+    "nameUa": "Теплодар",
+    "nameRu": "Теплодар"
+  },
+  {
+    "id": 691803,
+    "name": "Tatarbunary",
+    "country": "UA",
+    "coord": {
+      "lon": 29.614241,
+      "lat": 45.837311
+    },
+    "nameUa": "Татарбунари",
+    "nameRu": "Татарбунары"
+  },
+  {
+    "id": 691179,
+    "name": "Truskavets",
+    "country": "UA",
+    "coord": {
+      "lon": 23.50618,
+      "lat": 49.27837
+    },
+    "nameUa": "Трускавець",
+    "nameRu": "Трускавец"
+  },
+  {
+    "id": 690963,
+    "name": "Turiysk",
+    "country": "UA",
+    "coord": {
+      "lon": 24.52294,
+      "lat": 51.086441
+    },
+    "nameUa": "Турійськ",
+    "nameRu": "Турийск"
+  },
+  {
+    "id": 691497,
+    "name": "Tlumach",
+    "country": "UA",
+    "coord": {
+      "lon": 25.00325,
+      "lat": 48.864029
+    },
+    "nameUa": "Тлумач",
+    "nameRu": "Тлумач"
+  },
+  {
+    "id": 691693,
+    "name": "Terebovlya",
+    "country": "UA",
+    "coord": {
+      "lon": 25.70997,
+      "lat": 49.301868
+    },
+    "nameUa": "Теребовля",
+    "nameRu": "Теребовля"
+  },
+  {
+    "id": 691628,
+    "name": "Ternovka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.096748,
+      "lat": 48.519279
+    },
+    "nameUa": "Тернівка",
+    "nameRu": "Терновка"
+  },
+  {
+    "id": 691435,
+    "name": "Tomakivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.741371,
+      "lat": 47.815689
+    },
+    "nameUa": "Томаківка",
+    "nameRu": "Томаковка"
+  },
+  {
+    "id": 691526,
+    "name": "Tymoshivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.10881,
+      "lat": 47.184181
+    },
+    "nameUa": "Тимошівка",
+    "nameRu": "Тимошовка"
+  },
+  {
+    "id": 691016,
+    "name": "Tulchyn",
+    "country": "UA",
+    "coord": {
+      "lon": 28.846411,
+      "lat": 48.67448
+    },
+    "nameUa": "Тульчин",
+    "nameRu": "Тульчин"
+  },
+  {
+    "id": 691097,
+    "name": "Tsibulev",
+    "country": "UA",
+    "coord": {
+      "lon": 29.84726,
+      "lat": 49.079071
+    },
+    "nameUa": "Цибулів",
+    "nameRu": "Цибулев"
+  },
+  {
+    "id": 691155,
+    "name": "Tsarychanka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.4786,
+      "lat": 48.93697
+    },
+    "nameUa": "Царичанка",
+    "nameRu": "Царичанка"
+  },
+  {
+    "id": 691305,
+    "name": "Tripolye",
+    "country": "UA",
+    "coord": {
+      "lon": 30.78141,
+      "lat": 50.118019
+    },
+    "nameUa": "Трипілля",
+    "nameRu": "Триполье"
+  },
+  {
+    "id": 691336,
+    "name": "Trebukhiv",
+    "country": "UA",
+    "coord": {
+      "lon": 30.90304,
+      "lat": 50.484322
+    },
+    "nameUa": "Требухів",
+    "nameRu": "Требухов"
+  },
+  {
+    "id": 691444,
+    "name": "Tovste",
+    "country": "UA",
+    "coord": {
+      "lon": 25.72621,
+      "lat": 48.846619
+    },
+    "nameUa": "Товсте",
+    "nameRu": "Толстое"
+  },
+  {
+    "id": 691510,
+    "name": "Tyshkivka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.942289,
+      "lat": 48.496651
+    },
+    "nameUa": "Тишківка",
+    "nameRu": "Тишковка"
+  },
+  {
+    "id": 691578,
+    "name": "Tetiyiv",
+    "country": "UA",
+    "coord": {
+      "lon": 29.66474,
+      "lat": 49.376701
+    },
+    "nameUa": "Тетіїв",
+    "nameRu": "Тетиев"
+  },
+  {
+    "id": 691603,
+    "name": "Terpinnya",
+    "country": "UA",
+    "coord": {
+      "lon": 35.41972,
+      "lat": 46.969711
+    },
+    "nameUa": "Терпіння",
+    "nameRu": "Терпенье"
+  },
+  {
+    "id": 691639,
+    "name": "Ternuvate",
+    "country": "UA",
+    "coord": {
+      "lon": 36.127609,
+      "lat": 47.83049
+    },
+    "nameUa": "Тернувате",
+    "nameRu": "Терноватое"
+  },
+  {
+    "id": 691708,
+    "name": "Teplyk",
+    "country": "UA",
+    "coord": {
+      "lon": 29.745041,
+      "lat": 48.665661
+    },
+    "nameUa": "Теплик",
+    "nameRu": "Теплик"
+  },
+  {
+    "id": 691820,
+    "name": "Tarutyne",
+    "country": "UA",
+    "coord": {
+      "lon": 29.15056,
+      "lat": 46.185829
+    },
+    "nameUa": "Тарутине",
+    "nameRu": "Тарутино"
+  },
+  {
+    "id": 691904,
+    "name": "Tarashcha",
+    "country": "UA",
+    "coord": {
+      "lon": 30.49259,
+      "lat": 49.558319
+    },
+    "nameUa": "Тараща",
+    "nameRu": "Тараща"
+  },
+  {
+    "id": 691942,
+    "name": "Talalayivka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.920851,
+      "lat": 50.957829
+    },
+    "nameUa": "Талалаївка",
+    "nameRu": "Талалаевка"
+  },
+  {
+    "id": 704130,
+    "name": "Tatariv",
+    "country": "UA",
+    "coord": {
+      "lon": 24.57836,
+      "lat": 48.345581
+    },
+    "nameUa": "Татарів",
+    "nameRu": "Татаров"
+  },
+  {
+    "id": 865086,
+    "name": "Tayirove",
+    "country": "UA",
+    "coord": {
+      "lon": 30.648911,
+      "lat": 46.363129
+    },
+    "nameUa": "Таїрове",
+    "nameRu": "Таирово"
+  }
+]

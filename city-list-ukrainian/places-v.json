@@ -1,0 +1,1245 @@
+[
+  {
+    "id": 689552,
+    "name": "Vinogradnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.099998,
+      "lat": 44.483334
+    },
+    "nameUa": "Виноградне",
+    "nameRu": "Виноградное"
+  },
+  {
+    "id": 688717,
+    "name": "Vyshkovo",
+    "country": "UA",
+    "coord": {
+      "lon": 23.421129,
+      "lat": 48.04911
+    },
+    "nameUa": "Вишково",
+    "nameRu": "Вышково"
+  },
+  {
+    "id": 688749,
+    "name": "Vylok",
+    "country": "UA",
+    "coord": {
+      "lon": 22.83865,
+      "lat": 48.10915
+    },
+    "nameUa": "Вилок",
+    "nameRu": "Вилок"
+  },
+  {
+    "id": 688750,
+    "name": "Vylkove",
+    "country": "UA",
+    "coord": {
+      "lon": 29.585951,
+      "lat": 45.402142
+    },
+    "nameUa": "Вилкове",
+    "nameRu": "Вилково"
+  },
+  {
+    "id": 688805,
+    "name": "Vvedenka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.507469,
+      "lat": 49.824409
+    },
+    "nameUa": "Введенка",
+    "nameRu": "Введенка"
+  },
+  {
+    "id": 688846,
+    "name": "Vradiyivka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.591949,
+      "lat": 47.86195
+    },
+    "nameUa": "Врадіївка",
+    "nameRu": "Врадиевка"
+  },
+  {
+    "id": 688865,
+    "name": "Voznesenka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.464581,
+      "lat": 46.871651
+    },
+    "nameUa": "Вознесенка",
+    "nameRu": "Вознесенка"
+  },
+  {
+    "id": 688904,
+    "name": "Voykove",
+    "country": "UA",
+    "coord": {
+      "lon": 36.437241,
+      "lat": 45.38261
+    },
+    "nameUa": "Войкове",
+    "nameRu": "Войково"
+  },
+  {
+    "id": 688951,
+    "name": "Voskhod",
+    "country": "UA",
+    "coord": {
+      "lon": 36.414101,
+      "lat": 45.339199
+    },
+    "nameUa": "Восход",
+    "nameRu": "Восход"
+  },
+  {
+    "id": 688961,
+    "name": "Vorozhba",
+    "country": "UA",
+    "coord": {
+      "lon": 34.21917,
+      "lat": 51.17334
+    },
+    "nameUa": "Ворожба",
+    "nameRu": "Ворожба"
+  },
+  {
+    "id": 689003,
+    "name": "Voronovytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 28.68078,
+      "lat": 49.109539
+    },
+    "nameUa": "Вороновиця",
+    "nameRu": "Вороновица"
+  },
+  {
+    "id": 689106,
+    "name": "Volovets",
+    "country": "UA",
+    "coord": {
+      "lon": 23.185101,
+      "lat": 48.710899
+    },
+    "nameUa": "Воловець",
+    "nameRu": "Воловец"
+  },
+  {
+    "id": 689144,
+    "name": "Voloka",
+    "country": "UA",
+    "coord": {
+      "lon": 25.93074,
+      "lat": 48.192249
+    },
+    "nameUa": "Волока",
+    "nameRu": "Волока"
+  },
+  {
+    "id": 689190,
+    "name": "Volnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.813869,
+      "lat": 47.636459
+    },
+    "nameUa": "Вільне",
+    "nameRu": "Вольное"
+  },
+  {
+    "id": 689307,
+    "name": "Voyinka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.991379,
+      "lat": 45.8699
+    },
+    "nameUa": "Воїнка",
+    "nameRu": "Воинка"
+  },
+  {
+    "id": 689428,
+    "name": "Volodymyrets",
+    "country": "UA",
+    "coord": {
+      "lon": 26.14469,
+      "lat": 51.421299
+    },
+    "nameUa": "Володимирець",
+    "nameRu": "Владимирец"
+  },
+  {
+    "id": 689434,
+    "name": "Vyzhnytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 25.194521,
+      "lat": 48.248009
+    },
+    "nameUa": "Вижниця",
+    "nameRu": "Вижница"
+  },
+  {
+    "id": 689488,
+    "name": "Vyshneve",
+    "country": "UA",
+    "coord": {
+      "lon": 33.91618,
+      "lat": 48.436611
+    },
+    "nameUa": "Вишневе",
+    "nameRu": "Вишнёвое"
+  },
+  {
+    "id": 689531,
+    "name": "Vynohradove",
+    "country": "UA",
+    "coord": {
+      "lon": 32.9398,
+      "lat": 46.369572
+    },
+    "nameUa": "Виноградове",
+    "nameRu": "Виноградово"
+  },
+  {
+    "id": 689543,
+    "name": "Vynohradivka",
+    "country": "UA",
+    "coord": {
+      "lon": 28.571381,
+      "lat": 45.68119
+    },
+    "nameUa": "Виноградiвка",
+    "nameRu": "Виноградовка"
+  },
+  {
+    "id": 689595,
+    "name": "Viline",
+    "country": "UA",
+    "coord": {
+      "lon": 33.671612,
+      "lat": 44.8456
+    },
+    "nameUa": "Віліне",
+    "nameRu": "Вилино"
+  },
+  {
+    "id": 689736,
+    "name": "Vesele",
+    "country": "UA",
+    "coord": {
+      "lon": 34.915039,
+      "lat": 47.01479
+    },
+    "nameUa": "Веселе",
+    "nameRu": "Весёлое"
+  },
+  {
+    "id": 689817,
+    "name": "Verkhovyna",
+    "country": "UA",
+    "coord": {
+      "lon": 24.791121,
+      "lat": 48.155708
+    },
+    "nameUa": "Верховина",
+    "nameRu": "Верховина"
+  },
+  {
+    "id": 689830,
+    "name": "Verkhnyaya Syrovatka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.958611,
+      "lat": 50.829021
+    },
+    "nameUa": "Верхня Сироватка",
+    "nameRu": "Верхняя Сыроватка"
+  },
+  {
+    "id": 689834,
+    "name": "Verkhnya Rozhanka",
+    "country": "UA",
+    "coord": {
+      "lon": 23.51569,
+      "lat": 48.791851
+    },
+    "nameUa": "Верхня Рожанка",
+    "nameRu": "Верхняя Рожанка"
+  },
+  {
+    "id": 689857,
+    "name": "Verkhnyachka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.03957,
+      "lat": 48.828491
+    },
+    "nameUa": "Верхнячка",
+    "nameRu": "Верхнячка"
+  },
+  {
+    "id": 689860,
+    "name": "Verkhniy Yasenov",
+    "country": "UA",
+    "coord": {
+      "lon": 24.94532,
+      "lat": 48.16156
+    },
+    "nameUa": "Верхній Ясенів",
+    "nameRu": "Верхний Ясенов"
+  },
+  {
+    "id": 689868,
+    "name": "Verkhniy Rohachyk",
+    "country": "UA",
+    "coord": {
+      "lon": 34.337971,
+      "lat": 47.250542
+    },
+    "nameUa": "Верхній Рогачик",
+    "nameRu": "Верхний Рогачик"
+  },
+  {
+    "id": 689892,
+    "name": "Verkhneye Sinevidnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 23.59099,
+      "lat": 49.103069
+    },
+    "nameUa": "Верхнє Синьовидне",
+    "nameRu": "Верхнее Синевидное"
+  },
+  {
+    "id": 689945,
+    "name": "Verenchanka",
+    "country": "UA",
+    "coord": {
+      "lon": 25.745331,
+      "lat": 48.546532
+    },
+    "nameUa": "Веренчанка",
+    "nameRu": "Веренчанка"
+  },
+  {
+    "id": 690009,
+    "name": "Verbivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.533329,
+      "lat": 49.416672
+    },
+    "nameUa": "Вербівка",
+    "nameRu": "Вербовка"
+  },
+  {
+    "id": 690032,
+    "name": "Vendychany",
+    "country": "UA",
+    "coord": {
+      "lon": 27.79324,
+      "lat": 48.611759
+    },
+    "nameUa": "Вендичани",
+    "nameRu": "Вендичаны"
+  },
+  {
+    "id": 690035,
+    "name": "Velykoploske",
+    "country": "UA",
+    "coord": {
+      "lon": 29.671709,
+      "lat": 47.012539
+    },
+    "nameUa": "Великоплоске",
+    "nameRu": "Великоплоское"
+  },
+  {
+    "id": 690038,
+    "name": "Velyka Mykhaylivka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.851391,
+      "lat": 47.079441
+    },
+    "nameUa": "Велика Михайлівка",
+    "nameRu": "Великая Михайловка"
+  },
+  {
+    "id": 690132,
+    "name": "Velykyy Klyuchiv",
+    "country": "UA",
+    "coord": {
+      "lon": 24.946779,
+      "lat": 48.470921
+    },
+    "nameUa": "Великий Ключів",
+    "nameRu": "Великий Ключев"
+  },
+  {
+    "id": 690147,
+    "name": "Velikiye Sorochintsy",
+    "country": "UA",
+    "coord": {
+      "lon": 33.941441,
+      "lat": 50.02314
+    },
+    "nameUa": "Великі Сорочинці",
+    "nameRu": "Великие Сорочинцы"
+  },
+  {
+    "id": 690165,
+    "name": "Velyki Kopany",
+    "country": "UA",
+    "coord": {
+      "lon": 32.974979,
+      "lat": 46.486839
+    },
+    "nameUa": "Великі Копані",
+    "nameRu": "Великие Копани"
+  },
+  {
+    "id": 690184,
+    "name": "Velikiye Borki",
+    "country": "UA",
+    "coord": {
+      "lon": 25.75753,
+      "lat": 49.52364
+    },
+    "nameUa": "Великі Бірки",
+    "nameRu": "Великие Борки"
+  },
+  {
+    "id": 690193,
+    "name": "Velikiy Burluk",
+    "country": "UA",
+    "coord": {
+      "lon": 37.398708,
+      "lat": 50.037868
+    },
+    "nameUa": "Великий Бурлук",
+    "nameRu": "Великий Бурлук"
+  },
+  {
+    "id": 690230,
+    "name": "Velyka Pysarivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.48502,
+      "lat": 50.425869
+    },
+    "nameUa": "Велика Писарівка",
+    "nameRu": "Великая Писаревка"
+  },
+  {
+    "id": 690285,
+    "name": "Velyka Bahachka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.72258,
+      "lat": 49.791161
+    },
+    "nameUa": "Велика Багачка",
+    "nameRu": "Великая Багачка"
+  },
+  {
+    "id": 690428,
+    "name": "Vashkivtsi",
+    "country": "UA",
+    "coord": {
+      "lon": 25.510229,
+      "lat": 48.384918
+    },
+    "nameUa": "Вашківці",
+    "nameRu": "Вашковцы"
+  },
+  {
+    "id": 690434,
+    "name": "Vary",
+    "country": "UA",
+    "coord": {
+      "lon": 22.712811,
+      "lat": 48.12207
+    },
+    "nameUa": "Вари",
+    "nameRu": "Вары"
+  },
+  {
+    "id": 690485,
+    "name": "Vapnyarka",
+    "country": "UA",
+    "coord": {
+      "lon": 28.74358,
+      "lat": 48.53479
+    },
+    "nameUa": "Вапнярка",
+    "nameRu": "Вапнярка"
+  },
+  {
+    "id": 690017,
+    "name": "Verbany",
+    "country": "UA",
+    "coord": {
+      "lon": 30.01667,
+      "lat": 47
+    },
+    "nameUa": "Мигаї",
+    "nameRu": "Мигаи"
+  },
+  {
+    "id": 711743,
+    "name": "Velyke Sadove",
+    "country": "UA",
+    "coord": {
+      "lon": 33.833332,
+      "lat": 44.633331
+    },
+    "nameUa": "Велике Садове",
+    "nameRu": "Большое Садовое"
+  },
+  {
+    "id": 689037,
+    "name": "Vorokhta",
+    "country": "UA",
+    "coord": {
+      "lon": 24.571943,
+      "lat": 48.286945
+    },
+    "nameUa": "Ворохта",
+    "nameRu": "Ворохта"
+  },
+  {
+    "id": 688675,
+    "name": "Vysokoye",
+    "country": "UA",
+    "coord": {
+      "lon": 29.516666,
+      "lat": 50.383331
+    },
+    "nameUa": "Високе",
+    "nameRu": "Высокое"
+  },
+  {
+    "id": 688726,
+    "name": "Vyshegrad",
+    "country": "UA",
+    "coord": {
+      "lon": 29.933332,
+      "lat": 50.450001
+    },
+    "nameUa": "Вишеград",
+    "nameRu": "Вышеград"
+  },
+  {
+    "id": 689772,
+    "name": "Vesëloye",
+    "country": "UA",
+    "coord": {
+      "lon": 33.966667,
+      "lat": 45
+    },
+    "nameUa": "Веселе",
+    "nameRu": "Весёлое"
+  },
+  {
+    "id": 688952,
+    "name": "Voskhod",
+    "country": "UA",
+    "coord": {
+      "lon": 34.216667,
+      "lat": 44.516666
+    },
+    "nameUa": "Восход",
+    "nameRu": "Восход"
+  },
+  {
+    "id": 703518,
+    "name": "Verkhnya Kutuzovka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.366669,
+      "lat": 44.733334
+    },
+    "nameUa": "Верхня Кутузовка",
+    "nameRu": "Верхняя Кутузовка"
+  },
+  {
+    "id": 688817,
+    "name": "Vulkanivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.950001,
+      "lat": 45.150002
+    },
+    "nameUa": "Вулканівка",
+    "nameRu": "Вулкановка"
+  },
+  {
+    "id": 690398,
+    "name": "Vasil’yevka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.166668,
+      "lat": 44.516666
+    },
+    "nameUa": "Василівка",
+    "nameRu": "Васильевка"
+  },
+  {
+    "id": 689374,
+    "name": "Vladyslavivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.366669,
+      "lat": 45.166668
+    },
+    "nameUa": "Владиславівка",
+    "nameRu": "Владиславовка"
+  },
+  {
+    "id": 690466,
+    "name": "Varvarivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.900002,
+      "lat": 45.333332
+    },
+    "nameUa": "Варварівка",
+    "nameRu": "Варваровка"
+  },
+  {
+    "id": 690393,
+    "name": "Vasil’yevka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.583332,
+      "lat": 46.049999
+    },
+    "nameUa": "Василівка",
+    "nameRu": "Васильевка"
+  },
+  {
+    "id": 688681,
+    "name": "Vysoke",
+    "country": "UA",
+    "coord": {
+      "lon": 35.403889,
+      "lat": 47.231388
+    },
+    "nameUa": "Високе",
+    "nameRu": "Высокое"
+  },
+  {
+    "id": 686729,
+    "name": "Vasylivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.274166,
+      "lat": 47.436943
+    },
+    "nameUa": "Василівка",
+    "nameRu": "Васильевка"
+  },
+  {
+    "id": 688828,
+    "name": "Vuglyar",
+    "country": "UA",
+    "coord": {
+      "lon": 38.150002,
+      "lat": 48.016666
+    },
+    "nameUa": "Вугляр",
+    "nameRu": "Вугляр"
+  },
+  {
+    "id": 689304,
+    "name": "Vovchansk",
+    "country": "UA",
+    "coord": {
+      "lon": 36.946667,
+      "lat": 50.300278
+    },
+    "nameUa": "Вовчанськ",
+    "nameRu": "Волчанск"
+  },
+  {
+    "id": 688696,
+    "name": "Vysokyy",
+    "country": "UA",
+    "coord": {
+      "lon": 36.119999,
+      "lat": 49.89056
+    },
+    "nameUa": "Високий",
+    "nameRu": "Высокий"
+  },
+  {
+    "id": 808864,
+    "name": "Vasil’yevo-Grigor’yevskiy",
+    "country": "UA",
+    "coord": {
+      "lon": 36.509441,
+      "lat": 49.243061
+    },
+    "nameUa": "Бунакове",
+    "nameRu": "Бунаково"
+  },
+  {
+    "id": 690454,
+    "name": "Varvarovka",
+    "country": "UA",
+    "coord": {
+      "lon": 36,
+      "lat": 48.716671
+    },
+    "nameUa": "Варварівка",
+    "nameRu": "Варваровка"
+  },
+  {
+    "id": 689985,
+    "name": "Verbovatovka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.933331,
+      "lat": 48.683331
+    },
+    "nameUa": "Вербуватівка",
+    "nameRu": "Вербоватовка"
+  },
+  {
+    "id": 689997,
+    "name": "Verbki",
+    "country": "UA",
+    "coord": {
+      "lon": 35.900002,
+      "lat": 48.583328
+    },
+    "nameUa": "Вербки",
+    "nameRu": "Вербки"
+  },
+  {
+    "id": 690367,
+    "name": "Vasil’yevka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.5,
+      "lat": 48.033329
+    },
+    "nameUa": "Василівка",
+    "nameRu": "Васильевка"
+  },
+  {
+    "id": 689845,
+    "name": "Verkhnya Krynytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 35.279999,
+      "lat": 47.491669
+    },
+    "nameUa": "Верхня Криниця",
+    "nameRu": "Верхняя Криница"
+  },
+  {
+    "id": 690380,
+    "name": "Vasil’yevka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.299999,
+      "lat": 47.433331
+    },
+    "nameUa": "Василівка",
+    "nameRu": "Васильевка"
+  },
+  {
+    "id": 689482,
+    "name": "Vishnëvyy",
+    "country": "UA",
+    "coord": {
+      "lon": 35.333328,
+      "lat": 47.299999
+    },
+    "nameUa": "Вишнівка",
+    "nameRu": "Вишнёвка"
+  },
+  {
+    "id": 689416,
+    "name": "Volodymyrivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.151669,
+      "lat": 46.655281
+    },
+    "nameUa": "Володимирівка",
+    "nameRu": "Владимировка"
+  },
+  {
+    "id": 7021061,
+    "name": "Vitvyste",
+    "country": "UA",
+    "coord": {
+      "lon": 34.419579,
+      "lat": 45.791241
+    },
+    "nameUa": "Вітвисте",
+    "nameRu": "Ветвистое"
+  },
+  {
+    "id": 7019908,
+    "name": "Vidradne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.33712,
+      "lat": 45.606522
+    },
+    "nameUa": "Відрадне",
+    "nameRu": "Отрадное"
+  },
+  {
+    "id": 689738,
+    "name": "Vesele",
+    "country": "UA",
+    "coord": {
+      "lon": 34.318588,
+      "lat": 45.593929
+    },
+    "nameUa": "Веселе",
+    "nameRu": "Весёлое"
+  },
+  {
+    "id": 688826,
+    "name": "Vulino",
+    "country": "UA",
+    "coord": {
+      "lon": 33.650002,
+      "lat": 44.849998
+    },
+    "nameUa": "Віліне",
+    "nameRu": "Вилино"
+  },
+  {
+    "id": 698157,
+    "name": "Vidradne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.730942,
+      "lat": 44.859341
+    },
+    "nameUa": "Відрадне",
+    "nameRu": "Отрадное"
+  },
+  {
+    "id": 689905,
+    "name": "Verkhn’osadove",
+    "country": "UA",
+    "coord": {
+      "lon": 33.699791,
+      "lat": 44.689701
+    },
+    "nameUa": "Верхньосадове",
+    "nameRu": "Верхнесадовое"
+  },
+  {
+    "id": 689974,
+    "name": "Verbovka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.96711,
+      "lat": 48.997749
+    },
+    "nameUa": "Вербівка",
+    "nameRu": "Вербовка"
+  },
+  {
+    "id": 689064,
+    "name": "Volyns’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 25,
+      "lat": 51
+    },
+    "nameUa": "Волинська область",
+    "nameRu": "Волынская область"
+  },
+  {
+    "id": 688723,
+    "name": "Vyshhorod",
+    "country": "UA",
+    "coord": {
+      "lon": 30.489799,
+      "lat": 50.584759
+    },
+    "nameUa": "Вишгород",
+    "nameRu": "Вышгород"
+  },
+  {
+    "id": 689321,
+    "name": "Vodyane",
+    "country": "UA",
+    "coord": {
+      "lon": 34.492352,
+      "lat": 47.487461
+    },
+    "nameUa": "Водяне",
+    "nameRu": "Водяное"
+  },
+  {
+    "id": 689487,
+    "name": "Vyshneve",
+    "country": "UA",
+    "coord": {
+      "lon": 30.370501,
+      "lat": 50.38913
+    },
+    "nameUa": "Вишневе",
+    "nameRu": "Вишнёвое"
+  },
+  {
+    "id": 688746,
+    "name": "Vynohradiv",
+    "country": "UA",
+    "coord": {
+      "lon": 22.76667,
+      "lat": 48.150002
+    },
+    "nameUa": "Виноградів",
+    "nameRu": "Виноградов"
+  },
+  {
+    "id": 689559,
+    "name": "Vinnyts’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 29,
+      "lat": 49
+    },
+    "nameUa": "Вінницька область",
+    "nameRu": "Винницкая область"
+  },
+  {
+    "id": 690412,
+    "name": "Vasylkiv",
+    "country": "UA",
+    "coord": {
+      "lon": 30.313459,
+      "lat": 50.18692
+    },
+    "nameUa": "Васильків",
+    "nameRu": "Васильков"
+  },
+  {
+    "id": 689159,
+    "name": "Volochys’k",
+    "country": "UA",
+    "coord": {
+      "lon": 26.17185,
+      "lat": 49.5312
+    },
+    "nameUa": "Волочиськ",
+    "nameRu": "Волочиск"
+  },
+  {
+    "id": 689378,
+    "name": "Volodymyr-Volynskyy",
+    "country": "UA",
+    "coord": {
+      "lon": 24.323641,
+      "lat": 50.852531
+    },
+    "nameUa": "Володимир-Волинський",
+    "nameRu": "Владимир-Волынский"
+  },
+  {
+    "id": 689558,
+    "name": "Vinnytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 28.48097,
+      "lat": 49.23278
+    },
+    "nameUa": "Вінниця",
+    "nameRu": "Винница"
+  },
+  {
+    "id": 690288,
+    "name": "Velyka Oleksandrivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.30373,
+      "lat": 47.319691
+    },
+    "nameUa": "Велика Олександрівка",
+    "nameRu": "Великая Александровка"
+  },
+  {
+    "id": 690281,
+    "name": "Velyka Bilozerka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.706161,
+      "lat": 47.277561
+    },
+    "nameUa": "Велика Білозерка",
+    "nameRu": "Великая Белозёрка"
+  },
+  {
+    "id": 688689,
+    "name": "Vysokopillya",
+    "country": "UA",
+    "coord": {
+      "lon": 33.530609,
+      "lat": 47.491871
+    },
+    "nameUa": "Високопілля",
+    "nameRu": "Высокополье"
+  },
+  {
+    "id": 690509,
+    "name": "Valky",
+    "country": "UA",
+    "coord": {
+      "lon": 35.62072,
+      "lat": 49.83868
+    },
+    "nameUa": "Валки",
+    "nameRu": "Валки"
+  },
+  {
+    "id": 689198,
+    "name": "Volnovakha",
+    "country": "UA",
+    "coord": {
+      "lon": 37.496738,
+      "lat": 47.601028
+    },
+    "nameUa": "Волноваха",
+    "nameRu": "Волноваха"
+  },
+  {
+    "id": 690335,
+    "name": "Vasyshcheve",
+    "country": "UA",
+    "coord": {
+      "lon": 36.326908,
+      "lat": 49.828522
+    },
+    "nameUa": "Васищеве",
+    "nameRu": "Васищево"
+  },
+  {
+    "id": 689200,
+    "name": "Vil’nohirs’k",
+    "country": "UA",
+    "coord": {
+      "lon": 34.022968,
+      "lat": 48.485531
+    },
+    "nameUa": "Вільногірськ",
+    "nameRu": "Вольногорск"
+  },
+  {
+    "id": 690247,
+    "name": "Velyka Lepetykha",
+    "country": "UA",
+    "coord": {
+      "lon": 33.943619,
+      "lat": 47.17572
+    },
+    "nameUa": "Велика Лепетиха",
+    "nameRu": "Великая Лепетиха"
+  },
+  {
+    "id": 688663,
+    "name": "Vyshchetarasivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.880959,
+      "lat": 47.568501
+    },
+    "nameUa": "Вищетарасівка",
+    "nameRu": "Высшетарасовка"
+  },
+  {
+    "id": 690043,
+    "name": "Vel'ky Sevl'yush",
+    "country": "UA",
+    "coord": {
+      "lon": 22.76667,
+      "lat": 48.150002
+    },
+    "nameUa": "Вельке Севлюш",
+    "nameRu": "Вельке Севлюш"
+  },
+  {
+    "id": 689916,
+    "name": "Verkhn’odniprovs’k",
+    "country": "UA",
+    "coord": {
+      "lon": 34.334572,
+      "lat": 48.65242
+    },
+    "nameUa": "Верхньодніпровськ",
+    "nameRu": "Верхнеднепровск"
+  },
+  {
+    "id": 688956,
+    "name": "Vorzel",
+    "country": "UA",
+    "coord": {
+      "lon": 30.153049,
+      "lat": 50.544399
+    },
+    "nameUa": "Ворзель",
+    "nameRu": "Ворзель"
+  },
+  {
+    "id": 689584,
+    "name": "Vil’nyans’k",
+    "country": "UA",
+    "coord": {
+      "lon": 35.43539,
+      "lat": 47.94381
+    },
+    "nameUa": "Вільнянськ",
+    "nameRu": "Вольнянск"
+  },
+  {
+    "id": 690312,
+    "name": "Vatutine",
+    "country": "UA",
+    "coord": {
+      "lon": 31.062111,
+      "lat": 49.015018
+    },
+    "nameUa": "Ватутіне",
+    "nameRu": "Ватутино"
+  },
+  {
+    "id": 689157,
+    "name": "Volodarka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.91222,
+      "lat": 49.524841
+    },
+    "nameUa": "Володарка",
+    "nameRu": "Володарка"
+  },
+  {
+    "id": 688860,
+    "name": "Voznesensk",
+    "country": "UA",
+    "coord": {
+      "lon": 31.33078,
+      "lat": 47.564941
+    },
+    "nameUa": "Вознесенськ",
+    "nameRu": "Вознесенск"
+  },
+  {
+    "id": 689151,
+    "name": "Volodarskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 37.32346,
+      "lat": 47.206848
+    },
+    "nameUa": "Нікольське",
+    "nameRu": "Никольское"
+  },
+  {
+    "id": 690197,
+    "name": "Velikiy Berëznyy",
+    "country": "UA",
+    "coord": {
+      "lon": 22.46052,
+      "lat": 48.888309
+    },
+    "nameUa": "Великий Березний",
+    "nameRu": "Великий Березный"
+  },
+  {
+    "id": 688827,
+    "name": "Vugrinivka",
+    "country": "UA",
+    "coord": {
+      "lon": 27.950001,
+      "lat": 49.549999
+    },
+    "nameUa": "Хмільник",
+    "nameRu": "Хмельник"
+  },
+  {
+    "id": 689717,
+    "name": "Veselynove",
+    "country": "UA",
+    "coord": {
+      "lon": 31.23488,
+      "lat": 47.356659
+    },
+    "nameUa": "Веселинове",
+    "nameRu": "Веселиново"
+  },
+  {
+    "id": 690471,
+    "name": "Varshitsa",
+    "country": "UA",
+    "coord": {
+      "lon": 28.533331,
+      "lat": 49.466671
+    },
+    "nameUa": "Калинівка",
+    "nameRu": "Калиновка"
+  },
+  {
+    "id": 690469,
+    "name": "Varva",
+    "country": "UA",
+    "coord": {
+      "lon": 32.719681,
+      "lat": 50.495029
+    },
+    "nameUa": "Варва",
+    "nameRu": "Варва"
+  },
+  {
+    "id": 689025,
+    "name": "Voronezh",
+    "country": "UA",
+    "coord": {
+      "lon": 33.459438,
+      "lat": 51.775719
+    },
+    "nameUa": "Вороніж",
+    "nameRu": "Воронеж"
+  },
+  {
+    "id": 701299,
+    "name": "Volovo",
+    "country": "UA",
+    "coord": {
+      "lon": 23.50563,
+      "lat": 48.524578
+    },
+    "nameUa": "Міжгір'я",
+    "nameRu": "Межгорье"
+  },
+  {
+    "id": 710949,
+    "name": "Viytivka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.54291,
+      "lat": 48.426029
+    },
+    "nameUa": "Війтівка",
+    "nameRu": "Войтовка"
+  }
+]

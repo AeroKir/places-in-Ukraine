@@ -1,0 +1,73 @@
+{
+  "name": "city-list-ukrainian",
+  "version": "1.0.0",
+  "description": "Ukrainian cities data",
+  "main": "index.js",
+  "babel": {
+    "presets": [
+      "env",
+      "react"
+    ],
+    "plugins": [
+      "syntax-async-functions",
+      "transform-regenerator"
+    ]
+  },
+  "scripts": {
+    "test": "test",
+    "watch": "webpack --watch",
+    "start": "webpack-dev-server --open --config webpack.dev.js",
+    "server": "node server.js",
+    "build": "webpack --config webpack.prod.js --mode production"
+  },
+  "keywords": [
+    "Ukrainian",
+    "cities",
+    "Database"
+  ],
+  "author": "Kirill Shevtsov",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.1.2",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-syntax-async-functions": "^6.13.0",
+    "babel-plugin-transform-regenerator": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "cssnano": "^4.1.4",
+    "csv-loader": "^2.1.1",
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4",
+    "express": "^4.16.3",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "file-loader": "^1.1.11",
+    "file-saver": "^2.0.1",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "postcss-import": "^12.0.0",
+    "postcss-loader": "^3.0.0",
+    "postcss-preset-env": "^6.0.10",
+    "style-loader": "^0.21.0",
+    "sugarss": "^2.0.0",
+    "svg-url-loader": "^2.3.2",
+    "uglifyjs-webpack-plugin": "^1.2.5",
+    "url-loader": "^1.1.1",
+    "webpack": "^4.11.1",
+    "webpack-cli": "^3.0.3",
+    "webpack-dev-middleware": "^3.1.3",
+    "webpack-dev-server": "^3.1.4",
+    "webpack-hot-middleware": "^2.22.2",
+    "webpack-merge": "^4.1.2",
+    "xml-loader": "^1.2.1"
+  },
+  "dependencies": {
+    "leaflet": "^1.3.4"
+  }
+}

@@ -1,0 +1,838 @@
+[
+  {
+    "id": 709584,
+    "name": "Druzhba",
+    "country": "UA",
+    "coord": {
+      "lon": 33.945278,
+      "lat": 52.042778
+    },
+    "nameUa": "Дружба",
+    "nameRu": "Дружба"
+  },
+  {
+    "id": 709624,
+    "name": "Dravtse",
+    "country": "UA",
+    "coord": {
+      "lon": 22.333332,
+      "lat": 48.583332
+    },
+    "nameUa": "Дравці",
+    "nameRu": "Дравцы"
+  },
+  {
+    "id": 709930,
+    "name": "Dnipropetrovsk",
+    "country": "UA",
+    "coord": {
+      "lon": 34.98333,
+      "lat": 48.450001
+    },
+    "nameUa": "Дніпро",
+    "nameRu": "Днепр"
+  },
+  {
+    "id": 709716,
+    "name": "Donets’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 37.5,
+      "lat": 48
+    },
+    "nameUa": "Донецька область",
+    "nameRu": "Донецкая область"
+  },
+  {
+    "id": 709717,
+    "name": "Donetsk",
+    "country": "UA",
+    "coord": {
+      "lon": 37.799999,
+      "lat": 48
+    },
+    "nameUa": "Донецьк",
+    "nameRu": "Донецк"
+  },
+  {
+    "id": 710276,
+    "name": "Darnitsa",
+    "country": "UA",
+    "coord": {
+      "lon": 30.633333,
+      "lat": 50.433334
+    },
+    "nameUa": "Дарниця",
+    "nameRu": "Дарница"
+  },
+  {
+    "id": 709602,
+    "name": "Drovyanka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.099998,
+      "lat": 44.783333
+    },
+    "nameUa": "Дров'янка",
+    "nameRu": "Дровянка"
+  },
+  {
+    "id": 709681,
+    "name": "Doroshivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.858891,
+      "lat": 52.029167
+    },
+    "nameUa": "Дорошівка",
+    "nameRu": "Дорошовка"
+  },
+  {
+    "id": 709761,
+    "name": "Dolossy",
+    "country": "UA",
+    "coord": {
+      "lon": 34.200001,
+      "lat": 44.533333
+    },
+    "nameUa": "Совєтське",
+    "nameRu": "Советское"
+  },
+  {
+    "id": 710334,
+    "name": "Dachne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.983334,
+      "lat": 44.883331
+    },
+    "nameUa": "Дачне",
+    "nameRu": "Дачное"
+  },
+  {
+    "id": 710298,
+    "name": "Danilovka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.25,
+      "lat": 44.516666
+    },
+    "nameUa": "Данилівка",
+    "nameRu": "Даниловка"
+  },
+  {
+    "id": 710315,
+    "name": "Dal’niye Kamyshi",
+    "country": "UA",
+    "coord": {
+      "lon": 35.483334,
+      "lat": 45.116669
+    },
+    "nameUa": "Дальні Комиші",
+    "nameRu": "Дальние Камыши"
+  },
+  {
+    "id": 796931,
+    "name": "Dzhardzhava",
+    "country": "UA",
+    "coord": {
+      "lon": 36.417778,
+      "lat": 45.340557
+    },
+    "nameUa": "Джарджава",
+    "nameRu": "Джарджава"
+  },
+  {
+    "id": 709334,
+    "name": "Dzhankoy",
+    "country": "UA",
+    "coord": {
+      "lon": 34.400002,
+      "lat": 45.716667
+    },
+    "nameUa": "Джанкой",
+    "nameRu": "Джанкой"
+  },
+  {
+    "id": 709367,
+    "name": "Dymovka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.450001,
+      "lat": 45.700001
+    },
+    "nameUa": "Побєдне",
+    "nameRu": "Победное"
+  },
+  {
+    "id": 710013,
+    "name": "Dmitriyevka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.183334,
+      "lat": 46.700001
+    },
+    "nameUa": "Якимівка",
+    "nameRu": "Акимовка"
+  },
+  {
+    "id": 710299,
+    "name": "Danylo-Ivanivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.274723,
+      "lat": 46.746666
+    },
+    "nameUa": "Данило-Іванівка",
+    "nameRu": "Данило-Ивановка"
+  },
+  {
+    "id": 710189,
+    "name": "Demidovka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.25,
+      "lat": 47.766666
+    },
+    "nameUa": "Демидівка",
+    "nameRu": "Демидовка"
+  },
+  {
+    "id": 709929,
+    "name": "Dnipropetrovska Oblast'",
+    "country": "UA",
+    "coord": {
+      "lon": 35,
+      "lat": 48.5
+    },
+    "nameUa": "Дніпропетровська область",
+    "nameRu": "Днепропетровская область"
+  },
+  {
+    "id": 6723020,
+    "name": "Dal'nya Zhuravlivka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.272141,
+      "lat": 50.012501
+    },
+    "nameUa": "Журавлiвка",
+    "nameRu": "Журавлёвка"
+  },
+  {
+    "id": 710324,
+    "name": "Dalëkiy",
+    "country": "UA",
+    "coord": {
+      "lon": 35.283329,
+      "lat": 46.950001
+    },
+    "nameUa": "Далекий",
+    "nameRu": "Далёкий"
+  },
+  {
+    "id": 707592,
+    "name": "Dolyns’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 35.207218,
+      "lat": 46.77861
+    },
+    "nameUa": "Долинське",
+    "nameRu": "Долинское"
+  },
+  {
+    "id": 7048363,
+    "name": "Druzhba",
+    "country": "UA",
+    "coord": {
+      "lon": 34.994579,
+      "lat": 46.54496
+    },
+    "nameUa": "Дружба",
+    "nameRu": "Дружба"
+  },
+  {
+    "id": 709865,
+    "name": "Dobroye Utro",
+    "country": "UA",
+    "coord": {
+      "lon": 34.683331,
+      "lat": 46.283329
+    },
+    "nameUa": "Добрий Ранок",
+    "nameRu": "Доброе Утро"
+  },
+  {
+    "id": 7019906,
+    "name": "Dibrivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.32132,
+      "lat": 45.568619
+    },
+    "nameUa": "Дібрівка",
+    "nameRu": "Дубровка"
+  },
+  {
+    "id": 710297,
+    "name": "Danilovka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.299999,
+      "lat": 45.48333
+    },
+    "nameUa": "Данилівка",
+    "nameRu": "Даниловка"
+  },
+  {
+    "id": 709344,
+    "name": "Dzhaga-Mamysh",
+    "country": "UA",
+    "coord": {
+      "lon": 34.083328,
+      "lat": 45.183331
+    },
+    "nameUa": "Сухоріччя",
+    "nameRu": "Сухоречье"
+  },
+  {
+    "id": 709325,
+    "name": "Dzhefar-Berdy",
+    "country": "UA",
+    "coord": {
+      "lon": 34.283329,
+      "lat": 44.900002
+    },
+    "nameUa": "Дружне",
+    "nameRu": "Дружное"
+  },
+  {
+    "id": 710141,
+    "name": "Denysivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.22234,
+      "lat": 44.92186
+    },
+    "nameUa": "Денисівка",
+    "nameRu": "Денисовка"
+  },
+  {
+    "id": 6986279,
+    "name": "Druzhne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.290379,
+      "lat": 44.89592
+    },
+    "nameUa": "Дружне",
+    "nameRu": "Дружное"
+  },
+  {
+    "id": 616743,
+    "name": "Druzhkovka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.552589,
+      "lat": 48.630131
+    },
+    "nameUa": "Дружкiвка",
+    "nameRu": "Дружковка"
+  },
+  {
+    "id": 710098,
+    "name": "Derhachy",
+    "country": "UA",
+    "coord": {
+      "lon": 36.12112,
+      "lat": 50.10659
+    },
+    "nameUa": "Дергачі",
+    "nameRu": "Дергачи"
+  },
+  {
+    "id": 709932,
+    "name": "Dniprodzerzhynsk",
+    "country": "UA",
+    "coord": {
+      "lon": 34.6021,
+      "lat": 48.511341
+    },
+    "nameUa": "Кам‘янське",
+    "nameRu": "Каменское"
+  },
+  {
+    "id": 710129,
+    "name": "Derazhnya",
+    "country": "UA",
+    "coord": {
+      "lon": 27.433821,
+      "lat": 49.269199
+    },
+    "nameUa": "Деражня",
+    "nameRu": "Деражня"
+  },
+  {
+    "id": 709983,
+    "name": "Dmytrivka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.71645,
+      "lat": 48.796902
+    },
+    "nameUa": "Дмитрівка",
+    "nameRu": "Дмитровка"
+  },
+  {
+    "id": 710229,
+    "name": "Debaltsevo",
+    "country": "UA",
+    "coord": {
+      "lon": 38.4049,
+      "lat": 48.340721
+    },
+    "nameUa": "Дебальцеве",
+    "nameRu": "Дебальцево"
+  },
+  {
+    "id": 709373,
+    "name": "Dymer",
+    "country": "UA",
+    "coord": {
+      "lon": 30.302601,
+      "lat": 50.786469
+    },
+    "nameUa": "Димер",
+    "nameRu": "Дымер"
+  },
+  {
+    "id": 709296,
+    "name": "Dz’vinogrud",
+    "country": "UA",
+    "coord": {
+      "lon": 25.4,
+      "lat": 49.083328
+    },
+    "nameUa": "Звенигород",
+    "nameRu": "Звенигород"
+  },
+  {
+    "id": 709611,
+    "name": "Drogobych",
+    "country": "UA",
+    "coord": {
+      "lon": 23.50561,
+      "lat": 49.349911
+    },
+    "nameUa": "Дрогобич",
+    "nameRu": "Дрогобыч"
+  },
+  {
+    "id": 709540,
+    "name": "Dubno",
+    "country": "UA",
+    "coord": {
+      "lon": 25.73432,
+      "lat": 50.416939
+    },
+    "nameUa": "Дубно",
+    "nameRu": "Дубно"
+  },
+  {
+    "id": 709399,
+    "name": "Dvorichna",
+    "country": "UA",
+    "coord": {
+      "lon": 37.68568,
+      "lat": 49.849628
+    },
+    "nameUa": "Дворічна",
+    "nameRu": "Двуречная"
+  },
+  {
+    "id": 710041,
+    "name": "Dykanka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.52787,
+      "lat": 49.825008
+    },
+    "nameUa": "Диканька",
+    "nameRu": "Диканька"
+  },
+  {
+    "id": 710202,
+    "name": "Dilyatyn",
+    "country": "UA",
+    "coord": {
+      "lon": 24.62466,
+      "lat": 48.52354
+    },
+    "nameUa": "Делятин",
+    "nameRu": "Делятин"
+  },
+  {
+    "id": 709354,
+    "name": "Dzerzhynsk",
+    "country": "UA",
+    "coord": {
+      "lon": 37.84787,
+      "lat": 48.398689
+    },
+    "nameUa": "Торецьк",
+    "nameRu": "Торецк"
+  },
+  {
+    "id": 710020,
+    "name": "Dluga-Strona",
+    "country": "UA",
+    "coord": {
+      "lon": 24.633329,
+      "lat": 49.966671
+    },
+    "nameUa": "Буськ",
+    "nameRu": "Буск"
+  },
+  {
+    "id": 709429,
+    "name": "Dunaivtsi",
+    "country": "UA",
+    "coord": {
+      "lon": 26.856359,
+      "lat": 48.889091
+    },
+    "nameUa": "Дунаївці",
+    "nameRu": "Дунаевцы"
+  },
+  {
+    "id": 709547,
+    "name": "Dublyany",
+    "country": "UA",
+    "coord": {
+      "lon": 23.38718,
+      "lat": 49.498322
+    },
+    "nameUa": "Дубляни",
+    "nameRu": "Дубляны"
+  },
+  {
+    "id": 709755,
+    "name": "Dolyna",
+    "country": "UA",
+    "coord": {
+      "lon": 24.009439,
+      "lat": 48.973301
+    },
+    "nameUa": "Долина",
+    "nameRu": "Долина"
+  },
+  {
+    "id": 709493,
+    "name": "Dubrovytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 26.565029,
+      "lat": 51.574379
+    },
+    "nameUa": "Дубровиця",
+    "nameRu": "Дубровица"
+  },
+  {
+    "id": 709782,
+    "name": "Dolynska",
+    "country": "UA",
+    "coord": {
+      "lon": 32.764488,
+      "lat": 48.110409
+    },
+    "nameUa": "Долинська",
+    "nameRu": "Долинская"
+  },
+  {
+    "id": 709835,
+    "name": "Dokuchayevsk",
+    "country": "UA",
+    "coord": {
+      "lon": 37.67384,
+      "lat": 47.74773
+    },
+    "nameUa": "Докучаєвськ",
+    "nameRu": "Докучаевск"
+  },
+  {
+    "id": 709900,
+    "name": "Dobropolye",
+    "country": "UA",
+    "coord": {
+      "lon": 37.085239,
+      "lat": 48.461472
+    },
+    "nameUa": "Добропілля",
+    "nameRu": "Доброполье"
+  },
+  {
+    "id": 709960,
+    "name": "Dniprorudne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.976521,
+      "lat": 47.381691
+    },
+    "nameUa": "Дніпрорудне",
+    "nameRu": "Днепрорудное"
+  },
+  {
+    "id": 709295,
+    "name": "Dzvinogrud",
+    "country": "UA",
+    "coord": {
+      "lon": 24.25,
+      "lat": 49.73333
+    },
+    "nameUa": "Звенигород",
+    "nameRu": "Звенигород"
+  },
+  {
+    "id": 709450,
+    "name": "Duliby",
+    "country": "UA",
+    "coord": {
+      "lon": 23.815319,
+      "lat": 49.231339
+    },
+    "nameUa": "Дуліби",
+    "nameRu": "Дулибы"
+  },
+  {
+    "id": 709465,
+    "name": "Dudchany",
+    "country": "UA",
+    "coord": {
+      "lon": 33.763901,
+      "lat": 47.18557
+    },
+    "nameUa": "Дудчани",
+    "nameRu": "Дудчаны"
+  },
+  {
+    "id": 709516,
+    "name": "Dubove",
+    "country": "UA",
+    "coord": {
+      "lon": 23.88954,
+      "lat": 48.17205
+    },
+    "nameUa": "Дубове",
+    "nameRu": "Дубовое"
+  },
+  {
+    "id": 709546,
+    "name": "Dublyany",
+    "country": "UA",
+    "coord": {
+      "lon": 24.08637,
+      "lat": 49.90411
+    },
+    "nameUa": "Дубляни",
+    "nameRu": "Дубляны"
+  },
+  {
+    "id": 709587,
+    "name": "Druzhba",
+    "country": "UA",
+    "coord": {
+      "lon": 25.45055,
+      "lat": 49.042511
+    },
+    "nameUa": "Трибухівці",
+    "nameRu": "Трибуховцы"
+  },
+  {
+    "id": 709630,
+    "name": "Drahovo",
+    "country": "UA",
+    "coord": {
+      "lon": 23.549141,
+      "lat": 48.235729
+    },
+    "nameUa": "Драгово",
+    "nameRu": "Драгово"
+  },
+  {
+    "id": 709643,
+    "name": "Drabiv",
+    "country": "UA",
+    "coord": {
+      "lon": 32.152908,
+      "lat": 49.96302
+    },
+    "nameUa": "Драбів",
+    "nameRu": "Драбов"
+  },
+  {
+    "id": 709665,
+    "name": "Dovbysh",
+    "country": "UA",
+    "coord": {
+      "lon": 27.987419,
+      "lat": 50.373322
+    },
+    "nameUa": "Довбиш",
+    "nameRu": "Довбыш"
+  },
+  {
+    "id": 709740,
+    "name": "Domanivka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.98852,
+      "lat": 47.63192
+    },
+    "nameUa": "Доманівка",
+    "nameRu": "Доманёвка"
+  },
+  {
+    "id": 709808,
+    "name": "Dovhe",
+    "country": "UA",
+    "coord": {
+      "lon": 23.279039,
+      "lat": 48.365269
+    },
+    "nameUa": "Довге",
+    "nameRu": "Долгое"
+  },
+  {
+    "id": 709856,
+    "name": "Dobryanka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.185671,
+      "lat": 52.063141
+    },
+    "nameUa": "Добрянка",
+    "nameRu": "Добрянка"
+  },
+  {
+    "id": 709869,
+    "name": "Dobre",
+    "country": "UA",
+    "coord": {
+      "lon": 34.226608,
+      "lat": 44.866322
+    },
+    "nameUa": "Добре",
+    "nameRu": "Доброе"
+  },
+  {
+    "id": 709940,
+    "name": "Dnipryany",
+    "country": "UA",
+    "coord": {
+      "lon": 33.272881,
+      "lat": 46.746311
+    },
+    "nameUa": "Дніпряни",
+    "nameRu": "Днепряны"
+  },
+  {
+    "id": 709954,
+    "name": "Dniprovka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.61805,
+      "lat": 47.429451
+    },
+    "nameUa": "Дніпровка",
+    "nameRu": "Днепровка"
+  },
+  {
+    "id": 710007,
+    "name": "Dmytrivka",
+    "country": "UA",
+    "coord": {
+      "lon": 38.936611,
+      "lat": 47.936111
+    },
+    "nameUa": "Дмитрівка",
+    "nameRu": "Дмитровка"
+  },
+  {
+    "id": 710032,
+    "name": "Dymytrove",
+    "country": "UA",
+    "coord": {
+      "lon": 32.983471,
+      "lat": 48.60767
+    },
+    "nameUa": "Олександрійське",
+    "nameRu": "Александрийское"
+  },
+  {
+    "id": 710033,
+    "name": "Dmytrivka",
+    "country": "UA",
+    "coord": {
+      "lon": 28.986389,
+      "lat": 45.971668
+    },
+    "nameUa": "Дмитрівка",
+    "nameRu": "Дмитровка"
+  },
+  {
+    "id": 710071,
+    "name": "Desna",
+    "country": "UA",
+    "coord": {
+      "lon": 30.760481,
+      "lat": 50.927311
+    },
+    "nameUa": "Десна",
+    "nameRu": "Десна"
+  },
+  {
+    "id": 710214,
+    "name": "Degtyari",
+    "country": "UA",
+    "coord": {
+      "lon": 32.770119,
+      "lat": 50.582642
+    },
+    "nameUa": "Дігтярі",
+    "nameRu": "Дегтяри"
+  },
+  {
+    "id": 710243,
+    "name": "Davydivka",
+    "country": "UA",
+    "coord": {
+      "lon": 25.56461,
+      "lat": 48.120991
+    },
+    "nameUa": "Давидівка",
+    "nameRu": "Давыдовка"
+  },
+  {
+    "id": 710260,
+    "name": "Dashev",
+    "country": "UA",
+    "coord": {
+      "lon": 29.425591,
+      "lat": 49.00449
+    },
+    "nameUa": "Дашів",
+    "nameRu": "Дашев"
+  },
+  {
+    "id": 7280677,
+    "name": "Denyshi",
+    "country": "UA",
+    "coord": {
+      "lon": 28.40395,
+      "lat": 50.214149
+    },
+    "nameUa": "Дениші",
+    "nameRu": "Дениши"
+  }
+]

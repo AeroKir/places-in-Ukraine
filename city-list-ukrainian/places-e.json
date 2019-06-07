@@ -1,0 +1,46 @@
+[
+  {
+    "id": 709267,
+    "name": "Eski Yurt",
+    "country": "UA",
+    "coord": {
+      "lon": 34.900002,
+      "lat": 44.950001
+    },
+    "nameUa": "Ескі-Юрт",
+    "nameRu": "Эски-Юрт"
+  },
+  {
+    "id": 709273,
+    "name": "Eriklik",
+    "country": "UA",
+    "coord": {
+      "lon": 34.133331,
+      "lat": 44.466671
+    },
+    "nameUa": "Гірне",
+    "nameRu": "Горное"
+  },
+  {
+    "id": 709276,
+    "name": "Energodar",
+    "country": "UA",
+    "coord": {
+      "lon": 34.657398,
+      "lat": 47.49865
+    },
+    "nameUa": "Енергодар",
+    "nameRu": "Энергодар"
+  },
+  {
+    "id": 709270,
+    "name": "Eskhar",
+    "country": "UA",
+    "coord": {
+      "lon": 36.58831,
+      "lat": 49.79866
+    },
+    "nameUa": "Есхар",
+    "nameRu": "Эсхар"
+  }
+]

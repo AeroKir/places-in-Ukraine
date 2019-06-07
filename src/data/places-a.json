@@ -1,0 +1,508 @@
+[
+  {
+    "id": 713514,
+    "name": "Alupka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.049999,
+      "lat": 44.416668
+    },
+    "nameUa": "Алупка",
+    "nameRu": "Алупка"
+  },
+  {
+    "id": 703883,
+    "name": "Avtonomna Respublika Krym",
+    "country": "UA",
+    "coord": {
+      "lon": 34,
+      "lat": 45
+    },
+    "nameUa": "Автономна Республіка Крим",
+    "nameRu": "Автономная Республика Крым"
+  },
+  {
+    "id": 713772,
+    "name": "Aeroflots’kyy",
+    "country": "UA",
+    "coord": {
+      "lon": 34.033333,
+      "lat": 45.016666
+    },
+    "nameUa": "Аерофлотський",
+    "nameRu": "Аэрофлотский"
+  },
+  {
+    "id": 713163,
+    "name": "Artsyz",
+    "country": "UA",
+    "coord": {
+      "lon": 29.41824,
+      "lat": 45.99194
+    },
+    "nameUa": "Арциз",
+    "nameRu": "Арциз"
+  },
+  {
+    "id": 713101,
+    "name": "Avtozavodskiy Rayon",
+    "country": "UA",
+    "coord": {
+      "lon": 33.416672,
+      "lat": 49.066669
+    },
+    "nameUa": "Автозаводський район",
+    "nameRu": "Автозаводской район"
+  },
+  {
+    "id": 713150,
+    "name": "Asport",
+    "country": "UA",
+    "coord": {
+      "lon": 34.25,
+      "lat": 44.716667
+    },
+    "nameUa": "Аспорт",
+    "nameRu": "Аспорт"
+  },
+  {
+    "id": 713746,
+    "name": "Akikat",
+    "country": "UA",
+    "coord": {
+      "lon": 35.066666,
+      "lat": 44.916668
+    },
+    "nameUa": "Акікат",
+    "nameRu": "Акикат"
+  },
+  {
+    "id": 687388,
+    "name": "Arpat",
+    "country": "UA",
+    "coord": {
+      "lon": 34.716667,
+      "lat": 44.866669
+    },
+    "nameUa": "Арпат",
+    "nameRu": "Арпат"
+  },
+  {
+    "id": 713520,
+    "name": "Alsu",
+    "country": "UA",
+    "coord": {
+      "lon": 33.716667,
+      "lat": 44.516666
+    },
+    "nameUa": "Алсу",
+    "nameRu": "Алсу"
+  },
+  {
+    "id": 713191,
+    "name": "Artek",
+    "country": "UA",
+    "coord": {
+      "lon": 34.302878,
+      "lat": 44.556159
+    },
+    "nameUa": "Артек",
+    "nameRu": "Артек"
+  },
+  {
+    "id": 713513,
+    "name": "Alushta",
+    "country": "UA",
+    "coord": {
+      "lon": 34.410124,
+      "lat": 44.676649
+    },
+    "nameUa": "Алушта",
+    "nameRu": "Алушта"
+  },
+  {
+    "id": 697958,
+    "name": "Adzhymushkay",
+    "country": "UA",
+    "coord": {
+      "lon": 36.523609,
+      "lat": 45.387222
+    },
+    "nameUa": "Аджи-Мушкай",
+    "nameRu": "Аджи-Мушкай"
+  },
+  {
+    "id": 713204,
+    "name": "Armutluk",
+    "country": "UA",
+    "coord": {
+      "lon": 35.166668,
+      "lat": 44.983334
+    },
+    "nameUa": "Армутлук",
+    "nameRu": "Армутлук"
+  },
+  {
+    "id": 713076,
+    "name": "Ayvazovskaya",
+    "country": "UA",
+    "coord": {
+      "lon": 35.383331,
+      "lat": 45.049999
+    },
+    "nameUa": "Айвазовська",
+    "nameRu": "Айвазовская"
+  },
+  {
+    "id": 710413,
+    "name": "Ataman’",
+    "country": "UA",
+    "coord": {
+      "lon": 34.5,
+      "lat": 46.016666
+    },
+    "nameUa": "Атамань",
+    "nameRu": "Атамань"
+  },
+  {
+    "id": 713135,
+    "name": "Atestovo",
+    "country": "UA",
+    "coord": {
+      "lon": 30.549999,
+      "lat": 46.633331
+    },
+    "nameUa": "Алтестове",
+    "nameRu": "Алтестово"
+  },
+  {
+    "id": 713760,
+    "name": "Ageyevka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.299999,
+      "lat": 47.916668
+    },
+    "nameUa": "Агеївка",
+    "nameRu": "Агеевка"
+  },
+  {
+    "id": 713698,
+    "name": "Aleksandro-Grigor’yevka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.75,
+      "lat": 48.049999
+    },
+    "nameUa": "Олександро-Григорівка",
+    "nameRu": "Александро-Григорьевка"
+  },
+  {
+    "id": 713142,
+    "name": "Ataki",
+    "country": "UA",
+    "coord": {
+      "lon": 26.483334,
+      "lat": 48.533333
+    },
+    "nameUa": "Атаки",
+    "nameRu": "Атаки"
+  },
+  {
+    "id": 713178,
+    "name": "Artemovka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.041672,
+      "lat": 49.840561
+    },
+    "nameUa": "Артемівка",
+    "nameRu": "Артемовка"
+  },
+  {
+    "id": 706811,
+    "name": "Arbuzivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.332851,
+      "lat": 45.627071
+    },
+    "nameUa": "Арбузівка",
+    "nameRu": "Арбузовка"
+  },
+  {
+    "id": 713505,
+    "name": "Amurs’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 34.14159,
+      "lat": 45.290138
+    },
+    "nameUa": "Амурське",
+    "nameRu": "Амурское"
+  },
+  {
+    "id": 713724,
+    "name": "Alabash Konrat",
+    "country": "UA",
+    "coord": {
+      "lon": 34.133331,
+      "lat": 45.26667
+    },
+    "nameUa": "Алабаш-Конрат",
+    "nameRu": "Алабаш-Конрат"
+  },
+  {
+    "id": 7040021,
+    "name": "Aromatne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.868141,
+      "lat": 44.801441
+    },
+    "nameUa": "Ароматне",
+    "nameRu": "Ароматное"
+  },
+  {
+    "id": 7021138,
+    "name": "Aromat",
+    "country": "UA",
+    "coord": {
+      "lon": 33.940498,
+      "lat": 44.577511
+    },
+    "nameUa": "Аромат",
+    "nameRu": "Аромат"
+  },
+  {
+    "id": 713099,
+    "name": "Ayans’ke Dzherelo",
+    "country": "UA",
+    "coord": {
+      "lon": 34.28706,
+      "lat": 44.827229
+    },
+    "nameUa": "Аянське джерело",
+    "nameRu": "Аянский источник"
+  },
+  {
+    "id": 713154,
+    "name": "Askaniya Nova",
+    "country": "UA",
+    "coord": {
+      "lon": 33.868889,
+      "lat": 46.451351
+    },
+    "nameUa": "Асканія-Нова",
+    "nameRu": "Аскания-Нова"
+  },
+  {
+    "id": 713716,
+    "name": "Alchevsk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.816689,
+      "lat": 48.468929
+    },
+    "nameUa": "Алчевськ",
+    "nameRu": "Алчевск"
+  },
+  {
+    "id": 713171,
+    "name": "Artëmovskiy Rayon",
+    "country": "UA",
+    "coord": {
+      "lon": 39.333328,
+      "lat": 48.566669
+    },
+    "nameUa": "Артемівський район",
+    "nameRu": "Артемовский район"
+  },
+  {
+    "id": 713175,
+    "name": "Artëmovsk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.731998,
+      "lat": 48.440609
+    },
+    "nameUa": "Кипуче",
+    "nameRu": "Кипучее"
+  },
+  {
+    "id": 713126,
+    "name": "Auly",
+    "country": "UA",
+    "coord": {
+      "lon": 34.49493,
+      "lat": 48.527081
+    },
+    "nameUa": "Аули",
+    "nameRu": "Аулы"
+  },
+  {
+    "id": 713122,
+    "name": "Avdeyevka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.74255,
+      "lat": 48.139889
+    },
+    "nameUa": "Авдіївка",
+    "nameRu": "Авдеевка"
+  },
+  {
+    "id": 713245,
+    "name": "Apostolove",
+    "country": "UA",
+    "coord": {
+      "lon": 33.713692,
+      "lat": 47.66003
+    },
+    "nameUa": "Апостолове",
+    "nameRu": "Апостолово"
+  },
+  {
+    "id": 713259,
+    "name": "Antratsit",
+    "country": "UA",
+    "coord": {
+      "lon": 39.091282,
+      "lat": 48.115028
+    },
+    "nameUa": "Антрацит",
+    "nameRu": "Антрацит"
+  },
+  {
+    "id": 713203,
+    "name": "Armyansk",
+    "country": "UA",
+    "coord": {
+      "lon": 33.692059,
+      "lat": 46.109192
+    },
+    "nameUa": "Армянськ",
+    "nameRu": "Армянск"
+  },
+  {
+    "id": 713544,
+    "name": "Alekseyevo-Druzhkovka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.609409,
+      "lat": 48.57909
+    },
+    "nameUa": "Олексієво-Дружківка",
+    "nameRu": "Алексеево-Дружковка"
+  },
+  {
+    "id": 713174,
+    "name": "Artemivsk",
+    "country": "UA",
+    "coord": {
+      "lon": 37.99987,
+      "lat": 48.595589
+    },
+    "nameUa": "Бахмут",
+    "nameRu": "Бахмут"
+  },
+  {
+    "id": 713504,
+    "name": "Amvrosiyivka",
+    "country": "UA",
+    "coord": {
+      "lon": 38.47768,
+      "lat": 47.79348
+    },
+    "nameUa": "Амвросіївка",
+    "nameRu": "Амвросиевка"
+  },
+  {
+    "id": 713500,
+    "name": "Anan’yiv",
+    "country": "UA",
+    "coord": {
+      "lon": 29.966351,
+      "lat": 47.720081
+    },
+    "nameUa": "Ананьїв",
+    "nameRu": "Ананьев"
+  },
+  {
+    "id": 713634,
+    "name": "Aleksandrovka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.301449,
+      "lat": 48.724491
+    },
+    "nameUa": "Олександрівка",
+    "nameRu": "Александровка"
+  },
+  {
+    "id": 713709,
+    "name": "Aleksandrinka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.681931,
+      "lat": 47.77874
+    },
+    "nameUa": "Олександрінка",
+    "nameRu": "Александринка"
+  },
+  {
+    "id": 713222,
+    "name": "Arbuzynka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.31963,
+      "lat": 47.909721
+    },
+    "nameUa": "Арбузинка",
+    "nameRu": "Арбузинка"
+  },
+  {
+    "id": 713316,
+    "name": "Antoniny",
+    "country": "UA",
+    "coord": {
+      "lon": 26.87714,
+      "lat": 49.809738
+    },
+    "nameUa": "Антоніни",
+    "nameRu": "Антонины"
+  },
+  {
+    "id": 713389,
+    "name": "Andrushivka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.020229,
+      "lat": 50.022881
+    },
+    "nameUa": "Андрушівка",
+    "nameRu": "Андрушёвка"
+  },
+  {
+    "id": 713676,
+    "name": "Aleksandrovka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.761162,
+      "lat": 46.838261
+    },
+    "nameUa": "Олександрівка",
+    "nameRu": "Александровка"
+  },
+  {
+    "id": 713784,
+    "name": "Adzhamka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.535419,
+      "lat": 48.542439
+    },
+    "nameUa": "Аджамка",
+    "nameRu": "Аджамка"
+  }
+]

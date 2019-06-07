@@ -1,0 +1,1333 @@
+[
+  {
+    "id": 697959,
+    "name": "Partyzans’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 34.083332,
+      "lat": 44.833332
+    },
+    "nameUa": "Партизанське",
+    "nameRu": "Партизанское"
+  },
+  {
+    "id": 696234,
+    "name": "Privol’noye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.333332,
+      "lat": 44.783333
+    },
+    "nameUa": "Привільне",
+    "nameRu": "Привольное"
+  },
+  {
+    "id": 696877,
+    "name": "Podol",
+    "country": "UA",
+    "coord": {
+      "lon": 30.516666,
+      "lat": 50.466667
+    },
+    "nameUa": "Поділ",
+    "nameRu": "Подол"
+  },
+  {
+    "id": 697960,
+    "name": "Partizanskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34,
+      "lat": 44.75
+    },
+    "nameUa": "Партизанське",
+    "nameRu": "Партизанское"
+  },
+  {
+    "id": 696050,
+    "name": "Pushcha-Voditsa",
+    "country": "UA",
+    "coord": {
+      "lon": 30.5,
+      "lat": 50.450001
+    },
+    "nameUa": "Пуща-Водиця",
+    "nameRu": "Пуща-Водица"
+  },
+  {
+    "id": 696359,
+    "name": "Predmostnaya",
+    "country": "UA",
+    "coord": {
+      "lon": 30.583332,
+      "lat": 50.433334
+    },
+    "nameUa": "Передмостова слобідка",
+    "nameRu": "Предмостная слободка"
+  },
+  {
+    "id": 697652,
+    "name": "Perevalivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.983334,
+      "lat": 44.966667
+    },
+    "nameUa": "Перевалівка",
+    "nameRu": "Переваловка"
+  },
+  {
+    "id": 697811,
+    "name": "Pcholyne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.549999,
+      "lat": 44.933334
+    },
+    "nameUa": "Пчолине",
+    "nameRu": "Пчелиное"
+  },
+  {
+    "id": 696377,
+    "name": "Poznyaki",
+    "country": "UA",
+    "coord": {
+      "lon": 30.616667,
+      "lat": 50.400002
+    },
+    "nameUa": "Позняки",
+    "nameRu": "Позняки"
+  },
+  {
+    "id": 697418,
+    "name": "Petropavlovskaya Borshchagovka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.333332,
+      "lat": 50.433334
+    },
+    "nameUa": "Петропавлівська Борщагівка",
+    "nameRu": "Петропавловская Борщаговка"
+  },
+  {
+    "id": 696961,
+    "name": "Pidhirne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.816666,
+      "lat": 44.450001
+    },
+    "nameUa": "Підгірне",
+    "nameRu": "Подгорное"
+  },
+  {
+    "id": 696310,
+    "name": "Prigorodnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 33.599998,
+      "lat": 44.516666
+    },
+    "nameUa": "Пригородне",
+    "nameRu": "Пригородное"
+  },
+  {
+    "id": 697653,
+    "name": "Perevalnoe",
+    "country": "UA",
+    "coord": {
+      "lon": 34.333332,
+      "lat": 44.833332
+    },
+    "nameUa": "Перевальне",
+    "nameRu": "Перевальное"
+  },
+  {
+    "id": 696309,
+    "name": "Prigorodnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.150002,
+      "lat": 44.950001
+    },
+    "nameUa": "Пригородне",
+    "nameRu": "Пригородное"
+  },
+  {
+    "id": 697114,
+    "name": "Plavni",
+    "country": "UA",
+    "coord": {
+      "lon": 35.900002,
+      "lat": 45.383331
+    },
+    "nameUa": "Плавні",
+    "nameRu": "Плавни"
+  },
+  {
+    "id": 696471,
+    "name": "Portove",
+    "country": "UA",
+    "coord": {
+      "lon": 33.483334,
+      "lat": 45.849998
+    },
+    "nameUa": "Портове",
+    "nameRu": "Портовое"
+  },
+  {
+    "id": 709075,
+    "name": "Partenit",
+    "country": "UA",
+    "coord": {
+      "lon": 34.344635,
+      "lat": 44.577995
+    },
+    "nameUa": "Партеніт",
+    "nameRu": "Партенит"
+  },
+  {
+    "id": 696945,
+    "name": "Pidhorodne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.866669,
+      "lat": 44.766666
+    },
+    "nameUa": "Підгородне",
+    "nameRu": "Подгородное"
+  },
+  {
+    "id": 697530,
+    "name": "Pishchane",
+    "country": "UA",
+    "coord": {
+      "lon": 33.599998,
+      "lat": 44.849998
+    },
+    "nameUa": "Піщане",
+    "nameRu": "Песчаное"
+  },
+  {
+    "id": 697624,
+    "name": "Perove",
+    "country": "UA",
+    "coord": {
+      "lon": 34.066666,
+      "lat": 44.933334
+    },
+    "nameUa": "Перове",
+    "nameRu": "Перово"
+  },
+  {
+    "id": 696313,
+    "name": "Prydorozhnye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.450001,
+      "lat": 45.799999
+    },
+    "nameUa": "Придорожнє",
+    "nameRu": "Придорожное"
+  },
+  {
+    "id": 697957,
+    "name": "Partyzany",
+    "country": "UA",
+    "coord": {
+      "lon": 34.750278,
+      "lat": 46.33139
+    },
+    "nameUa": "Рикове",
+    "nameRu": "Рыково"
+  },
+  {
+    "id": 696740,
+    "name": "Pokrovka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.700001,
+      "lat": 46.483334
+    },
+    "nameUa": "Покровка",
+    "nameRu": "Покровка"
+  },
+  {
+    "id": 696722,
+    "name": "Pokrovs’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 31.633333,
+      "lat": 46.533333
+    },
+    "nameUa": "Покровське",
+    "nameRu": "Покровское"
+  },
+  {
+    "id": 696010,
+    "name": "Putilovka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.75,
+      "lat": 48.033333
+    },
+    "nameUa": "Путилівка",
+    "nameRu": "Путиловка"
+  },
+  {
+    "id": 697859,
+    "name": "Pavlovka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.349998,
+      "lat": 48.233334
+    },
+    "nameUa": "Павлівка",
+    "nameRu": "Павловка"
+  },
+  {
+    "id": 696317,
+    "name": "Pridneprovsk",
+    "country": "UA",
+    "coord": {
+      "lon": 35.116669,
+      "lat": 48.400002
+    },
+    "nameUa": "Придніпровськ",
+    "nameRu": "Приднепровск"
+  },
+  {
+    "id": 697536,
+    "name": "Peschanka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.299999,
+      "lat": 48.599998
+    },
+    "nameUa": "Піщанка",
+    "nameRu": "Песчанка"
+  },
+  {
+    "id": 696071,
+    "name": "Pudlovtsy",
+    "country": "UA",
+    "coord": {
+      "lon": 26.549999,
+      "lat": 48.716667
+    },
+    "nameUa": "Пудлівці",
+    "nameRu": "Пудловцы"
+  },
+  {
+    "id": 696743,
+    "name": "Pokotylivka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.177219,
+      "lat": 49.915279
+    },
+    "nameUa": "Покотилівка",
+    "nameRu": "Покотиловка"
+  },
+  {
+    "id": 697488,
+    "name": "Pesochin",
+    "country": "UA",
+    "coord": {
+      "lon": 36.101391,
+      "lat": 49.956669
+    },
+    "nameUa": "Пісочин",
+    "nameRu": "Песочин"
+  },
+  {
+    "id": 697135,
+    "name": "Pivdenne",
+    "country": "UA",
+    "coord": {
+      "lon": 36.07,
+      "lat": 49.88139
+    },
+    "nameUa": "Південне",
+    "nameRu": "Южный"
+  },
+  {
+    "id": 808926,
+    "name": "Privol’ye",
+    "country": "UA",
+    "coord": {
+      "lon": 36.346939,
+      "lat": 49.107498
+    },
+    "nameUa": "Привілля",
+    "nameRu": "Приволье"
+  },
+  {
+    "id": 696628,
+    "name": "Poltavskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 36.263123,
+      "lat": 49.010796
+    },
+    "nameUa": "Полтавське",
+    "nameRu": "Полтавское"
+  },
+  {
+    "id": 698003,
+    "name": "Panyutyne",
+    "country": "UA",
+    "coord": {
+      "lon": 36.283329,
+      "lat": 48.933331
+    },
+    "nameUa": "Панютине",
+    "nameRu": "Панютино"
+  },
+  {
+    "id": 696278,
+    "name": "Prymors’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 35.285,
+      "lat": 47.617779
+    },
+    "nameUa": "Приморське",
+    "nameRu": "Приморское"
+  },
+  {
+    "id": 696262,
+    "name": "Pryshyb",
+    "country": "UA",
+    "coord": {
+      "lon": 35.322781,
+      "lat": 47.260281
+    },
+    "nameUa": "Пришиб",
+    "nameRu": "Пришиб"
+  },
+  {
+    "id": 697244,
+    "name": "Pikalovka",
+    "country": "UA",
+    "coord": {
+      "lon": 35,
+      "lat": 46.533329
+    },
+    "nameUa": "Пикалівка",
+    "nameRu": "Пикаловка"
+  },
+  {
+    "id": 691160,
+    "name": "Pushkine",
+    "country": "UA",
+    "coord": {
+      "lon": 34.30534,
+      "lat": 45.538559
+    },
+    "nameUa": "Пушкіне",
+    "nameRu": "Пушкино"
+  },
+  {
+    "id": 7018275,
+    "name": "Poltavka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.18388,
+      "lat": 45.351109
+    },
+    "nameUa": "Полтавка",
+    "nameRu": "Полтавка"
+  },
+  {
+    "id": 6974516,
+    "name": "Pryyatne Svidannya",
+    "country": "UA",
+    "coord": {
+      "lon": 34.00095,
+      "lat": 44.850368
+    },
+    "nameUa": "Приятне Свідання",
+    "nameRu": "Приятное Свидание"
+  },
+  {
+    "id": 696999,
+    "name": "Poshtove",
+    "country": "UA",
+    "coord": {
+      "lon": 33.95446,
+      "lat": 44.831108
+    },
+    "nameUa": "Поштове",
+    "nameRu": "Почтовое"
+  },
+  {
+    "id": 7040140,
+    "name": "Pyrohivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.725811,
+      "lat": 44.68391
+    },
+    "nameUa": "Пироговка",
+    "nameRu": "Пироговка"
+  },
+  {
+    "id": 697889,
+    "name": "Pavlohrad",
+    "country": "UA",
+    "coord": {
+      "lon": 35.866669,
+      "lat": 48.51667
+    },
+    "nameUa": "Павлоград",
+    "nameRu": "Павлоград"
+  },
+  {
+    "id": 696240,
+    "name": "Pryvitne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.679031,
+      "lat": 44.817371
+    },
+    "nameUa": "Привітне",
+    "nameRu": "Приветное"
+  },
+  {
+    "id": 7021056,
+    "name": "Pavlivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.77359,
+      "lat": 44.450031
+    },
+    "nameUa": "Павлівка",
+    "nameRu": "Павловка"
+  },
+  {
+    "id": 696677,
+    "name": "Polohy",
+    "country": "UA",
+    "coord": {
+      "lon": 36.253609,
+      "lat": 47.48444
+    },
+    "nameUa": "Пологи",
+    "nameRu": "Пологи"
+  },
+  {
+    "id": 696634,
+    "name": "Poltavs’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 34,
+      "lat": 49.5
+    },
+    "nameUa": "Полтавська область",
+    "nameRu": "Полтавская область"
+  },
+  {
+    "id": 697107,
+    "name": "Plenenfel’d",
+    "country": "UA",
+    "coord": {
+      "lon": 35.566669,
+      "lat": 47.51667
+    },
+    "nameUa": "Плененфельд",
+    "nameRu": "Плененфельд"
+  },
+  {
+    "id": 697628,
+    "name": "Perkovtsy",
+    "country": "UA",
+    "coord": {
+      "lon": 26.65056,
+      "lat": 48.447472
+    },
+    "nameUa": "Перківці",
+    "nameRu": "Перковцы"
+  },
+  {
+    "id": 696643,
+    "name": "Poltava",
+    "country": "UA",
+    "coord": {
+      "lon": 34.54073,
+      "lat": 49.593731
+    },
+    "nameUa": "Полтава",
+    "nameRu": "Полтава"
+  },
+  {
+    "id": 697994,
+    "name": "Paraskoveyevka",
+    "country": "UA",
+    "coord": {
+      "lon": 38.002048,
+      "lat": 48.66296
+    },
+    "nameUa": "Парасковіївка",
+    "nameRu": "Парасковиевка"
+  },
+  {
+    "id": 696660,
+    "name": "Polonne",
+    "country": "UA",
+    "coord": {
+      "lon": 27.51087,
+      "lat": 50.124241
+    },
+    "nameUa": "Полонне",
+    "nameRu": "Полонное"
+  },
+  {
+    "id": 696943,
+    "name": "Pidhorodne",
+    "country": "UA",
+    "coord": {
+      "lon": 35.1068,
+      "lat": 48.575279
+    },
+    "nameUa": "Підгородне",
+    "nameRu": "Подгородное"
+  },
+  {
+    "id": 697692,
+    "name": "Peremyshlyany",
+    "country": "UA",
+    "coord": {
+      "lon": 24.55846,
+      "lat": 49.66523
+    },
+    "nameUa": "Перемишляни",
+    "nameRu": "Перемышляны"
+  },
+  {
+    "id": 696280,
+    "name": "Primorskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 37.692661,
+      "lat": 47.174358
+    },
+    "nameUa": "Сартана",
+    "nameRu": "Сартана"
+  },
+  {
+    "id": 696032,
+    "name": "Pustomyty",
+    "country": "UA",
+    "coord": {
+      "lon": 23.912951,
+      "lat": 49.715321
+    },
+    "nameUa": "Пустомити",
+    "nameRu": "Пустомыты"
+  },
+  {
+    "id": 697593,
+    "name": "Pervomaysk",
+    "country": "UA",
+    "coord": {
+      "lon": 30.850731,
+      "lat": 48.044331
+    },
+    "nameUa": "Первомайськ",
+    "nameRu": "Первомайск"
+  },
+  {
+    "id": 696292,
+    "name": "Prymorsk",
+    "country": "UA",
+    "coord": {
+      "lon": 36.34425,
+      "lat": 46.734791
+    },
+    "nameUa": "Приморськ",
+    "nameRu": "Приморск"
+  },
+  {
+    "id": 696108,
+    "name": "Pryluky",
+    "country": "UA",
+    "coord": {
+      "lon": 32.387611,
+      "lat": 50.593239
+    },
+    "nameUa": "Прилуки",
+    "nameRu": "Прилуки"
+  },
+  {
+    "id": 697650,
+    "name": "Perevalsk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.843842,
+      "lat": 48.43779
+    },
+    "nameUa": "Перевальськ",
+    "nameRu": "Перевальск"
+  },
+  {
+    "id": 697979,
+    "name": "Parizhskaya Kommuna",
+    "country": "UA",
+    "coord": {
+      "lon": 38.816669,
+      "lat": 48.433331
+    },
+    "nameUa": "Паризька Комуна",
+    "nameRu": "Парижская Коммуна"
+  },
+  {
+    "id": 696542,
+    "name": "Popova",
+    "country": "UA",
+    "coord": {
+      "lon": 33.833328,
+      "lat": 51.200001
+    },
+    "nameUa": "Буринь",
+    "nameRu": "Бурынь"
+  },
+  {
+    "id": 697637,
+    "name": "Pereyaslav-Khmelnytskyy",
+    "country": "UA",
+    "coord": {
+      "lon": 31.4795,
+      "lat": 50.087681
+    },
+    "nameUa": "Переяслав-Хмельницький",
+    "nameRu": "Переяслав-Хмельницкий"
+  },
+  {
+    "id": 696823,
+    "name": "Pidvolochys’k",
+    "country": "UA",
+    "coord": {
+      "lon": 26.145849,
+      "lat": 49.534721
+    },
+    "nameUa": "Підволочиськ",
+    "nameRu": "Подволочиск"
+  },
+  {
+    "id": 696008,
+    "name": "Putyvl",
+    "country": "UA",
+    "coord": {
+      "lon": 33.870659,
+      "lat": 51.337448
+    },
+    "nameUa": "Путивль",
+    "nameRu": "Путивль"
+  },
+  {
+    "id": 697750,
+    "name": "Perechyn",
+    "country": "UA",
+    "coord": {
+      "lon": 22.466669,
+      "lat": 48.73333
+    },
+    "nameUa": "Перечин",
+    "nameRu": "Перечин"
+  },
+  {
+    "id": 696332,
+    "name": "Pryazovs’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 35.642509,
+      "lat": 46.734261
+    },
+    "nameUa": "Приазовське",
+    "nameRu": "Приазовское"
+  },
+  {
+    "id": 698006,
+    "name": "Panteleymonovka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.974281,
+      "lat": 48.201809
+    },
+    "nameUa": "Пантелеймонівка",
+    "nameRu": "Пантелеймоновка"
+  },
+  {
+    "id": 697196,
+    "name": "Pirogovichi",
+    "country": "UA",
+    "coord": {
+      "lon": 29.97946,
+      "lat": 50.986778
+    },
+    "nameUa": "Пироговичі",
+    "nameRu": "Пироговичи"
+  },
+  {
+    "id": 697576,
+    "name": "Pervomays’kyy",
+    "country": "UA",
+    "coord": {
+      "lon": 36.21471,
+      "lat": 49.387421
+    },
+    "nameUa": "Первомайський",
+    "nameRu": "Первомайский"
+  },
+  {
+    "id": 697276,
+    "name": "Petrovskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 38.878922,
+      "lat": 48.296619
+    },
+    "nameUa": "Петровське",
+    "nameRu": "Петровское"
+  },
+  {
+    "id": 697592,
+    "name": "Pervomaysk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.548061,
+      "lat": 48.629879
+    },
+    "nameUa": "Первомайськ",
+    "nameRu": "Первомайск"
+  },
+  {
+    "id": 696136,
+    "name": "Protsevka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.471161,
+      "lat": 50.768452
+    },
+    "nameUa": "Процівка",
+    "nameRu": "Процевка"
+  },
+  {
+    "id": 695965,
+    "name": "Piatykhatky",
+    "country": "UA",
+    "coord": {
+      "lon": 33.71056,
+      "lat": 48.41333
+    },
+    "nameUa": "П'ятихатки",
+    "nameRu": "Пятихатки"
+  },
+  {
+    "id": 696566,
+    "name": "Popasnaya",
+    "country": "UA",
+    "coord": {
+      "lon": 38.37804,
+      "lat": 48.633282
+    },
+    "nameUa": "Попасна",
+    "nameRu": "Попасная"
+  },
+  {
+    "id": 697183,
+    "name": "Pyryatyn",
+    "country": "UA",
+    "coord": {
+      "lon": 32.510731,
+      "lat": 50.244499
+    },
+    "nameUa": "Пирятин",
+    "nameRu": "Пирятин"
+  },
+  {
+    "id": 696127,
+    "name": "Prudyanka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.16835,
+      "lat": 50.236061
+    },
+    "nameUa": "Прудянка",
+    "nameRu": "Прудянка"
+  },
+  {
+    "id": 696204,
+    "name": "Pryyutivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.070782,
+      "lat": 48.72094
+    },
+    "nameUa": "Приютівка",
+    "nameRu": "Приютовка"
+  },
+  {
+    "id": 696218,
+    "name": "Pryvillya",
+    "country": "UA",
+    "coord": {
+      "lon": 38.304581,
+      "lat": 49.015011
+    },
+    "nameUa": "Привілля",
+    "nameRu": "Приволье"
+  },
+  {
+    "id": 696275,
+    "name": "Pryozerne",
+    "country": "UA",
+    "coord": {
+      "lon": 36.33025,
+      "lat": 45.26976
+    },
+    "nameUa": "Приозерне",
+    "nameRu": "Приозёрное"
+  },
+  {
+    "id": 696302,
+    "name": "Prikolotnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 37.347439,
+      "lat": 50.160419
+    },
+    "nameUa": "Приколотне",
+    "nameRu": "Приколотное"
+  },
+  {
+    "id": 696348,
+    "name": "Preobrazhenka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.816669,
+      "lat": 47.571941
+    },
+    "nameUa": "Преображенка",
+    "nameRu": "Преображенка"
+  },
+  {
+    "id": 696478,
+    "name": "Poroshkovo",
+    "country": "UA",
+    "coord": {
+      "lon": 22.753281,
+      "lat": 48.66832
+    },
+    "nameUa": "Порошково",
+    "nameRu": "Порошково"
+  },
+  {
+    "id": 696483,
+    "name": "Porohy",
+    "country": "UA",
+    "coord": {
+      "lon": 24.26322,
+      "lat": 48.68755
+    },
+    "nameUa": "Пороги",
+    "nameRu": "Пороги"
+  },
+  {
+    "id": 696557,
+    "name": "Popilnya",
+    "country": "UA",
+    "coord": {
+      "lon": 29.443529,
+      "lat": 49.966518
+    },
+    "nameUa": "Попільня",
+    "nameRu": "Попельня"
+  },
+  {
+    "id": 696576,
+    "name": "Poninka",
+    "country": "UA",
+    "coord": {
+      "lon": 27.536289,
+      "lat": 50.184921
+    },
+    "nameUa": "Понінка",
+    "nameRu": "Понинка"
+  },
+  {
+    "id": 696581,
+    "name": "Pomichna",
+    "country": "UA",
+    "coord": {
+      "lon": 31.415831,
+      "lat": 48.242222
+    },
+    "nameUa": "Помічна",
+    "nameRu": "Помошная"
+  },
+  {
+    "id": 696582,
+    "name": "Pomoryany",
+    "country": "UA",
+    "coord": {
+      "lon": 24.9307,
+      "lat": 49.640919
+    },
+    "nameUa": "Поморяни",
+    "nameRu": "Поморяны"
+  },
+  {
+    "id": 696602,
+    "name": "Polyanka",
+    "country": "UA",
+    "coord": {
+      "lon": 27.688089,
+      "lat": 50.258362
+    },
+    "nameUa": "Полянка",
+    "nameRu": "Полянка"
+  },
+  {
+    "id": 696771,
+    "name": "Pohrebyshche",
+    "country": "UA",
+    "coord": {
+      "lon": 29.263611,
+      "lat": 49.486389
+    },
+    "nameUa": "Погребище",
+    "nameRu": "Погребище"
+  },
+  {
+    "id": 696824,
+    "name": "Pidvynohradiv",
+    "country": "UA",
+    "coord": {
+      "lon": 22.971939,
+      "lat": 48.139469
+    },
+    "nameUa": "Підвиноградів",
+    "nameRu": "Подвиноградов"
+  },
+  {
+    "id": 696938,
+    "name": "Podgortsy",
+    "country": "UA",
+    "coord": {
+      "lon": 24.9795,
+      "lat": 49.946121
+    },
+    "nameUa": "Підгірці",
+    "nameRu": "Подгорцы"
+  },
+  {
+    "id": 696948,
+    "name": "Pidhorodna",
+    "country": "UA",
+    "coord": {
+      "lon": 30.88953,
+      "lat": 48.10704
+    },
+    "nameUa": "Підгородна",
+    "nameRu": "Подгородная"
+  },
+  {
+    "id": 696966,
+    "name": "Pidhaytsi",
+    "country": "UA",
+    "coord": {
+      "lon": 25.13341,
+      "lat": 49.268539
+    },
+    "nameUa": "Підгайці",
+    "nameRu": "Подгайцы"
+  },
+  {
+    "id": 696989,
+    "name": "Podbuzh",
+    "country": "UA",
+    "coord": {
+      "lon": 23.248871,
+      "lat": 49.334831
+    },
+    "nameUa": "Підбуж",
+    "nameRu": "Подбуж"
+  },
+  {
+    "id": 697006,
+    "name": "Pochayiv",
+    "country": "UA",
+    "coord": {
+      "lon": 25.511829,
+      "lat": 50.005081
+    },
+    "nameUa": "Почаїв",
+    "nameRu": "Почаев"
+  },
+  {
+    "id": 697018,
+    "name": "Pobugskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 30.592739,
+      "lat": 48.165791
+    },
+    "nameUa": "Побузьке",
+    "nameRu": "Побугское"
+  },
+  {
+    "id": 697038,
+    "name": "Pniv",
+    "country": "UA",
+    "coord": {
+      "lon": 24.528721,
+      "lat": 48.617828
+    },
+    "nameUa": "Пнів",
+    "nameRu": "Пнев"
+  },
+  {
+    "id": 697126,
+    "name": "Plakhtiyivka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.721689,
+      "lat": 46.100601
+    },
+    "nameUa": "Плахтіївка",
+    "nameRu": "Плахтиевка"
+  },
+  {
+    "id": 697230,
+    "name": "Pylypets",
+    "country": "UA",
+    "coord": {
+      "lon": 23.35191,
+      "lat": 48.667679
+    },
+    "nameUa": "Пилипець",
+    "nameRu": "Пилипец"
+  },
+  {
+    "id": 697325,
+    "name": "Petrove",
+    "country": "UA",
+    "coord": {
+      "lon": 33.256168,
+      "lat": 48.324669
+    },
+    "nameUa": "Петрове",
+    "nameRu": "Петрово"
+  },
+  {
+    "id": 697423,
+    "name": "Petropavlivka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.436699,
+      "lat": 48.456429
+    },
+    "nameUa": "Петропавлівка",
+    "nameRu": "Петропавловка"
+  },
+  {
+    "id": 697450,
+    "name": "Petrivka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.959141,
+      "lat": 46.969509
+    },
+    "nameUa": "Петрівка",
+    "nameRu": "Петровка"
+  },
+  {
+    "id": 697455,
+    "name": "Petrykivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.635132,
+      "lat": 48.729778
+    },
+    "nameUa": "Петриківка",
+    "nameRu": "Петриковка"
+  },
+  {
+    "id": 697457,
+    "name": "Petrikov",
+    "country": "UA",
+    "coord": {
+      "lon": 25.57901,
+      "lat": 49.531219
+    },
+    "nameUa": "Петриків",
+    "nameRu": "Петриков"
+  },
+  {
+    "id": 697473,
+    "name": "Petranka",
+    "country": "UA",
+    "coord": {
+      "lon": 24.303471,
+      "lat": 48.902458
+    },
+    "nameUa": "Петранка",
+    "nameRu": "Петранка"
+  },
+  {
+    "id": 697489,
+    "name": "Piskivka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.619341,
+      "lat": 50.693779
+    },
+    "nameUa": "Пісківка",
+    "nameRu": "Песковка"
+  },
+  {
+    "id": 697543,
+    "name": "Peschana",
+    "country": "UA",
+    "coord": {
+      "lon": 29.73086,
+      "lat": 48.129181
+    },
+    "nameUa": "Піщана",
+    "nameRu": "Песчаная"
+  },
+  {
+    "id": 697568,
+    "name": "Pervomayske",
+    "country": "UA",
+    "coord": {
+      "lon": 33.855961,
+      "lat": 45.717442
+    },
+    "nameUa": "Первомайське",
+    "nameRu": "Первомайское"
+  },
+  {
+    "id": 697608,
+    "name": "Pershotravneve",
+    "country": "UA",
+    "coord": {
+      "lon": 28.86837,
+      "lat": 51.392872
+    },
+    "nameUa": "Першотравневе",
+    "nameRu": "Першотравневое"
+  },
+  {
+    "id": 697676,
+    "name": "Peresichna",
+    "country": "UA",
+    "coord": {
+      "lon": 35.98259,
+      "lat": 50.024132
+    },
+    "nameUa": "Пересічне",
+    "nameRu": "Пересечное"
+  },
+  {
+    "id": 697739,
+    "name": "Perehonivka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.51923,
+      "lat": 48.535519
+    },
+    "nameUa": "Перегонівка",
+    "nameRu": "Перегоновка"
+  },
+  {
+    "id": 697802,
+    "name": "Pechenizhyn",
+    "country": "UA",
+    "coord": {
+      "lon": 24.89423,
+      "lat": 48.515511
+    },
+    "nameUa": "Печеніжин",
+    "nameRu": "Печенежин"
+  },
+  {
+    "id": 697817,
+    "name": "Pavlysh",
+    "country": "UA",
+    "coord": {
+      "lon": 33.356911,
+      "lat": 48.917622
+    },
+    "nameUa": "Павлиш",
+    "nameRu": "Павлыш"
+  },
+  {
+    "id": 697839,
+    "name": "Pavlivka",
+    "country": "UA",
+    "coord": {
+      "lon": 38.709171,
+      "lat": 49.608639
+    },
+    "nameUa": "Павлівка",
+    "nameRu": "Павловка"
+  },
+  {
+    "id": 697841,
+    "name": "Pavlovka",
+    "country": "UA",
+    "coord": {
+      "lon": 28.45956,
+      "lat": 49.441429
+    },
+    "nameUa": "Павлівка",
+    "nameRu": "Павловка"
+  },
+  {
+    "id": 697945,
+    "name": "Pasichna",
+    "country": "UA",
+    "coord": {
+      "lon": 24.430031,
+      "lat": 48.571522
+    },
+    "nameUa": "Пасічна",
+    "nameRu": "Пасечная"
+  },
+  {
+    "id": 697953,
+    "name": "Parutyne",
+    "country": "UA",
+    "coord": {
+      "lon": 31.897091,
+      "lat": 46.705379
+    },
+    "nameUa": "Парутине",
+    "nameRu": "Парутино"
+  },
+  {
+    "id": 698008,
+    "name": "Pantayivka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.884102,
+      "lat": 48.674
+    },
+    "nameUa": "Пантаївка",
+    "nameRu": "Пантаевка"
+  },
+  {
+    "id": 696416,
+    "name": "Potok",
+    "country": "UA",
+    "coord": {
+      "lon": 25.03334,
+      "lat": 49.512241
+    },
+    "nameUa": "Потік",
+    "nameRu": "Поток"
+  }
+]

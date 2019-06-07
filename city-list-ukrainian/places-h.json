@@ -1,0 +1,464 @@
+[
+  {
+    "id": 707860,
+    "name": "Hurzuf",
+    "country": "UA",
+    "coord": {
+      "lon": 34.283333,
+      "lat": 44.549999
+    },
+    "nameUa": "Гурзуф",
+    "nameRu": "Гурзуф"
+  },
+  {
+    "id": 708546,
+    "name": "Holubynka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.900002,
+      "lat": 44.599998
+    },
+    "nameUa": "Голубинка",
+    "nameRu": "Голубинка"
+  },
+  {
+    "id": 708727,
+    "name": "Hlybokyy Yar",
+    "country": "UA",
+    "coord": {
+      "lon": 33.933334,
+      "lat": 44.766666
+    },
+    "nameUa": "Глибокий Яр",
+    "nameRu": "Глубокий Яр"
+  },
+  {
+    "id": 708879,
+    "name": "Heneral’s’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 34.483334,
+      "lat": 44.799999
+    },
+    "nameUa": "Генеральське",
+    "nameRu": "Генеральское"
+  },
+  {
+    "id": 708877,
+    "name": "Heniches’ka Hirka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.833332,
+      "lat": 46.083332
+    },
+    "nameUa": "Генічеська Гірка",
+    "nameRu": "Геническая Горка"
+  },
+  {
+    "id": 708003,
+    "name": "Hrushivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.983334,
+      "lat": 45.016666
+    },
+    "nameUa": "Грушівка",
+    "nameRu": "Грушевка"
+  },
+  {
+    "id": 708632,
+    "name": "Hola Prystan",
+    "country": "UA",
+    "coord": {
+      "lon": 32.525833,
+      "lat": 46.520557
+    },
+    "nameUa": "Гола Пристань",
+    "nameRu": "Голая Пристань"
+  },
+  {
+    "id": 707898,
+    "name": "Hulyaypole",
+    "country": "UA",
+    "coord": {
+      "lon": 36.257778,
+      "lat": 47.665279
+    },
+    "nameUa": "Гуляйполе",
+    "nameRu": "Гуляйполе"
+  },
+  {
+    "id": 708120,
+    "name": "Hryhorivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.341389,
+      "lat": 47.69278
+    },
+    "nameUa": "Григорівка",
+    "nameRu": "Григоровка"
+  },
+  {
+    "id": 830068,
+    "name": "Hromy",
+    "country": "UA",
+    "coord": {
+      "lon": 30.184999,
+      "lat": 48.666389
+    },
+    "nameUa": "Громи",
+    "nameRu": "Громы"
+  },
+  {
+    "id": 707777,
+    "name": "Hvardiys’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 34.018452,
+      "lat": 45.120861
+    },
+    "nameUa": "Гвардійське",
+    "nameRu": "Гвардейское"
+  },
+  {
+    "id": 708140,
+    "name": "Hresivs’kyy",
+    "country": "UA",
+    "coord": {
+      "lon": 34.026569,
+      "lat": 45.008041
+    },
+    "nameUa": "Гресівський",
+    "nameRu": "Грэсовский"
+  },
+  {
+    "id": 709054,
+    "name": "Hadyach",
+    "country": "UA",
+    "coord": {
+      "lon": 33.99099,
+      "lat": 50.37112
+    },
+    "nameUa": "Гадяч",
+    "nameRu": "Гадяч"
+  },
+  {
+    "id": 708663,
+    "name": "Hnivan’",
+    "country": "UA",
+    "coord": {
+      "lon": 28.345921,
+      "lat": 49.08897
+    },
+    "nameUa": "Гнівань",
+    "nameRu": "Гнивань"
+  },
+  {
+    "id": 708320,
+    "name": "Horodnya",
+    "country": "UA",
+    "coord": {
+      "lon": 31.59741,
+      "lat": 51.89085
+    },
+    "nameUa": "Городня",
+    "nameRu": "Городня"
+  },
+  {
+    "id": 708901,
+    "name": "Haysyn",
+    "country": "UA",
+    "coord": {
+      "lon": 29.389771,
+      "lat": 48.811432
+    },
+    "nameUa": "Гайсин",
+    "nameRu": "Гайсин"
+  },
+  {
+    "id": 707758,
+    "name": "Hlukhiv",
+    "country": "UA",
+    "coord": {
+      "lon": 33.916199,
+      "lat": 51.678219
+    },
+    "nameUa": "Глухів",
+    "nameRu": "Глухов"
+  },
+  {
+    "id": 708380,
+    "name": "Horodenka",
+    "country": "UA",
+    "coord": {
+      "lon": 25.501631,
+      "lat": 48.672741
+    },
+    "nameUa": "Городенка",
+    "nameRu": "Городенка"
+  },
+  {
+    "id": 708753,
+    "name": "Hlobyne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.25959,
+      "lat": 49.38784
+    },
+    "nameUa": "Глобине",
+    "nameRu": "Глобино"
+  },
+  {
+    "id": 708313,
+    "name": "Horodok",
+    "country": "UA",
+    "coord": {
+      "lon": 23.64806,
+      "lat": 49.784649
+    },
+    "nameUa": "Городок",
+    "nameRu": "Городок"
+  },
+  {
+    "id": 707757,
+    "name": "Hlyboka",
+    "country": "UA",
+    "coord": {
+      "lon": 25.929331,
+      "lat": 48.08971
+    },
+    "nameUa": "Глибока",
+    "nameRu": "Глыбокая"
+  },
+  {
+    "id": 708878,
+    "name": "Henichesk",
+    "country": "UA",
+    "coord": {
+      "lon": 34.803398,
+      "lat": 46.175919
+    },
+    "nameUa": "Генічеськ",
+    "nameRu": "Геническ"
+  },
+  {
+    "id": 8129116,
+    "name": "Hora",
+    "country": "UA",
+    "coord": {
+      "lon": 30.859909,
+      "lat": 50.371201
+    },
+    "nameUa": "Гора",
+    "nameRu": "Гора"
+  },
+  {
+    "id": 707752,
+    "name": "Horodok",
+    "country": "UA",
+    "coord": {
+      "lon": 26.583941,
+      "lat": 49.163738
+    },
+    "nameUa": "Городок",
+    "nameRu": "Городок"
+  },
+  {
+    "id": 707753,
+    "name": "Horlivka",
+    "country": "UA",
+    "coord": {
+      "lon": 38.054192,
+      "lat": 48.346981
+    },
+    "nameUa": "Горлiвка",
+    "nameRu": "Горловка"
+  },
+  {
+    "id": 708366,
+    "name": "Horodyshche",
+    "country": "UA",
+    "coord": {
+      "lon": 31.445129,
+      "lat": 49.284889
+    },
+    "nameUa": "Городище",
+    "nameRu": "Городище"
+  },
+  {
+    "id": 708898,
+    "name": "Hayvoron",
+    "country": "UA",
+    "coord": {
+      "lon": 29.86791,
+      "lat": 48.339581
+    },
+    "nameUa": "Гайворон",
+    "nameRu": "Гайворон"
+  },
+  {
+    "id": 707770,
+    "name": "Hvizd",
+    "country": "UA",
+    "coord": {
+      "lon": 24.55055,
+      "lat": 48.685169
+    },
+    "nameUa": "Гвізд",
+    "nameRu": "Гвозд"
+  },
+  {
+    "id": 707786,
+    "name": "Huty",
+    "country": "UA",
+    "coord": {
+      "lon": 35.343941,
+      "lat": 50.133221
+    },
+    "nameUa": "Гути",
+    "nameRu": "Гуты"
+  },
+  {
+    "id": 707840,
+    "name": "Husyatyn",
+    "country": "UA",
+    "coord": {
+      "lon": 26.2141,
+      "lat": 49.072632
+    },
+    "nameUa": "Гусятин",
+    "nameRu": "Гусятин"
+  },
+  {
+    "id": 708057,
+    "name": "Hryshkivtsi",
+    "country": "UA",
+    "coord": {
+      "lon": 28.60383,
+      "lat": 49.93528
+    },
+    "nameUa": "Гришківці",
+    "nameRu": "Гришковцы"
+  },
+  {
+    "id": 708082,
+    "name": "Hrymayliv",
+    "country": "UA",
+    "coord": {
+      "lon": 26.01112,
+      "lat": 49.332081
+    },
+    "nameUa": "Гримайлів",
+    "nameRu": "Гримайлов"
+  },
+  {
+    "id": 708181,
+    "name": "Hrebinka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.4361,
+      "lat": 50.117119
+    },
+    "nameUa": "Гребінка",
+    "nameRu": "Гребёнка"
+  },
+  {
+    "id": 708251,
+    "name": "Hostomel",
+    "country": "UA",
+    "coord": {
+      "lon": 30.2651,
+      "lat": 50.568409
+    },
+    "nameUa": "Гостомель",
+    "nameRu": "Гостомель"
+  },
+  {
+    "id": 708257,
+    "name": "Hoshcha",
+    "country": "UA",
+    "coord": {
+      "lon": 26.674351,
+      "lat": 50.6003
+    },
+    "nameUa": "Гоща",
+    "nameRu": "Гоща"
+  },
+  {
+    "id": 708324,
+    "name": "Horodnytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 27.316759,
+      "lat": 50.806969
+    },
+    "nameUa": "Городниця",
+    "nameRu": "Городница"
+  },
+  {
+    "id": 708330,
+    "name": "Horodne",
+    "country": "UA",
+    "coord": {
+      "lon": 28.84833,
+      "lat": 45.890831
+    },
+    "nameUa": "Городнє",
+    "nameRu": "Огородное"
+  },
+  {
+    "id": 708351,
+    "name": "Horodyshche",
+    "country": "UA",
+    "coord": {
+      "lon": 26.36573,
+      "lat": 50.639648
+    },
+    "nameUa": "Городище",
+    "nameRu": "Городище"
+  },
+  {
+    "id": 708403,
+    "name": "Hornostayivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.728989,
+      "lat": 47.007771
+    },
+    "nameUa": "Горностаївка",
+    "nameRu": "Горностаевка"
+  },
+  {
+    "id": 708434,
+    "name": "Horinchovo",
+    "country": "UA",
+    "coord": {
+      "lon": 23.43475,
+      "lat": 48.27076
+    },
+    "nameUa": "Горінчово",
+    "nameRu": "Горинчово"
+  },
+  {
+    "id": 708569,
+    "name": "Holovyne",
+    "country": "UA",
+    "coord": {
+      "lon": 28.8253,
+      "lat": 50.47118
+    },
+    "nameUa": "Головине",
+    "nameRu": "Головино"
+  },
+  {
+    "id": 708613,
+    "name": "Holoby",
+    "country": "UA",
+    "coord": {
+      "lon": 25.007669,
+      "lat": 51.08651
+    },
+    "nameUa": "Голоби",
+    "nameRu": "Голобы"
+  }
+]

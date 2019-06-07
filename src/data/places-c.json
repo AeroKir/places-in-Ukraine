@@ -1,0 +1,596 @@
+[
+  {
+    "id": 710878,
+    "name": "Chekhovo",
+    "country": "UA",
+    "coord": {
+      "lon": 34.133331,
+      "lat": 44.5
+    },
+    "nameUa": "Чехове",
+    "nameRu": "Чехово"
+  },
+  {
+    "id": 710425,
+    "name": "Chokolovka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.450001,
+      "lat": 50.416668
+    },
+    "nameUa": "Чоколівка",
+    "nameRu": "Чоколовка"
+  },
+  {
+    "id": 710680,
+    "name": "Chernoslivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.75,
+      "lat": 44.950001
+    },
+    "nameUa": "Чорносливка",
+    "nameRu": "Черносливка"
+  },
+  {
+    "id": 710734,
+    "name": "Chernihivs’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 32,
+      "lat": 51
+    },
+    "nameUa": "Чернігівська область",
+    "nameRu": "Черниговская область"
+  },
+  {
+    "id": 710687,
+    "name": "Chornomorske",
+    "country": "UA",
+    "coord": {
+      "lon": 32.699722,
+      "lat": 45.503887
+    },
+    "nameUa": "Чорноморське",
+    "nameRu": "Черноморское"
+  },
+  {
+    "id": 710655,
+    "name": "Chernyakovo",
+    "country": "UA",
+    "coord": {
+      "lon": 36.181667,
+      "lat": 45.277779
+    },
+    "nameUa": "Чернякове",
+    "nameRu": "Черняково"
+  },
+  {
+    "id": 688986,
+    "name": "Chernihivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.599998,
+      "lat": 46.150002
+    },
+    "nameUa": "Чернігівка",
+    "nameRu": "Черниговка"
+  },
+  {
+    "id": 710531,
+    "name": "Chervonoznamenka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.299999,
+      "lat": 47.016666
+    },
+    "nameUa": "Знам'янка",
+    "nameRu": "Знаменка"
+  },
+  {
+    "id": 710720,
+    "name": "Chernivets’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 26,
+      "lat": 48.25
+    },
+    "nameUa": "Чернівецька область",
+    "nameRu": "Черновицкая область"
+  },
+  {
+    "id": 710802,
+    "name": "Cherkas’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 31,
+      "lat": 49
+    },
+    "nameUa": "Черкаська область",
+    "nameRu": "Черкасская область"
+  },
+  {
+    "id": 806450,
+    "name": "Chernyaki",
+    "country": "UA",
+    "coord": {
+      "lon": 36.454189,
+      "lat": 50.085377
+    },
+    "nameUa": "Черняки",
+    "nameRu": "Черняки"
+  },
+  {
+    "id": 812926,
+    "name": "Chunikhin",
+    "country": "UA",
+    "coord": {
+      "lon": 36.33667,
+      "lat": 49.946941
+    },
+    "nameUa": "Чунихін",
+    "nameRu": "Чуныхин"
+  },
+  {
+    "id": 710600,
+    "name": "Chervona-Shakhtarka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.299999,
+      "lat": 49.033329
+    },
+    "nameUa": "Червона-Шахтарка",
+    "nameRu": "Червона-Шахтарка"
+  },
+  {
+    "id": 7031339,
+    "name": "Chonhar",
+    "country": "UA",
+    "coord": {
+      "lon": 34.539871,
+      "lat": 46.032261
+    },
+    "nameUa": "Чонгар",
+    "nameRu": "Чонгар"
+  },
+  {
+    "id": 710454,
+    "name": "Chysten’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 34.038979,
+      "lat": 44.882568
+    },
+    "nameUa": "Чистеньке",
+    "nameRu": "Чистенькое"
+  },
+  {
+    "id": 710958,
+    "name": "Chagor",
+    "country": "UA",
+    "coord": {
+      "lon": 25.993919,
+      "lat": 48.243301
+    },
+    "nameUa": "Чагор",
+    "nameRu": "Чагор"
+  },
+  {
+    "id": 710719,
+    "name": "Chernivtsi",
+    "country": "UA",
+    "coord": {
+      "lon": 25.94034,
+      "lat": 48.291489
+    },
+    "nameUa": "Чернівці",
+    "nameRu": "Черновцы"
+  },
+  {
+    "id": 710554,
+    "name": "Chervonograd",
+    "country": "UA",
+    "coord": {
+      "lon": 24.23514,
+      "lat": 50.391048
+    },
+    "nameUa": "Червоноград",
+    "nameRu": "Червоноград"
+  },
+  {
+    "id": 710403,
+    "name": "Chornobyl’",
+    "country": "UA",
+    "coord": {
+      "lon": 30.22249,
+      "lat": 51.27359
+    },
+    "nameUa": "Чорнобиль",
+    "nameRu": "Чернобыль"
+  },
+  {
+    "id": 710735,
+    "name": "Chernihiv",
+    "country": "UA",
+    "coord": {
+      "lon": 31.28488,
+      "lat": 51.505508
+    },
+    "nameUa": "Чернігів",
+    "nameRu": "Чернигов"
+  },
+  {
+    "id": 710791,
+    "name": "Cherkasy",
+    "country": "UA",
+    "coord": {
+      "lon": 32.062069,
+      "lat": 49.428539
+    },
+    "nameUa": "Черкаси",
+    "nameRu": "Черкассы"
+  },
+  {
+    "id": 710374,
+    "name": "Chuhuyiv",
+    "country": "UA",
+    "coord": {
+      "lon": 36.68803,
+      "lat": 49.83588
+    },
+    "nameUa": "Чугуїв",
+    "nameRu": "Чугуев"
+  },
+  {
+    "id": 710381,
+    "name": "Chudniv",
+    "country": "UA",
+    "coord": {
+      "lon": 28.117451,
+      "lat": 50.05204
+    },
+    "nameUa": "Чуднів",
+    "nameRu": "Чуднов"
+  },
+  {
+    "id": 710409,
+    "name": "Chop",
+    "country": "UA",
+    "coord": {
+      "lon": 22.205549,
+      "lat": 48.43198
+    },
+    "nameUa": "Чоп",
+    "nameRu": "Чоп"
+  },
+  {
+    "id": 710513,
+    "name": "Chervonyy Pakhar’",
+    "country": "UA",
+    "coord": {
+      "lon": 29.683331,
+      "lat": 50.683331
+    },
+    "nameUa": "Пісківка",
+    "nameRu": "Песковка"
+  },
+  {
+    "id": 710342,
+    "name": "Chutove",
+    "country": "UA",
+    "coord": {
+      "lon": 35.160259,
+      "lat": 49.710419
+    },
+    "nameUa": "Чутове",
+    "nameRu": "Чутово"
+  },
+  {
+    "id": 710663,
+    "name": "Chernyakhiv",
+    "country": "UA",
+    "coord": {
+      "lon": 28.670179,
+      "lat": 50.45652
+    },
+    "nameUa": "Черняхів",
+    "nameRu": "Черняхов"
+  },
+  {
+    "id": 710552,
+    "name": "Chervonohryhorivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.538872,
+      "lat": 47.622978
+    },
+    "nameUa": "Червоногригорівка",
+    "nameRu": "Червоногригоровка"
+  },
+  {
+    "id": 710400,
+    "name": "Chortkiv",
+    "country": "UA",
+    "coord": {
+      "lon": 25.79804,
+      "lat": 49.01709
+    },
+    "nameUa": "Чортків",
+    "nameRu": "Чортков"
+  },
+  {
+    "id": 710716,
+    "name": "Chornobay",
+    "country": "UA",
+    "coord": {
+      "lon": 32.323872,
+      "lat": 49.670792
+    },
+    "nameUa": "Чорнобай",
+    "nameRu": "Чернобай"
+  },
+  {
+    "id": 710548,
+    "name": "Chervonopartizansk",
+    "country": "UA",
+    "coord": {
+      "lon": 39.796181,
+      "lat": 48.07613
+    },
+    "nameUa": "Червонопартизанськ",
+    "nameRu": "Червонопартизанск"
+  },
+  {
+    "id": 710915,
+    "name": "Chasov Yar",
+    "country": "UA",
+    "coord": {
+      "lon": 37.857239,
+      "lat": 48.593479
+    },
+    "nameUa": "Часів Яр",
+    "nameRu": "Часов Яр"
+  },
+  {
+    "id": 710935,
+    "name": "Chaplynka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.540272,
+      "lat": 46.36507
+    },
+    "nameUa": "Чаплинка",
+    "nameRu": "Чаплинка"
+  },
+  {
+    "id": 710408,
+    "name": "Chopovychi",
+    "country": "UA",
+    "coord": {
+      "lon": 28.953341,
+      "lat": 50.833248
+    },
+    "nameUa": "Чоповичі",
+    "nameRu": "Чоповичи"
+  },
+  {
+    "id": 710473,
+    "name": "Chyhyryn",
+    "country": "UA",
+    "coord": {
+      "lon": 32.655491,
+      "lat": 49.083759
+    },
+    "nameUa": "Чигирин",
+    "nameRu": "Чигирин"
+  },
+  {
+    "id": 701294,
+    "name": "Chudey",
+    "country": "UA",
+    "coord": {
+      "lon": 25.62208,
+      "lat": 48.052471
+    },
+    "nameUa": "Чудей",
+    "nameRu": "Чудей"
+  },
+  {
+    "id": 710368,
+    "name": "Chulakivka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.351398,
+      "lat": 46.357632
+    },
+    "nameUa": "Чулаківка",
+    "nameRu": "Чулаковка"
+  },
+  {
+    "id": 710463,
+    "name": "Chynadiyovo",
+    "country": "UA",
+    "coord": {
+      "lon": 22.821699,
+      "lat": 48.481789
+    },
+    "nameUa": "Чинадійово",
+    "nameRu": "Чинадиево"
+  },
+  {
+    "id": 710534,
+    "name": "Chervone",
+    "country": "UA",
+    "coord": {
+      "lon": 34.067291,
+      "lat": 51.770061
+    },
+    "nameUa": "Есмань",
+    "nameRu": "Эсмань"
+  },
+  {
+    "id": 710538,
+    "name": "Chervone",
+    "country": "UA",
+    "coord": {
+      "lon": 28.864531,
+      "lat": 49.956429
+    },
+    "nameUa": "Червоне",
+    "nameRu": "Червоное"
+  },
+  {
+    "id": 710587,
+    "name": "Chervonaya Sloboda",
+    "country": "UA",
+    "coord": {
+      "lon": 32.146431,
+      "lat": 49.378899
+    },
+    "nameUa": "Червона Слобода",
+    "nameRu": "Червоная Слобода"
+  },
+  {
+    "id": 710615,
+    "name": "Chortomlyk",
+    "country": "UA",
+    "coord": {
+      "lon": 34.141979,
+      "lat": 47.62315
+    },
+    "nameUa": "Чортомлик",
+    "nameRu": "Чертомлык"
+  },
+  {
+    "id": 710652,
+    "name": "Chernyatyn",
+    "country": "UA",
+    "coord": {
+      "lon": 25.44832,
+      "lat": 48.660339
+    },
+    "nameUa": "Чернятин",
+    "nameRu": "Чернятин"
+  },
+  {
+    "id": 710653,
+    "name": "Chornyanka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.359039,
+      "lat": 46.652222
+    },
+    "nameUa": "Чорнянка",
+    "nameRu": "Чернянка"
+  },
+  {
+    "id": 710669,
+    "name": "Chornukhy",
+    "country": "UA",
+    "coord": {
+      "lon": 32.941959,
+      "lat": 50.267319
+    },
+    "nameUa": "Чорнухи",
+    "nameRu": "Чернухи"
+  },
+  {
+    "id": 710684,
+    "name": "Chornopillya",
+    "country": "UA",
+    "coord": {
+      "lon": 34.63916,
+      "lat": 45.043991
+    },
+    "nameUa": "Чорнопілля",
+    "nameRu": "Чернополье"
+  },
+  {
+    "id": 710698,
+    "name": "Chornoliztsi",
+    "country": "UA",
+    "coord": {
+      "lon": 24.89576,
+      "lat": 48.830341
+    },
+    "nameUa": "Чорнолізці",
+    "nameRu": "Чернолозцы"
+  },
+  {
+    "id": 710715,
+    "name": "Chornobayivka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.553711,
+      "lat": 46.694118
+    },
+    "nameUa": "Чорнобаївка",
+    "nameRu": "Чернобаевка"
+  },
+  {
+    "id": 710718,
+    "name": "Cherniyiv",
+    "country": "UA",
+    "coord": {
+      "lon": 24.713881,
+      "lat": 48.856579
+    },
+    "nameUa": "Черніїв",
+    "nameRu": "Черниев"
+  },
+  {
+    "id": 710741,
+    "name": "Chernivtsi",
+    "country": "UA",
+    "coord": {
+      "lon": 28.114731,
+      "lat": 48.542259
+    },
+    "nameUa": "Чернівці",
+    "nameRu": "Черновцы"
+  },
+  {
+    "id": 710755,
+    "name": "Chernelytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 25.42477,
+      "lat": 48.812069
+    },
+    "nameUa": "Чернелиця",
+    "nameRu": "Чернелица"
+  },
+  {
+    "id": 710940,
+    "name": "Chapayeve",
+    "country": "UA",
+    "coord": {
+      "lon": 35.874859,
+      "lat": 49.366249
+    },
+    "nameUa": "Слобожанське",
+    "nameRu": "Слобожанское"
+  },
+  {
+    "id": 710947,
+    "name": "Chapayevka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.45137,
+      "lat": 49.38179
+    },
+    "nameUa": "Калинове",
+    "nameRu": "Калиново"
+  },
+  {
+    "id": 710950,
+    "name": "Chapayevka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.34507,
+      "lat": 47.471142
+    },
+    "nameUa": "Воскресенка",
+    "nameRu": "Воскресенка"
+  }
+]

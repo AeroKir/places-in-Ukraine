@@ -1,0 +1,321 @@
+[
+  {
+    "id": 690791,
+    "name": "Ukraine",
+    "country": "UA",
+    "coord": {
+      "lon": 32,
+      "lat": 49
+    },
+    "nameUa": "Україна",
+    "nameRu": "Украина"
+  },
+  {
+    "id": 505257,
+    "name": "Urzuf",
+    "country": "UA",
+    "coord": {
+      "lon": 37.099609,
+      "lat": 46.915619
+    },
+    "nameUa": "Урзуф",
+    "nameRu": "Урзуф"
+  },
+  {
+    "id": 690571,
+    "name": "Utkivka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.075279,
+      "lat": 49.785831
+    },
+    "nameUa": "Утківка",
+    "nameRu": "Утковка"
+  },
+  {
+    "id": 690600,
+    "name": "Ustynivka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.536739,
+      "lat": 47.95507
+    },
+    "nameUa": "Устинівка",
+    "nameRu": "Устиновка"
+  },
+  {
+    "id": 690673,
+    "name": "Uralo-Kavkaz",
+    "country": "UA",
+    "coord": {
+      "lon": 39.825371,
+      "lat": 48.295761
+    },
+    "nameUa": "Урало-Кавказ",
+    "nameRu": "Урало-Кавказ"
+  },
+  {
+    "id": 690745,
+    "name": "Ulichnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 23.65111,
+      "lat": 49.233849
+    },
+    "nameUa": "Уличне",
+    "nameRu": "Уличное"
+  },
+  {
+    "id": 690756,
+    "name": "Ulanov",
+    "country": "UA",
+    "coord": {
+      "lon": 28.13298,
+      "lat": 49.695122
+    },
+    "nameUa": "Уланів",
+    "nameRu": "Уланов"
+  },
+  {
+    "id": 690804,
+    "name": "Uhryniv",
+    "country": "UA",
+    "coord": {
+      "lon": 24.692921,
+      "lat": 48.9552
+    },
+    "nameUa": "Угринів",
+    "nameRu": "Угринов"
+  },
+  {
+    "id": 690814,
+    "name": "Ugnev",
+    "country": "UA",
+    "coord": {
+      "lon": 23.748949,
+      "lat": 50.368111
+    },
+    "nameUa": "Угнів",
+    "nameRu": "Угнев"
+  },
+  {
+    "id": 690820,
+    "name": "Uhlove",
+    "country": "UA",
+    "coord": {
+      "lon": 33.604519,
+      "lat": 44.821461
+    },
+    "nameUa": "Углове",
+    "nameRu": "Угловое"
+  },
+  {
+    "id": 690647,
+    "name": "Ushchel’noye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.166668,
+      "lat": 44.516666
+    },
+    "nameUa": "Ущельне",
+    "nameRu": "Ущельное"
+  },
+  {
+    "id": 704116,
+    "name": "Urochyshche Kripke",
+    "country": "UA",
+    "coord": {
+      "lon": 33.733334,
+      "lat": 44.616669
+    },
+    "nameUa": "Урочишє Кріпке",
+    "nameRu": "Урочище Крепкое"
+  },
+  {
+    "id": 690847,
+    "name": "Uchkuyeva",
+    "country": "UA",
+    "coord": {
+      "lon": 33.533333,
+      "lat": 44.633331
+    },
+    "nameUa": "Учкуївка",
+    "nameRu": "Учкуевка"
+  },
+  {
+    "id": 690557,
+    "name": "Uyutnaya",
+    "country": "UA",
+    "coord": {
+      "lon": 34.957058,
+      "lat": 44.844186
+    },
+    "nameUa": "Уютне",
+    "nameRu": "Уютное"
+  },
+  {
+    "id": 690652,
+    "name": "Urus-Khodzha",
+    "country": "UA",
+    "coord": {
+      "lon": 34.799999,
+      "lat": 45.016666
+    },
+    "nameUa": "Урус-Ходжа",
+    "nameRu": "Урус-Ходжа"
+  },
+  {
+    "id": 690556,
+    "name": "Uyutne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.301388,
+      "lat": 45.199444
+    },
+    "nameUa": "Уютне",
+    "nameRu": "Уютное"
+  },
+  {
+    "id": 695322,
+    "name": "Urochyshche Rozhkova",
+    "country": "UA",
+    "coord": {
+      "lon": 35.177536,
+      "lat": 45.532327
+    },
+    "nameUa": "Арабатський заказник",
+    "nameRu": "Арабатский заказник"
+  },
+  {
+    "id": 690713,
+    "name": "Ul’yanovka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.231667,
+      "lat": 48.326111
+    },
+    "nameUa": "Благовіщенське",
+    "nameRu": "Благовещенское"
+  },
+  {
+    "id": 690548,
+    "name": "Uzhhorod",
+    "country": "UA",
+    "coord": {
+      "lon": 22.299999,
+      "lat": 48.616669
+    },
+    "nameUa": "Ужгород",
+    "nameRu": "Ужгород"
+  },
+  {
+    "id": 690553,
+    "name": "Uzenbash",
+    "country": "UA",
+    "coord": {
+      "lon": 33.766666,
+      "lat": 44.549999
+    },
+    "nameUa": "Хворостянка",
+    "nameRu": "Хворостянка"
+  },
+  {
+    "id": 690777,
+    "name": "Ukrainka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.349998,
+      "lat": 47.916672
+    },
+    "nameUa": "Українка",
+    "nameRu": "Украинка"
+  },
+  {
+    "id": 690788,
+    "name": "Ukrayinka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.063461,
+      "lat": 44.96072
+    },
+    "nameUa": "Українка",
+    "nameRu": "Украинка"
+  },
+  {
+    "id": 690688,
+    "name": "Uman",
+    "country": "UA",
+    "coord": {
+      "lon": 30.22184,
+      "lat": 48.748379
+    },
+    "nameUa": "Умань",
+    "nameRu": "Умань"
+  },
+  {
+    "id": 690773,
+    "name": "Ukrainka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.74612,
+      "lat": 50.143169
+    },
+    "nameUa": "Українка",
+    "nameRu": "Украинка"
+  },
+  {
+    "id": 690823,
+    "name": "Ugledar",
+    "country": "UA",
+    "coord": {
+      "lon": 37.250641,
+      "lat": 47.780312
+    },
+    "nameUa": "Вугледар",
+    "nameRu": "Угледар"
+  },
+  {
+    "id": 690545,
+    "name": "Uzyn",
+    "country": "UA",
+    "coord": {
+      "lon": 30.414869,
+      "lat": 49.826191
+    },
+    "nameUa": "Узин",
+    "nameRu": "Узин"
+  },
+  {
+    "id": 690648,
+    "name": "Usatove",
+    "country": "UA",
+    "coord": {
+      "lon": 30.659599,
+      "lat": 46.532959
+    },
+    "nameUa": "Усатове",
+    "nameRu": "Усатово"
+  },
+  {
+    "id": 690822,
+    "name": "Uglegorsk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.274231,
+      "lat": 48.314739
+    },
+    "nameUa": "Вуглегірськ",
+    "nameRu": "Углегорск"
+  },
+  {
+    "id": 690629,
+    "name": "Uspenka",
+    "country": "UA",
+    "coord": {
+      "lon": 39.161942,
+      "lat": 48.390282
+    },
+    "nameUa": "Успенка",
+    "nameRu": "Успенка"
+  }
+]

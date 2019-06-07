@@ -1,0 +1,2631 @@
+[
+  {
+    "id": 703845,
+    "name": "Kryvyy Rih",
+    "country": "UA",
+    "coord": {
+      "lon": 33.349998,
+      "lat": 47.916668
+    },
+    "nameUa": "Кривий Ріг",
+    "nameRu": "Кривой Рог"
+  },
+  {
+    "id": 703446,
+    "name": "Kyyivs’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 30.5,
+      "lat": 50.25
+    },
+    "nameUa": "Київська область",
+    "nameRu": "Киевская область"
+  },
+  {
+    "id": 703776,
+    "name": "Kudryne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.950001,
+      "lat": 44.700001
+    },
+    "nameUa": "Кудрине",
+    "nameRu": "Кудрино"
+  },
+  {
+    "id": 704360,
+    "name": "Krasnopeshchernaya",
+    "country": "UA",
+    "coord": {
+      "lon": 34.333332,
+      "lat": 44.866669
+    },
+    "nameUa": "Краснопечерне",
+    "nameRu": "Краснопещерное"
+  },
+  {
+    "id": 703973,
+    "name": "Krucha",
+    "country": "UA",
+    "coord": {
+      "lon": 34.650002,
+      "lat": 46.183334
+    },
+    "nameUa": "Круча",
+    "nameRu": "Круча"
+  },
+  {
+    "id": 707155,
+    "name": "Kalynivka",
+    "country": "UA",
+    "coord": {
+      "lon": 28.526079,
+      "lat": 49.453892
+    },
+    "nameUa": "Калинівка",
+    "nameRu": "Калиновка"
+  },
+  {
+    "id": 687556,
+    "name": "Karolino-Buhaz",
+    "country": "UA",
+    "coord": {
+      "lon": 30.526091,
+      "lat": 46.14492
+    },
+    "nameUa": "Кароліно-Бугаз",
+    "nameRu": "Каролино-Бугаз"
+  },
+  {
+    "id": 703448,
+    "name": "Kiev",
+    "country": "UA",
+    "coord": {
+      "lon": 30.516666,
+      "lat": 50.433334
+    },
+    "nameUa": "Київ",
+    "nameRu": "Киев"
+  },
+  {
+    "id": 703498,
+    "name": "Kuybysheve",
+    "country": "UA",
+    "coord": {
+      "lon": 33.866669,
+      "lat": 44.650002
+    },
+    "nameUa": "Куйбишеве",
+    "nameRu": "Куйбышево"
+  },
+  {
+    "id": 704201,
+    "name": "Krasnyy Mak",
+    "country": "UA",
+    "coord": {
+      "lon": 33.783333,
+      "lat": 44.650002
+    },
+    "nameUa": "Красний Мак",
+    "nameRu": "Красный Мак"
+  },
+  {
+    "id": 703625,
+    "name": "Kurenëvka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.466667,
+      "lat": 50.483334
+    },
+    "nameUa": "Куренівка",
+    "nameRu": "Куренёвка"
+  },
+  {
+    "id": 703596,
+    "name": "Kurortne",
+    "country": "UA",
+    "coord": {
+      "lon": 35.150002,
+      "lat": 44.900002
+    },
+    "nameUa": "Курортне",
+    "nameRu": "Курортное"
+  },
+  {
+    "id": 704324,
+    "name": "Krasnoselivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.633331,
+      "lat": 44.916668
+    },
+    "nameUa": "Красноселівка",
+    "nameRu": "Красносёловка"
+  },
+  {
+    "id": 706557,
+    "name": "Kazil’",
+    "country": "UA",
+    "coord": {
+      "lon": 34.5,
+      "lat": 44.950001
+    },
+    "nameUa": "Казанли",
+    "nameRu": "Казанлы"
+  },
+  {
+    "id": 705127,
+    "name": "Konrat",
+    "country": "UA",
+    "coord": {
+      "lon": 34.416668,
+      "lat": 44.983334
+    },
+    "nameUa": "Пасічне",
+    "nameRu": "Пасечное"
+  },
+  {
+    "id": 706098,
+    "name": "Khutor Fomina",
+    "country": "UA",
+    "coord": {
+      "lon": 31.766666,
+      "lat": 51.200001
+    },
+    "nameUa": "Хутір Фоміна",
+    "nameRu": "Хутор Фомина"
+  },
+  {
+    "id": 704218,
+    "name": "Krasnyye Partizany",
+    "country": "UA",
+    "coord": {
+      "lon": 31.783333,
+      "lat": 50.950001
+    },
+    "nameUa": "Володькова Дівиця",
+    "nameRu": "Володькова Дивыця"
+  },
+  {
+    "id": 703757,
+    "name": "Kukhmisterskaya Sloboda",
+    "country": "UA",
+    "coord": {
+      "lon": 30.6,
+      "lat": 50.416668
+    },
+    "nameUa": "Кухмістерська слобідка",
+    "nameRu": "Кухмистерская слободка"
+  },
+  {
+    "id": 705514,
+    "name": "Kocherovo",
+    "country": "UA",
+    "coord": {
+      "lon": 29.35,
+      "lat": 50.349998
+    },
+    "nameUa": "Кочерів",
+    "nameRu": "Кочеров"
+  },
+  {
+    "id": 706021,
+    "name": "Khutor Pen’kovatoye",
+    "country": "UA",
+    "coord": {
+      "lon": 29.416668,
+      "lat": 50.366669
+    },
+    "nameUa": "Хутір Пенкувате",
+    "nameRu": "Хутор Пенковатое"
+  },
+  {
+    "id": 704183,
+    "name": "Krasnyy Shlyakh",
+    "country": "UA",
+    "coord": {
+      "lon": 29.433332,
+      "lat": 50.366669
+    },
+    "nameUa": "Червоний Шлях",
+    "nameRu": "Красный Путь"
+  },
+  {
+    "id": 706082,
+    "name": "Khutor Kalinovka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.799999,
+      "lat": 50.416668
+    },
+    "nameUa": "Калинівка",
+    "nameRu": "Калиновка"
+  },
+  {
+    "id": 705015,
+    "name": "Kopylov",
+    "country": "UA",
+    "coord": {
+      "lon": 29.883333,
+      "lat": 50.400002
+    },
+    "nameUa": "Копилів",
+    "nameRu": "Копылов"
+  },
+  {
+    "id": 705303,
+    "name": "Kolonshchina",
+    "country": "UA",
+    "coord": {
+      "lon": 29.966667,
+      "lat": 50.450001
+    },
+    "nameUa": "Колонщина",
+    "nameRu": "Колонщина"
+  },
+  {
+    "id": 706081,
+    "name": "Khutor Kalinovka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.833332,
+      "lat": 50.566666
+    },
+    "nameUa": "Калинівка",
+    "nameRu": "Калиновка"
+  },
+  {
+    "id": 707123,
+    "name": "Kalita",
+    "country": "UA",
+    "coord": {
+      "lon": 31.016666,
+      "lat": 50.75
+    },
+    "nameUa": "Калита",
+    "nameRu": "Калита"
+  },
+  {
+    "id": 704393,
+    "name": "Krasnogorovka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.516666,
+      "lat": 48.016666
+    },
+    "nameUa": "Красногорівка",
+    "nameRu": "Красногоровка"
+  },
+  {
+    "id": 706043,
+    "name": "Khutor Naumovskiy",
+    "country": "UA",
+    "coord": {
+      "lon": 32,
+      "lat": 51
+    },
+    "nameUa": "Хутір Наумівський",
+    "nameRu": "Хутор Наумовский"
+  },
+  {
+    "id": 703586,
+    "name": "Kurpaty",
+    "country": "UA",
+    "coord": {
+      "lon": 34.116669,
+      "lat": 44.433334
+    },
+    "nameUa": "Курпати",
+    "nameRu": "Курпаты"
+  },
+  {
+    "id": 705440,
+    "name": "Kolkhozne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.883331,
+      "lat": 44.466667
+    },
+    "nameUa": "Колхозне",
+    "nameRu": "Колхозное"
+  },
+  {
+    "id": 706372,
+    "name": "Khmel’nyts’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 33.650002,
+      "lat": 44.549999
+    },
+    "nameUa": "Хмельницьке",
+    "nameRu": "Хмельницкое"
+  },
+  {
+    "id": 704377,
+    "name": "Krasnokamenka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.283333,
+      "lat": 44.566666
+    },
+    "nameUa": "Краснокам'янка",
+    "nameRu": "Краснокаменка"
+  },
+  {
+    "id": 697124,
+    "name": "Koktebel",
+    "country": "UA",
+    "coord": {
+      "lon": 35.249376,
+      "lat": 44.95754
+    },
+    "nameUa": "Коктебель",
+    "nameRu": "Коктебель"
+  },
+  {
+    "id": 704259,
+    "name": "Krasnoye Selo",
+    "country": "UA",
+    "coord": {
+      "lon": 35.083332,
+      "lat": 45.016666
+    },
+    "nameUa": "Красне Село",
+    "nameRu": "Красное Село"
+  },
+  {
+    "id": 706524,
+    "name": "Kerch",
+    "country": "UA",
+    "coord": {
+      "lon": 36.475834,
+      "lat": 45.358334
+    },
+    "nameUa": "Керч",
+    "nameRu": "Керчь"
+  },
+  {
+    "id": 710320,
+    "name": "Kamyshly",
+    "country": "UA",
+    "coord": {
+      "lon": 33.650002,
+      "lat": 44.666668
+    },
+    "nameUa": "Камишли",
+    "nameRu": "Камышлы"
+  },
+  {
+    "id": 706515,
+    "name": "Kerleut",
+    "country": "UA",
+    "coord": {
+      "lon": 34.416668,
+      "lat": 45.733334
+    },
+    "nameUa": "Чорноземне",
+    "nameRu": "Чернозёмное"
+  },
+  {
+    "id": 704362,
+    "name": "Krasnoperekopsk",
+    "country": "UA",
+    "coord": {
+      "lon": 33.792221,
+      "lat": 45.955002
+    },
+    "nameUa": "Красноперекопськ",
+    "nameRu": "Красноперекопск"
+  },
+  {
+    "id": 706442,
+    "name": "Khersons’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 34,
+      "lat": 46.5
+    },
+    "nameUa": "Херсонська область",
+    "nameRu": "Херсонская область"
+  },
+  {
+    "id": 704051,
+    "name": "Krivaya Balka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.683332,
+      "lat": 46.5
+    },
+    "nameUa": "Крива Балка",
+    "nameRu": "Кривая Балка"
+  },
+  {
+    "id": 706333,
+    "name": "Kholodnaya Balka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.583332,
+      "lat": 46.599998
+    },
+    "nameUa": "Холодна Балка",
+    "nameRu": "Холодная Балка"
+  },
+  {
+    "id": 703972,
+    "name": "Krucha",
+    "country": "UA",
+    "coord": {
+      "lon": 35.400002,
+      "lat": 46.849998
+    },
+    "nameUa": "Круча",
+    "nameRu": "Круча"
+  },
+  {
+    "id": 706225,
+    "name": "Khozyain",
+    "country": "UA",
+    "coord": {
+      "lon": 35.366669,
+      "lat": 47.299999
+    },
+    "nameUa": "Хазяїн",
+    "nameRu": "Хозяин"
+  },
+  {
+    "id": 703555,
+    "name": "Kushuhum",
+    "country": "UA",
+    "coord": {
+      "lon": 35.209167,
+      "lat": 47.714443
+    },
+    "nameUa": "Кушугум",
+    "nameRu": "Кушугум"
+  },
+  {
+    "id": 705811,
+    "name": "Kirovohrads’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 32,
+      "lat": 48.5
+    },
+    "nameUa": "Кіровоградська область",
+    "nameRu": "Кировоградская область"
+  },
+  {
+    "id": 706244,
+    "name": "Khotyn",
+    "country": "UA",
+    "coord": {
+      "lon": 26.5,
+      "lat": 48.483334
+    },
+    "nameUa": "Хотин",
+    "nameRu": "Хотин"
+  },
+  {
+    "id": 705392,
+    "name": "Kolomyya",
+    "country": "UA",
+    "coord": {
+      "lon": 25.040277,
+      "lat": 48.530556
+    },
+    "nameUa": "Коломия",
+    "nameRu": "Коломыя"
+  },
+  {
+    "id": 706370,
+    "name": "Khmel’nyts’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 27,
+      "lat": 49.5
+    },
+    "nameUa": "Хмельницька область",
+    "nameRu": "Хмельницкая область"
+  },
+  {
+    "id": 704232,
+    "name": "Krasnyy",
+    "country": "UA",
+    "coord": {
+      "lon": 23.700001,
+      "lat": 48.616669
+    },
+    "nameUa": "Красний",
+    "nameRu": "Красный"
+  },
+  {
+    "id": 706950,
+    "name": "Kamieniec Podolski",
+    "country": "UA",
+    "coord": {
+      "lon": 26.566668,
+      "lat": 48.666668
+    },
+    "nameUa": "Кам'янець-Подільський",
+    "nameRu": "Каменец-Подольский"
+  },
+  {
+    "id": 705282,
+    "name": "Kolubayevtsy",
+    "country": "UA",
+    "coord": {
+      "lon": 26.666668,
+      "lat": 48.733334
+    },
+    "nameUa": "Колубаївці",
+    "nameRu": "Колубаевцы"
+  },
+  {
+    "id": 706482,
+    "name": "Kharkivs’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 36.5,
+      "lat": 49.5
+    },
+    "nameUa": "Харківська область",
+    "nameRu": "Харьковская область"
+  },
+  {
+    "id": 706483,
+    "name": "Kharkiv",
+    "country": "UA",
+    "coord": {
+      "lon": 36.25,
+      "lat": 50
+    },
+    "nameUa": "Харків",
+    "nameRu": "Харьков"
+  },
+  {
+    "id": 706587,
+    "name": "Kozacha Lopan’",
+    "country": "UA",
+    "coord": {
+      "lon": 36.187229,
+      "lat": 50.339199
+    },
+    "nameUa": "Козача Лопань",
+    "nameRu": "Казачья Лопань"
+  },
+  {
+    "id": 705240,
+    "name": "Komarovka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.066669,
+      "lat": 49.866669
+    },
+    "nameUa": "Комарівка",
+    "nameRu": "Комаровка"
+  },
+  {
+    "id": 812877,
+    "name": "Krasnyy Oktyabr’",
+    "country": "UA",
+    "coord": {
+      "lon": 36.025558,
+      "lat": 49.778889
+    },
+    "nameUa": "Селекційне",
+    "nameRu": "Селекционное"
+  },
+  {
+    "id": 706748,
+    "name": "Karlovka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.933331,
+      "lat": 49.76667
+    },
+    "nameUa": "Вільхуватка",
+    "nameRu": "Ольховатка"
+  },
+  {
+    "id": 812881,
+    "name": "Kislovskiy",
+    "country": "UA",
+    "coord": {
+      "lon": 36.02528,
+      "lat": 49.760281
+    },
+    "nameUa": "Лелюки",
+    "nameRu": "Лелюки"
+  },
+  {
+    "id": 809657,
+    "name": "Kooperatorka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.316391,
+      "lat": 49.264439
+    },
+    "nameUa": "Кооператорка",
+    "nameRu": "Кооператорка"
+  },
+  {
+    "id": 704363,
+    "name": "Krasnopavlivka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.327221,
+      "lat": 49.137218
+    },
+    "nameUa": "Краснопавлівка",
+    "nameRu": "Краснопавловка"
+  },
+  {
+    "id": 808829,
+    "name": "Kostyanka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.285278,
+      "lat": 49.00639
+    },
+    "nameUa": "Костянка",
+    "nameRu": "Костянка"
+  },
+  {
+    "id": 705214,
+    "name": "Kommercheskiy",
+    "country": "UA",
+    "coord": {
+      "lon": 35.316669,
+      "lat": 46.916672
+    },
+    "nameUa": "Обільне",
+    "nameRu": "Обильное"
+  },
+  {
+    "id": 7046810,
+    "name": "Kommunarskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.785191,
+      "lat": 46.372169
+    },
+    "nameUa": "Комунарське",
+    "nameRu": "Коммунарское"
+  },
+  {
+    "id": 7046679,
+    "name": "Krasne Znam”ya",
+    "country": "UA",
+    "coord": {
+      "lon": 34.575668,
+      "lat": 46.083031
+    },
+    "nameUa": "Красне Знам'я",
+    "nameRu": "Красное Знамя"
+  },
+  {
+    "id": 705053,
+    "name": "Kopani",
+    "country": "UA",
+    "coord": {
+      "lon": 34.462528,
+      "lat": 45.85004
+    },
+    "nameUa": "Копані",
+    "nameRu": "Копани"
+  },
+  {
+    "id": 7020274,
+    "name": "Kostyantynivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.368149,
+      "lat": 45.674541
+    },
+    "nameUa": "Костянтинівка",
+    "nameRu": "Константиновка"
+  },
+  {
+    "id": 704253,
+    "name": "Krasnoye Znamya",
+    "country": "UA",
+    "coord": {
+      "lon": 34.299999,
+      "lat": 45.549999
+    },
+    "nameUa": "Червоне знам'я",
+    "nameRu": "Красное знамя"
+  },
+  {
+    "id": 704381,
+    "name": "Krasnohvardiys’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 34.30024,
+      "lat": 45.501621
+    },
+    "nameUa": "Красногвардійське",
+    "nameRu": "Красногвардейское"
+  },
+  {
+    "id": 7018274,
+    "name": "Krasnyy Partyzan",
+    "country": "UA",
+    "coord": {
+      "lon": 34.20821,
+      "lat": 45.406109
+    },
+    "nameUa": "Красний Партизан",
+    "nameRu": "Красный Партизан"
+  },
+  {
+    "id": 704431,
+    "name": "Krasna Zor’ka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.037819,
+      "lat": 45.135479
+    },
+    "nameUa": "Красна Зорька",
+    "nameRu": "Красная Зорька"
+  },
+  {
+    "id": 6976172,
+    "name": "Komsomols’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 34.016312,
+      "lat": 45.019669
+    },
+    "nameUa": "Комсомольське",
+    "nameRu": "Комсомольское"
+  },
+  {
+    "id": 707240,
+    "name": "Kakhovskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.066669,
+      "lat": 44.98333
+    },
+    "nameUa": "Каховське",
+    "nameRu": "Каховское"
+  },
+  {
+    "id": 704416,
+    "name": "Krasnoarmeyskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 33.683331,
+      "lat": 44.849998
+    },
+    "nameUa": "Віліне",
+    "nameRu": "Вилино"
+  },
+  {
+    "id": 7040014,
+    "name": "Kocherhine",
+    "country": "UA",
+    "coord": {
+      "lon": 33.750011,
+      "lat": 44.83709
+    },
+    "nameUa": "Кочергіне",
+    "nameRu": "Кочергино"
+  },
+  {
+    "id": 704121,
+    "name": "Krenichi",
+    "country": "UA",
+    "coord": {
+      "lon": 30.505831,
+      "lat": 50.241291
+    },
+    "nameUa": "Креничі",
+    "nameRu": "Креничи"
+  },
+  {
+    "id": 6957702,
+    "name": "Krasnogorovka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.514011,
+      "lat": 48.00769
+    },
+    "nameUa": "Красногорівка",
+    "nameRu": "Красногоровка"
+  },
+  {
+    "id": 8037857,
+    "name": "Krasnyy Prohres",
+    "country": "UA",
+    "coord": {
+      "lon": 34.036709,
+      "lat": 52.158852
+    },
+    "nameUa": "Прогрес",
+    "nameRu": "Прогресс"
+  },
+  {
+    "id": 705758,
+    "name": "Kislitskiy",
+    "country": "UA",
+    "coord": {
+      "lon": 35.51667,
+      "lat": 47.48333
+    },
+    "nameUa": "Кислицький",
+    "nameRu": "Кислицкий"
+  },
+  {
+    "id": 706466,
+    "name": "Khartsyzsk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.147282,
+      "lat": 48.042431
+    },
+    "nameUa": "Харцизьк",
+    "nameRu": "Харцызск"
+  },
+  {
+    "id": 705652,
+    "name": "Klimashëvka",
+    "country": "UA",
+    "coord": {
+      "lon": 26.993469,
+      "lat": 49.519989
+    },
+    "nameUa": "Климашівка",
+    "nameRu": "Климашовка"
+  },
+  {
+    "id": 703728,
+    "name": "Kulebovka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.187908,
+      "lat": 48.632038
+    },
+    "nameUa": "Кулебівка",
+    "nameRu": "Кулебовка"
+  },
+  {
+    "id": 706448,
+    "name": "Kherson",
+    "country": "UA",
+    "coord": {
+      "lon": 32.617802,
+      "lat": 46.655811
+    },
+    "nameUa": "Херсон",
+    "nameRu": "Херсон"
+  },
+  {
+    "id": 705812,
+    "name": "Kirovohrad",
+    "country": "UA",
+    "coord": {
+      "lon": 32.259701,
+      "lat": 48.513199
+    },
+    "nameUa": "Кропивницький",
+    "nameRu": "Кропивницкий"
+  },
+  {
+    "id": 706369,
+    "name": "Khmelnytskyy",
+    "country": "UA",
+    "coord": {
+      "lon": 26.996531,
+      "lat": 49.421612
+    },
+    "nameUa": "Хмельницький",
+    "nameRu": "Хмельницкий"
+  },
+  {
+    "id": 703464,
+    "name": "Kuznetsovsk",
+    "country": "UA",
+    "coord": {
+      "lon": 25.851903,
+      "lat": 51.354819
+    },
+    "nameUa": "Вараш",
+    "nameRu": "Вараш"
+  },
+  {
+    "id": 706165,
+    "name": "Khust",
+    "country": "UA",
+    "coord": {
+      "lon": 23.299089,
+      "lat": 48.179298
+    },
+    "nameUa": "Хуст",
+    "nameRu": "Хуст"
+  },
+  {
+    "id": 706571,
+    "name": "Kozyatyn",
+    "country": "UA",
+    "coord": {
+      "lon": 28.833851,
+      "lat": 49.71431
+    },
+    "nameUa": "Козятин",
+    "nameRu": "Казатин"
+  },
+  {
+    "id": 707099,
+    "name": "Kalush",
+    "country": "UA",
+    "coord": {
+      "lon": 24.373079,
+      "lat": 49.011871
+    },
+    "nameUa": "Калуш",
+    "nameRu": "Калуш"
+  },
+  {
+    "id": 810039,
+    "name": "Kuznetsovka",
+    "country": "UA",
+    "coord": {
+      "lon": 38.072048,
+      "lat": 48.278042
+    },
+    "nameUa": "Кузнецівка",
+    "nameRu": "Кузнецовка"
+  },
+  {
+    "id": 705135,
+    "name": "Konotop",
+    "country": "UA",
+    "coord": {
+      "lon": 33.202629,
+      "lat": 51.240318
+    },
+    "nameUa": "Конотоп",
+    "nameRu": "Конотоп"
+  },
+  {
+    "id": 704920,
+    "name": "Korolevo",
+    "country": "UA",
+    "coord": {
+      "lon": 23.136589,
+      "lat": 48.15247
+    },
+    "nameUa": "Королево",
+    "nameRu": "Королёво"
+  },
+  {
+    "id": 704403,
+    "name": "Krasnodon",
+    "country": "UA",
+    "coord": {
+      "lon": 39.737289,
+      "lat": 48.29229
+    },
+    "nameUa": "Краснодон",
+    "nameRu": "Краснодон"
+  },
+  {
+    "id": 704492,
+    "name": "Krasyliv",
+    "country": "UA",
+    "coord": {
+      "lon": 26.972521,
+      "lat": 49.651859
+    },
+    "nameUa": "Красилів",
+    "nameRu": "Красилов"
+  },
+  {
+    "id": 706736,
+    "name": "Karnaukhovka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.73074,
+      "lat": 48.47821
+    },
+    "nameUa": "Карнаухівка",
+    "nameRu": "Карнауховка"
+  },
+  {
+    "id": 704422,
+    "name": "Krasnoarmiysk",
+    "country": "UA",
+    "coord": {
+      "lon": 37.17585,
+      "lat": 48.281979
+    },
+    "nameUa": "Покровськ",
+    "nameRu": "Покровск"
+  },
+  {
+    "id": 704079,
+    "name": "Krynychky",
+    "country": "UA",
+    "coord": {
+      "lon": 34.46701,
+      "lat": 48.375511
+    },
+    "nameUa": "Кринички",
+    "nameRu": "Кринички"
+  },
+  {
+    "id": 704138,
+    "name": "Kreminna",
+    "country": "UA",
+    "coord": {
+      "lon": 38.217918,
+      "lat": 49.0495
+    },
+    "nameUa": "Кремінна",
+    "nameRu": "Кременная"
+  },
+  {
+    "id": 705104,
+    "name": "Kostyantynivka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.706902,
+      "lat": 48.527699
+    },
+    "nameUa": "Костянтинівка",
+    "nameRu": "Константиновка"
+  },
+  {
+    "id": 707026,
+    "name": "Kamenka-Na-Dnepre",
+    "country": "UA",
+    "coord": {
+      "lon": 34.411461,
+      "lat": 47.48481
+    },
+    "nameUa": "Кам'янка-Дніпровська",
+    "nameRu": "Каменка-Днепровская"
+  },
+  {
+    "id": 704617,
+    "name": "Kovel",
+    "country": "UA",
+    "coord": {
+      "lon": 24.70867,
+      "lat": 51.21526
+    },
+    "nameUa": "Ковель",
+    "nameRu": "Ковель"
+  },
+  {
+    "id": 704204,
+    "name": "Krasnyy Liman",
+    "country": "UA",
+    "coord": {
+      "lon": 37.80225,
+      "lat": 48.988361
+    },
+    "nameUa": "Лиман",
+    "nameRu": "Лиман"
+  },
+  {
+    "id": 704000,
+    "name": "Krolevets",
+    "country": "UA",
+    "coord": {
+      "lon": 33.38475,
+      "lat": 51.547749
+    },
+    "nameUa": "Кролевець",
+    "nameRu": "Кролевец"
+  },
+  {
+    "id": 705115,
+    "name": "Kostyantynivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.422871,
+      "lat": 46.81673
+    },
+    "nameUa": "Костянтинівка",
+    "nameRu": "Константиновка"
+  },
+  {
+    "id": 704885,
+    "name": "Korostyshiv",
+    "country": "UA",
+    "coord": {
+      "lon": 29.056299,
+      "lat": 50.31723
+    },
+    "nameUa": "Коростишів",
+    "nameRu": "Коростышев"
+  },
+  {
+    "id": 704901,
+    "name": "Korosten",
+    "country": "UA",
+    "coord": {
+      "lon": 28.63855,
+      "lat": 50.95937
+    },
+    "nameUa": "Коростень",
+    "nameRu": "Коростень"
+  },
+  {
+    "id": 705598,
+    "name": "Klyuchevaya",
+    "country": "UA",
+    "coord": {
+      "lon": 33.349998,
+      "lat": 46.75
+    },
+    "nameUa": "Ключове",
+    "nameRu": "Ключевое"
+  },
+  {
+    "id": 705799,
+    "name": "Kirovs’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 35.199871,
+      "lat": 45.229671
+    },
+    "nameUa": "Кіровське",
+    "nameRu": "Кировское"
+  },
+  {
+    "id": 704705,
+    "name": "Kotel’va",
+    "country": "UA",
+    "coord": {
+      "lon": 34.758621,
+      "lat": 50.068642
+    },
+    "nameUa": "Котельва",
+    "nameRu": "Котельва"
+  },
+  {
+    "id": 705730,
+    "name": "Kivertsy",
+    "country": "UA",
+    "coord": {
+      "lon": 25.45821,
+      "lat": 50.834251
+    },
+    "nameUa": "Ківерці",
+    "nameRu": "Киверцы"
+  },
+  {
+    "id": 809274,
+    "name": "Kabachki",
+    "country": "UA",
+    "coord": {
+      "lon": 38.458328,
+      "lat": 48.031109
+    },
+    "nameUa": "Молодецьке",
+    "nameRu": "Молодецкое"
+  },
+  {
+    "id": 705883,
+    "name": "Kiliya",
+    "country": "UA",
+    "coord": {
+      "lon": 29.26367,
+      "lat": 45.455181
+    },
+    "nameUa": "Кілія",
+    "nameRu": "Килия"
+  },
+  {
+    "id": 704881,
+    "name": "Korotych",
+    "country": "UA",
+    "coord": {
+      "lon": 36.040569,
+      "lat": 49.945518
+    },
+    "nameUa": "Коротич",
+    "nameRu": "Коротыч"
+  },
+  {
+    "id": 705818,
+    "name": "Kirovo",
+    "country": "UA",
+    "coord": {
+      "lon": 36.394642,
+      "lat": 48.870251
+    },
+    "nameUa": "Квітневе",
+    "nameRu": "Квитневое"
+  },
+  {
+    "id": 704525,
+    "name": "Kozova",
+    "country": "UA",
+    "coord": {
+      "lon": 25.15086,
+      "lat": 49.43544
+    },
+    "nameUa": "Козова",
+    "nameRu": "Козова"
+  },
+  {
+    "id": 704202,
+    "name": "Krasnyy Luch",
+    "country": "UA",
+    "coord": {
+      "lon": 38.937149,
+      "lat": 48.139542
+    },
+    "nameUa": "Красний Луч",
+    "nameRu": "Красный Луч"
+  },
+  {
+    "id": 705914,
+    "name": "Khyriv",
+    "country": "UA",
+    "coord": {
+      "lon": 22.85236,
+      "lat": 49.533321
+    },
+    "nameUa": "Хирів",
+    "nameRu": "Хыров"
+  },
+  {
+    "id": 704143,
+    "name": "Kremenets",
+    "country": "UA",
+    "coord": {
+      "lon": 25.72459,
+      "lat": 50.096931
+    },
+    "nameUa": "Кременець",
+    "nameRu": "Кременец"
+  },
+  {
+    "id": 706536,
+    "name": "Kel’mentsi",
+    "country": "UA",
+    "coord": {
+      "lon": 26.83457,
+      "lat": 48.465031
+    },
+    "nameUa": "Кельменці",
+    "nameRu": "Кельменцы"
+  },
+  {
+    "id": 707251,
+    "name": "Kaharlyk",
+    "country": "UA",
+    "coord": {
+      "lon": 30.82815,
+      "lat": 49.862331
+    },
+    "nameUa": "Кагарлик",
+    "nameRu": "Кагарлык"
+  },
+  {
+    "id": 704858,
+    "name": "Korsun-Shevchenkivskyy",
+    "country": "UA",
+    "coord": {
+      "lon": 31.25865,
+      "lat": 49.418941
+    },
+    "nameUa": "Корсунь-Шевченківський",
+    "nameRu": "Корсунь-Шевченковский"
+  },
+  {
+    "id": 707244,
+    "name": "Kakhovka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.48698,
+      "lat": 46.813709
+    },
+    "nameUa": "Каховка",
+    "nameRu": "Каховка"
+  },
+  {
+    "id": 704839,
+    "name": "Koryukivka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.248131,
+      "lat": 51.768768
+    },
+    "nameUa": "Корюківка",
+    "nameRu": "Корюковка"
+  },
+  {
+    "id": 704388,
+    "name": "Krasnohrad",
+    "country": "UA",
+    "coord": {
+      "lon": 35.440208,
+      "lat": 49.381401
+    },
+    "nameUa": "Красноград",
+    "nameRu": "Красноград"
+  },
+  {
+    "id": 706900,
+    "name": "Kaniv",
+    "country": "UA",
+    "coord": {
+      "lon": 31.460039,
+      "lat": 49.75182
+    },
+    "nameUa": "Канів",
+    "nameRu": "Канев"
+  },
+  {
+    "id": 703646,
+    "name": "Kurakhovo",
+    "country": "UA",
+    "coord": {
+      "lon": 37.282101,
+      "lat": 47.985222
+    },
+    "nameUa": "Курахове",
+    "nameRu": "Курахово"
+  },
+  {
+    "id": 707189,
+    "name": "Kalyniv",
+    "country": "UA",
+    "coord": {
+      "lon": 23.316669,
+      "lat": 49.549999
+    },
+    "nameUa": "Калинiв",
+    "nameRu": "Калинов"
+  },
+  {
+    "id": 704679,
+    "name": "Kotovsk",
+    "country": "UA",
+    "coord": {
+      "lon": 29.532049,
+      "lat": 47.753052
+    },
+    "nameUa": "Подільськ",
+    "nameRu": "Подольск"
+  },
+  {
+    "id": 704737,
+    "name": "Kostopil’",
+    "country": "UA",
+    "coord": {
+      "lon": 26.45192,
+      "lat": 50.87841
+    },
+    "nameUa": "Костопіль",
+    "nameRu": "Костополь"
+  },
+  {
+    "id": 705660,
+    "name": "Klevan’",
+    "country": "UA",
+    "coord": {
+      "lon": 25.97628,
+      "lat": 50.74305
+    },
+    "nameUa": "Клевань",
+    "nameRu": "Клевань"
+  },
+  {
+    "id": 705265,
+    "name": "Komarno",
+    "country": "UA",
+    "coord": {
+      "lon": 23.69952,
+      "lat": 49.627392
+    },
+    "nameUa": "Комарно",
+    "nameRu": "Комарно"
+  },
+  {
+    "id": 706634,
+    "name": "Katerynopil’",
+    "country": "UA",
+    "coord": {
+      "lon": 30.968229,
+      "lat": 48.955299
+    },
+    "nameUa": "Катеринопіль",
+    "nameRu": "Катеринополь"
+  },
+  {
+    "id": 705016,
+    "name": "Kopychyntsi",
+    "country": "UA",
+    "coord": {
+      "lon": 25.910259,
+      "lat": 49.104408
+    },
+    "nameUa": "Копичинці",
+    "nameRu": "Копычинцы"
+  },
+  {
+    "id": 707232,
+    "name": "Kalanchak",
+    "country": "UA",
+    "coord": {
+      "lon": 33.290699,
+      "lat": 46.256229
+    },
+    "nameUa": "Каланчак",
+    "nameRu": "Каланчак"
+  },
+  {
+    "id": 705403,
+    "name": "Kolomak",
+    "country": "UA",
+    "coord": {
+      "lon": 35.30442,
+      "lat": 49.839859
+    },
+    "nameUa": "Коломак",
+    "nameRu": "Коломак"
+  },
+  {
+    "id": 705544,
+    "name": "Kobelyaky",
+    "country": "UA",
+    "coord": {
+      "lon": 34.196529,
+      "lat": 49.148918
+    },
+    "nameUa": "Кобеляки",
+    "nameRu": "Кобеляки"
+  },
+  {
+    "id": 707133,
+    "name": "Kalinova Popasnaya",
+    "country": "UA",
+    "coord": {
+      "lon": 38.332642,
+      "lat": 48.608479
+    },
+    "nameUa": "Калиново-Попасна",
+    "nameRu": "Калиново-Попасная"
+  },
+  {
+    "id": 704573,
+    "name": "Kozelets",
+    "country": "UA",
+    "coord": {
+      "lon": 31.121401,
+      "lat": 50.913342
+    },
+    "nameUa": "Козелець",
+    "nameRu": "Козелец"
+  },
+  {
+    "id": 706289,
+    "name": "Khorol",
+    "country": "UA",
+    "coord": {
+      "lon": 33.278332,
+      "lat": 49.783669
+    },
+    "nameUa": "Хорол",
+    "nameRu": "Хорол"
+  },
+  {
+    "id": 810074,
+    "name": "Krasnyy Pakhar’",
+    "country": "UA",
+    "coord": {
+      "lon": 38.305,
+      "lat": 48.286671
+    },
+    "nameUa": "Красний Пахар",
+    "nameRu": "Красный Пахарь"
+  },
+  {
+    "id": 704670,
+    "name": "Kotsyubinskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 30.329571,
+      "lat": 50.488361
+    },
+    "nameUa": "Коцюбинське",
+    "nameRu": "Коцюбинское"
+  },
+  {
+    "id": 707027,
+    "name": "Kamionka Strumitowa",
+    "country": "UA",
+    "coord": {
+      "lon": 24.344509,
+      "lat": 50.106548
+    },
+    "nameUa": "Кам'янка-Бузька",
+    "nameRu": "Каменка-Бугская"
+  },
+  {
+    "id": 703656,
+    "name": "Kupjansk",
+    "country": "UA",
+    "coord": {
+      "lon": 37.599838,
+      "lat": 49.720928
+    },
+    "nameUa": "Куп'янськ",
+    "nameRu": "Купянск"
+  },
+  {
+    "id": 705183,
+    "name": "Komsomolske",
+    "country": "UA",
+    "coord": {
+      "lon": 36.52618,
+      "lat": 49.597012
+    },
+    "nameUa": "Слобожанське",
+    "nameRu": "Слобожанское"
+  },
+  {
+    "id": 706546,
+    "name": "Kehychivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.761532,
+      "lat": 49.28656
+    },
+    "nameUa": "Кегичівка",
+    "nameRu": "Кегичёвка"
+  },
+  {
+    "id": 705844,
+    "name": "Kirilovka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.033329,
+      "lat": 49.383331
+    },
+    "nameUa": "Кирилівка",
+    "nameRu": "Кирилловка"
+  },
+  {
+    "id": 704067,
+    "name": "Krinichnyy",
+    "country": "UA",
+    "coord": {
+      "lon": 35.299999,
+      "lat": 47.866669
+    },
+    "nameUa": "Криничне",
+    "nameRu": "Криничное"
+  },
+  {
+    "id": 706604,
+    "name": "Kaydaki",
+    "country": "UA",
+    "coord": {
+      "lon": 35.123981,
+      "lat": 48.376781
+    },
+    "nameUa": "Старі Кодаки",
+    "nameRu": "Старые Кодаки"
+  },
+  {
+    "id": 704147,
+    "name": "Kremenchuk",
+    "country": "UA",
+    "coord": {
+      "lon": 33.41972,
+      "lat": 49.097252
+    },
+    "nameUa": "Кременчук",
+    "nameRu": "Кременчуг"
+  },
+  {
+    "id": 704508,
+    "name": "Kramatorsk",
+    "country": "UA",
+    "coord": {
+      "lon": 37.55629,
+      "lat": 48.723049
+    },
+    "nameUa": "Краматорськ",
+    "nameRu": "Краматорск"
+  },
+  {
+    "id": 704608,
+    "name": "Kivsharivka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.703571,
+      "lat": 49.62125
+    },
+    "nameUa": "Ківшарівка",
+    "nameRu": "Ковшаровка"
+  },
+  {
+    "id": 705809,
+    "name": "Kirovsk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.642799,
+      "lat": 48.637508
+    },
+    "nameUa": "Голубівка",
+    "nameRu": "Голубовка"
+  },
+  {
+    "id": 706380,
+    "name": "Khmilnyk",
+    "country": "UA",
+    "coord": {
+      "lon": 27.957541,
+      "lat": 49.559792
+    },
+    "nameUa": "Хмільник",
+    "nameRu": "Хмельник"
+  },
+  {
+    "id": 706749,
+    "name": "Karlivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.129471,
+      "lat": 49.45668
+    },
+    "nameUa": "Карлівка",
+    "nameRu": "Карловка"
+  },
+  {
+    "id": 6559559,
+    "name": "Komsomolsk",
+    "country": "UA",
+    "coord": {
+      "lon": 33.645458,
+      "lat": 49.009731
+    },
+    "nameUa": "Горішні Плавні",
+    "nameRu": "Горишние Плавни"
+  },
+  {
+    "id": 703455,
+    "name": "Kvasy",
+    "country": "UA",
+    "coord": {
+      "lon": 24.27994,
+      "lat": 48.149731
+    },
+    "nameUa": "Кваси",
+    "nameRu": "Квасы"
+  },
+  {
+    "id": 703494,
+    "name": "Kuybysheve",
+    "country": "UA",
+    "coord": {
+      "lon": 36.649078,
+      "lat": 47.358002
+    },
+    "nameUa": "Більмак",
+    "nameRu": "Бильмак"
+  },
+  {
+    "id": 703514,
+    "name": "Kuty",
+    "country": "UA",
+    "coord": {
+      "lon": 25.179461,
+      "lat": 48.258678
+    },
+    "nameUa": "Кути",
+    "nameRu": "Куты"
+  },
+  {
+    "id": 703537,
+    "name": "Kuteynykove",
+    "country": "UA",
+    "coord": {
+      "lon": 38.288219,
+      "lat": 47.812271
+    },
+    "nameUa": "Кутейникове",
+    "nameRu": "Кутейниково"
+  },
+  {
+    "id": 703559,
+    "name": "Kushnytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 23.25816,
+      "lat": 48.43988
+    },
+    "nameUa": "Кушниця",
+    "nameRu": "Кушница"
+  },
+  {
+    "id": 703706,
+    "name": "Kulynychi",
+    "country": "UA",
+    "coord": {
+      "lon": 36.384178,
+      "lat": 49.982269
+    },
+    "nameUa": "Кулиничі",
+    "nameRu": "Кулиничи"
+  },
+  {
+    "id": 703713,
+    "name": "Kulykivka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.64661,
+      "lat": 51.373451
+    },
+    "nameUa": "Куликівка",
+    "nameRu": "Куликовка"
+  },
+  {
+    "id": 703716,
+    "name": "Kulikov",
+    "country": "UA",
+    "coord": {
+      "lon": 24.81757,
+      "lat": 50.31424
+    },
+    "nameUa": "Куликів",
+    "nameRu": "Куликов"
+  },
+  {
+    "id": 703844,
+    "name": "Kryzhanivka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.79487,
+      "lat": 46.561668
+    },
+    "nameUa": "Крижанівка",
+    "nameRu": "Крыжановка"
+  },
+  {
+    "id": 703903,
+    "name": "Kruty",
+    "country": "UA",
+    "coord": {
+      "lon": 32.106339,
+      "lat": 51.059738
+    },
+    "nameUa": "Крути",
+    "nameRu": "Круты"
+  },
+  {
+    "id": 704010,
+    "name": "Kryve Ozero",
+    "country": "UA",
+    "coord": {
+      "lon": 30.349279,
+      "lat": 47.952419
+    },
+    "nameUa": "Криве Озеро",
+    "nameRu": "Кривое Озеро"
+  },
+  {
+    "id": 704048,
+    "name": "Kryva Hora",
+    "country": "UA",
+    "coord": {
+      "lon": 30.19978,
+      "lat": 51.384941
+    },
+    "nameUa": "Крива Гора",
+    "nameRu": "Кривая Гора"
+  },
+  {
+    "id": 704055,
+    "name": "Kryva",
+    "country": "UA",
+    "coord": {
+      "lon": 23.236469,
+      "lat": 48.17234
+    },
+    "nameUa": "Крива",
+    "nameRu": "Крива"
+  },
+  {
+    "id": 704074,
+    "name": "Krinichnaya",
+    "country": "UA",
+    "coord": {
+      "lon": 38.02597,
+      "lat": 48.12899
+    },
+    "nameUa": "Кринична",
+    "nameRu": "Криничная"
+  },
+  {
+    "id": 704118,
+    "name": "Krepenskiy",
+    "country": "UA",
+    "coord": {
+      "lon": 39.057999,
+      "lat": 48.077099
+    },
+    "nameUa": "Кріпенський",
+    "nameRu": "Крепенский"
+  },
+  {
+    "id": 704207,
+    "name": "Krasnyy Kut",
+    "country": "UA",
+    "coord": {
+      "lon": 38.797649,
+      "lat": 48.201382
+    },
+    "nameUa": "Красний Кут",
+    "nameRu": "Красный Кут"
+  },
+  {
+    "id": 704277,
+    "name": "Krasnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 24.6134,
+      "lat": 49.914471
+    },
+    "nameUa": "Красне",
+    "nameRu": "Красное"
+  },
+  {
+    "id": 704290,
+    "name": "Krasne",
+    "country": "UA",
+    "coord": {
+      "lon": 32.7691,
+      "lat": 46.130878
+    },
+    "nameUa": "Красне",
+    "nameRu": "Красное"
+  },
+  {
+    "id": 704303,
+    "name": "Krasnotorka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.532661,
+      "lat": 48.682041
+    },
+    "nameUa": "Красноторка",
+    "nameRu": "Красноторка"
+  },
+  {
+    "id": 704335,
+    "name": "Krasnosilka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.77421,
+      "lat": 46.622581
+    },
+    "nameUa": "Красносілка",
+    "nameRu": "Красносёлка"
+  },
+  {
+    "id": 704343,
+    "name": "Krasnopillya",
+    "country": "UA",
+    "coord": {
+      "lon": 35.259651,
+      "lat": 50.774578
+    },
+    "nameUa": "Краснопілля",
+    "nameRu": "Краснополье"
+  },
+  {
+    "id": 704376,
+    "name": "Krasnokutsk",
+    "country": "UA",
+    "coord": {
+      "lon": 35.16275,
+      "lat": 50.066021
+    },
+    "nameUa": "Краснокутськ",
+    "nameRu": "Краснокутск"
+  },
+  {
+    "id": 704402,
+    "name": "Krasnodon",
+    "country": "UA",
+    "coord": {
+      "lon": 39.573738,
+      "lat": 48.308559
+    },
+    "nameUa": "Краснодон",
+    "nameRu": "Краснодон"
+  },
+  {
+    "id": 704469,
+    "name": "Krasna",
+    "country": "UA",
+    "coord": {
+      "lon": 24.70027,
+      "lat": 48.57571
+    },
+    "nameUa": "Красна",
+    "nameRu": "Красная"
+  },
+  {
+    "id": 704565,
+    "name": "Kozhanka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.73806,
+      "lat": 49.979328
+    },
+    "nameUa": "Кожанка",
+    "nameRu": "Кожанка"
+  },
+  {
+    "id": 704724,
+    "name": "Kostyantynivka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.135509,
+      "lat": 47.826599
+    },
+    "nameUa": "Костянтинівка",
+    "nameRu": "Константиновка"
+  },
+  {
+    "id": 704730,
+    "name": "Kostryzhivka",
+    "country": "UA",
+    "coord": {
+      "lon": 25.71316,
+      "lat": 48.654549
+    },
+    "nameUa": "Кострижівка",
+    "nameRu": "Кострижевка"
+  },
+  {
+    "id": 704764,
+    "name": "Kosiv",
+    "country": "UA",
+    "coord": {
+      "lon": 25.095751,
+      "lat": 48.310711
+    },
+    "nameUa": "Косів",
+    "nameRu": "Косов"
+  },
+  {
+    "id": 704772,
+    "name": "Kosmach",
+    "country": "UA",
+    "coord": {
+      "lon": 24.36731,
+      "lat": 48.750889
+    },
+    "nameUa": "Космач",
+    "nameRu": "Космач"
+  },
+  {
+    "id": 704773,
+    "name": "Kosmach",
+    "country": "UA",
+    "coord": {
+      "lon": 24.82052,
+      "lat": 48.32991
+    },
+    "nameUa": "Космач",
+    "nameRu": "Космач"
+  },
+  {
+    "id": 704915,
+    "name": "Korop",
+    "country": "UA",
+    "coord": {
+      "lon": 32.958611,
+      "lat": 51.56638
+    },
+    "nameUa": "Короп",
+    "nameRu": "Короп"
+  },
+  {
+    "id": 704949,
+    "name": "Kornyn",
+    "country": "UA",
+    "coord": {
+      "lon": 29.53581,
+      "lat": 50.095299
+    },
+    "nameUa": "Корнин",
+    "nameRu": "Корнин"
+  },
+  {
+    "id": 704968,
+    "name": "Korets",
+    "country": "UA",
+    "coord": {
+      "lon": 27.160549,
+      "lat": 50.616539
+    },
+    "nameUa": "Корець",
+    "nameRu": "Корец"
+  },
+  {
+    "id": 704972,
+    "name": "Koreiz",
+    "country": "UA",
+    "coord": {
+      "lon": 34.085159,
+      "lat": 44.433739
+    },
+    "nameUa": "Кореїз",
+    "nameRu": "Кореиз"
+  },
+  {
+    "id": 705034,
+    "name": "Kopayhorod",
+    "country": "UA",
+    "coord": {
+      "lon": 27.7969,
+      "lat": 48.859169
+    },
+    "nameUa": "Копайгород",
+    "nameRu": "Копайгород"
+  },
+  {
+    "id": 705198,
+    "name": "Kompaniyivka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.207951,
+      "lat": 48.251148
+    },
+    "nameUa": "Компаніївка",
+    "nameRu": "Компанеевка"
+  },
+  {
+    "id": 705307,
+    "name": "Koloniya Zastavye",
+    "country": "UA",
+    "coord": {
+      "lon": 27.033331,
+      "lat": 50.816669
+    },
+    "nameUa": "Колонія Застав'є",
+    "nameRu": "Колония Заставье"
+  },
+  {
+    "id": 705431,
+    "name": "Kolodenka",
+    "country": "UA",
+    "coord": {
+      "lon": 26.31601,
+      "lat": 50.585609
+    },
+    "nameUa": "Колоденка",
+    "nameRu": "Колоденка"
+  },
+  {
+    "id": 705433,
+    "name": "Kolochava",
+    "country": "UA",
+    "coord": {
+      "lon": 23.6959,
+      "lat": 48.428509
+    },
+    "nameUa": "Колочава",
+    "nameRu": "Колочава"
+  },
+  {
+    "id": 705442,
+    "name": "Kulevcha",
+    "country": "UA",
+    "coord": {
+      "lon": 29.93614,
+      "lat": 46.030338
+    },
+    "nameUa": "Кулевча",
+    "nameRu": "Кулевча"
+  },
+  {
+    "id": 705493,
+    "name": "Kodyma",
+    "country": "UA",
+    "coord": {
+      "lon": 29.12463,
+      "lat": 48.098751
+    },
+    "nameUa": "Кодима",
+    "nameRu": "Кодыма"
+  },
+  {
+    "id": 705494,
+    "name": "Kodra",
+    "country": "UA",
+    "coord": {
+      "lon": 29.558741,
+      "lat": 50.594879
+    },
+    "nameUa": "Кодра",
+    "nameRu": "Кодра"
+  },
+  {
+    "id": 705512,
+    "name": "Kochetok",
+    "country": "UA",
+    "coord": {
+      "lon": 36.737228,
+      "lat": 49.880051
+    },
+    "nameUa": "Кочеток",
+    "nameRu": "Кочеток"
+  },
+  {
+    "id": 705524,
+    "name": "Kobyzhcha",
+    "country": "UA",
+    "coord": {
+      "lon": 31.504391,
+      "lat": 50.828541
+    },
+    "nameUa": "Кобижча",
+    "nameRu": "Кобыжча"
+  },
+  {
+    "id": 705540,
+    "name": "Kobleve",
+    "country": "UA",
+    "coord": {
+      "lon": 31.20804,
+      "lat": 46.664989
+    },
+    "nameUa": "Коблеве",
+    "nameRu": "Коблево"
+  },
+  {
+    "id": 705560,
+    "name": "Knyazhichi",
+    "country": "UA",
+    "coord": {
+      "lon": 30.783689,
+      "lat": 50.462749
+    },
+    "nameUa": "Княжичі",
+    "nameRu": "Княжичи"
+  },
+  {
+    "id": 705626,
+    "name": "Klishkivtsi",
+    "country": "UA",
+    "coord": {
+      "lon": 26.26231,
+      "lat": 48.43161
+    },
+    "nameUa": "Клішківці",
+    "nameRu": "Клишковцы"
+  },
+  {
+    "id": 705673,
+    "name": "Klenovyy",
+    "country": "UA",
+    "coord": {
+      "lon": 39.458801,
+      "lat": 48.119339
+    },
+    "nameUa": "Кленовий",
+    "nameRu": "Кленовый"
+  },
+  {
+    "id": 705681,
+    "name": "Klembivka",
+    "country": "UA",
+    "coord": {
+      "lon": 28.410919,
+      "lat": 48.390369
+    },
+    "nameUa": "Клембівка",
+    "nameRu": "Клембовка"
+  },
+  {
+    "id": 705689,
+    "name": "Klavdiyevo-Tarasove",
+    "country": "UA",
+    "coord": {
+      "lon": 30.011339,
+      "lat": 50.58416
+    },
+    "nameUa": "Клавдієво-Тарасове",
+    "nameRu": "Клавдиево-Тарасово"
+  },
+  {
+    "id": 705852,
+    "name": "Kyrylivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.367531,
+      "lat": 46.375919
+    },
+    "nameUa": "Кирилівка",
+    "nameRu": "Кирилловка"
+  },
+  {
+    "id": 705854,
+    "name": "Kirikovka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.114899,
+      "lat": 50.364079
+    },
+    "nameUa": "Кириківка",
+    "nameRu": "Кириковка"
+  },
+  {
+    "id": 706200,
+    "name": "Khrystynivka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.96806,
+      "lat": 48.824879
+    },
+    "nameUa": "Христинівка",
+    "nameRu": "Христиновка"
+  },
+  {
+    "id": 706232,
+    "name": "Khotov",
+    "country": "UA",
+    "coord": {
+      "lon": 30.468361,
+      "lat": 50.330681
+    },
+    "nameUa": "Хотів",
+    "nameRu": "Хотов"
+  },
+  {
+    "id": 706271,
+    "name": "Khorostkiv",
+    "country": "UA",
+    "coord": {
+      "lon": 25.92165,
+      "lat": 49.21114
+    },
+    "nameUa": "Хоростків",
+    "nameRu": "Хоростков"
+  },
+  {
+    "id": 706281,
+    "name": "Khorosheve",
+    "country": "UA",
+    "coord": {
+      "lon": 36.219479,
+      "lat": 49.852791
+    },
+    "nameUa": "Хорошеве",
+    "nameRu": "Хорошево"
+  },
+  {
+    "id": 706335,
+    "name": "Kholmy",
+    "country": "UA",
+    "coord": {
+      "lon": 32.600632,
+      "lat": 51.87096
+    },
+    "nameUa": "Холми",
+    "nameRu": "Холмы"
+  },
+  {
+    "id": 706352,
+    "name": "Khodorov",
+    "country": "UA",
+    "coord": {
+      "lon": 24.313601,
+      "lat": 49.406631
+    },
+    "nameUa": "Ходорів",
+    "nameRu": "Ходоров"
+  },
+  {
+    "id": 706434,
+    "name": "Khymchyn",
+    "country": "UA",
+    "coord": {
+      "lon": 25.148029,
+      "lat": 48.386391
+    },
+    "nameUa": "Химчин",
+    "nameRu": "Химчин"
+  },
+  {
+    "id": 706580,
+    "name": "Kazanka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.82177,
+      "lat": 47.846249
+    },
+    "nameUa": "Казанка",
+    "nameRu": "Казанка"
+  },
+  {
+    "id": 706596,
+    "name": "Kozachi Laheri",
+    "country": "UA",
+    "coord": {
+      "lon": 32.9776,
+      "lat": 46.70372
+    },
+    "nameUa": "Козачі Лагері",
+    "nameRu": "Казачьи Лагери"
+  },
+  {
+    "id": 706612,
+    "name": "Katyuzhanka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.13764,
+      "lat": 50.80595
+    },
+    "nameUa": "Катюжанка",
+    "nameRu": "Катюжанка"
+  },
+  {
+    "id": 706803,
+    "name": "Karapyshi",
+    "country": "UA",
+    "coord": {
+      "lon": 30.79002,
+      "lat": 49.642368
+    },
+    "nameUa": "Карапиші",
+    "nameRu": "Карапыши"
+  },
+  {
+    "id": 706883,
+    "name": "Kapitanivka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.716709,
+      "lat": 48.917191
+    },
+    "nameUa": "Капітанівка",
+    "nameRu": "Капитановка"
+  },
+  {
+    "id": 706914,
+    "name": "Kamysh-Zarya",
+    "country": "UA",
+    "coord": {
+      "lon": 36.692982,
+      "lat": 47.327549
+    },
+    "nameUa": "Комиш-Зоря",
+    "nameRu": "Камыш-Заря"
+  },
+  {
+    "id": 706915,
+    "name": "Kamyshnya",
+    "country": "UA",
+    "coord": {
+      "lon": 33.68401,
+      "lat": 50.185871
+    },
+    "nameUa": "Комишня",
+    "nameRu": "Камышня"
+  },
+  {
+    "id": 706921,
+    "name": "Kamyshevka Vtoraya",
+    "country": "UA",
+    "coord": {
+      "lon": 29.83333,
+      "lat": 46.23333
+    },
+    "nameUa": "Комишівка Друга",
+    "nameRu": "Камышовка Вторая"
+  },
+  {
+    "id": 706941,
+    "name": "Komyshuvakha",
+    "country": "UA",
+    "coord": {
+      "lon": 35.52882,
+      "lat": 47.717579
+    },
+    "nameUa": "Комишуваха",
+    "nameRu": "Камышеваха"
+  },
+  {
+    "id": 706945,
+    "name": "Komyshany",
+    "country": "UA",
+    "coord": {
+      "lon": 32.507191,
+      "lat": 46.637161
+    },
+    "nameUa": "Комишани",
+    "nameRu": "Камышаны"
+  },
+  {
+    "id": 706987,
+    "name": "Kamennyye Potoki",
+    "country": "UA",
+    "coord": {
+      "lon": 33.526379,
+      "lat": 48.97974
+    },
+    "nameUa": "Кам'яні Потоки",
+    "nameRu": "Каменные Потоки"
+  },
+  {
+    "id": 707002,
+    "name": "Kamennoye",
+    "country": "UA",
+    "coord": {
+      "lon": 39.165649,
+      "lat": 48.169281
+    },
+    "nameUa": "Кам'яне",
+    "nameRu": "Каменное"
+  },
+  {
+    "id": 707025,
+    "name": "Kamin-Kashyrskyy",
+    "country": "UA",
+    "coord": {
+      "lon": 24.958639,
+      "lat": 51.624119
+    },
+    "nameUa": "Камінь-Каширський",
+    "nameRu": "Камень-Каширский"
+  },
+  {
+    "id": 707052,
+    "name": "Kamianka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.103958,
+      "lat": 49.031799
+    },
+    "nameUa": "Кам'янка",
+    "nameRu": "Каменка"
+  },
+  {
+    "id": 707127,
+    "name": "Kalyny",
+    "country": "UA",
+    "coord": {
+      "lon": 23.8738,
+      "lat": 48.140781
+    },
+    "nameUa": "Калини",
+    "nameRu": "Калины"
+  },
+  {
+    "id": 707220,
+    "name": "Kalchevaya",
+    "country": "UA",
+    "coord": {
+      "lon": 28.814051,
+      "lat": 45.73737
+    },
+    "nameUa": "Калчева",
+    "nameRu": "Калчева"
+  },
+  {
+    "id": 707245,
+    "name": "Kayiry",
+    "country": "UA",
+    "coord": {
+      "lon": 33.705921,
+      "lat": 46.94537
+    },
+    "nameUa": "Каїри",
+    "nameRu": "Каиры"
+  },
+  {
+    "id": 707257,
+    "name": "Kadubivtsi",
+    "country": "UA",
+    "coord": {
+      "lon": 25.768709,
+      "lat": 48.58337
+    },
+    "nameUa": "Кадубівці",
+    "nameRu": "Кадубовцы"
+  },
+  {
+    "id": 707281,
+    "name": "Kacha",
+    "country": "UA",
+    "coord": {
+      "lon": 33.543869,
+      "lat": 44.776348
+    },
+    "nameUa": "Кача",
+    "nameRu": "Кача"
+  },
+  {
+    "id": 829745,
+    "name": "Kopashnovo",
+    "country": "UA",
+    "coord": {
+      "lon": 23.48457,
+      "lat": 48.2197
+    },
+    "nameUa": "Копашново",
+    "nameRu": "Копашново"
+  },
+  {
+    "id": 829795,
+    "name": "Kirove",
+    "country": "UA",
+    "coord": {
+      "lon": 35.695122,
+      "lat": 47.653111
+    },
+    "nameUa": "Таврійське",
+    "nameRu": "Таврийское"
+  },
+  {
+    "id": 860012,
+    "name": "Krasni Okny",
+    "country": "UA",
+    "coord": {
+      "lon": 29.460011,
+      "lat": 47.54044
+    },
+    "nameUa": "Окни",
+    "nameRu": "Окны"
+  },
+  {
+    "id": 864871,
+    "name": "Kuchurhan",
+    "country": "UA",
+    "coord": {
+      "lon": 29.789379,
+      "lat": 47.163021
+    },
+    "nameUa": "Кучурган",
+    "nameRu": "Кучурган"
+  },
+  {
+    "id": 706075,
+    "name": "Khmil’",
+    "country": "UA",
+    "coord": {
+      "lon": 27.35268,
+      "lat": 51.478821
+    },
+    "nameUa": "Хміль",
+    "nameRu": "Хмель"
+  },
+  {
+    "id": 705797,
+    "name": "Kirovskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 38.363239,
+      "lat": 48.148251
+    },
+    "nameUa": "Кіровське",
+    "nameRu": "Кировское"
+  },
+  {
+    "id": 705798,
+    "name": "Kirovs’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 33.077702,
+      "lat": 45.54504
+    },
+    "nameUa": "Кіровське",
+    "nameRu": "Кировское"
+  }
+]

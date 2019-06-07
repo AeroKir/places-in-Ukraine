@@ -1,0 +1,629 @@
+[
+  {
+    "id": 695305,
+    "name": "Rozovka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.316669,
+      "lat": 47.216671
+    },
+    "nameUa": "Розівка",
+    "nameRu": "Розовка"
+  },
+  {
+    "id": 695394,
+    "name": "Rosvigovo",
+    "country": "UA",
+    "coord": {
+      "lon": 22.701941,
+      "lat": 48.451172
+    },
+    "nameUa": "Росвигово",
+    "nameRu": "Росвигово"
+  },
+  {
+    "id": 695572,
+    "name": "Rodnykivs’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 33.849998,
+      "lat": 44.466667
+    },
+    "nameUa": "Родниківське",
+    "nameRu": "Родниковское"
+  },
+  {
+    "id": 695947,
+    "name": "Rabochiy Ugolok",
+    "country": "UA",
+    "coord": {
+      "lon": 34.400002,
+      "lat": 44.650002
+    },
+    "nameUa": "Робочий куток",
+    "nameRu": "Рабочий уголок"
+  },
+  {
+    "id": 695646,
+    "name": "Rezervne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.666668,
+      "lat": 44.466667
+    },
+    "nameUa": "Резервне",
+    "nameRu": "Резервное"
+  },
+  {
+    "id": 695347,
+    "name": "Rozy Lyuksemburh",
+    "country": "UA",
+    "coord": {
+      "lon": 34.883331,
+      "lat": 46.400002
+    },
+    "nameUa": "Херсонське",
+    "nameRu": "Херсонское"
+  },
+  {
+    "id": 695641,
+    "name": "Reshetilovskiy Kut",
+    "country": "UA",
+    "coord": {
+      "lon": 35.283333,
+      "lat": 48.666668
+    },
+    "nameUa": "Решетилівський Кут",
+    "nameRu": "Решетиловский Кут"
+  },
+  {
+    "id": 695570,
+    "name": "Rodomyslovka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.284721,
+      "lat": 49.293331
+    },
+    "nameUa": "Радомислівка",
+    "nameRu": "Радомысловка"
+  },
+  {
+    "id": 690029,
+    "name": "Rozivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.960609,
+      "lat": 46.507191
+    },
+    "nameUa": "Розівка",
+    "nameRu": "Розовка"
+  },
+  {
+    "id": 7046809,
+    "name": "Rivne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.757729,
+      "lat": 46.360168
+    },
+    "nameUa": "Рівне",
+    "nameRu": "Ровное"
+  },
+  {
+    "id": 6987036,
+    "name": "Rozovyy",
+    "country": "UA",
+    "coord": {
+      "lon": 34.318111,
+      "lat": 44.695549
+    },
+    "nameUa": "Розовий",
+    "nameRu": "Розовый"
+  },
+  {
+    "id": 695053,
+    "name": "Rybache",
+    "country": "UA",
+    "coord": {
+      "lon": 34.592991,
+      "lat": 44.772388
+    },
+    "nameUa": "Рибаче",
+    "nameRu": "Рыбачье"
+  },
+  {
+    "id": 695592,
+    "name": "Rivnens’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 26.5,
+      "lat": 51
+    },
+    "nameUa": "Рівненська область",
+    "nameRu": "Ровненская область"
+  },
+  {
+    "id": 695594,
+    "name": "Rivne",
+    "country": "UA",
+    "coord": {
+      "lon": 26.22743,
+      "lat": 50.623081
+    },
+    "nameUa": "Рівне",
+    "nameRu": "Ровно"
+  },
+  {
+    "id": 694992,
+    "name": "Rzhyshchiv",
+    "country": "UA",
+    "coord": {
+      "lon": 31.04628,
+      "lat": 49.968861
+    },
+    "nameUa": "Ржищів",
+    "nameRu": "Ржищев"
+  },
+  {
+    "id": 695326,
+    "name": "Rozhyshche",
+    "country": "UA",
+    "coord": {
+      "lon": 25.26906,
+      "lat": 50.915421
+    },
+    "nameUa": "Рожище",
+    "nameRu": "Рожище"
+  },
+  {
+    "id": 695209,
+    "name": "Rudniki",
+    "country": "UA",
+    "coord": {
+      "lon": 23.15502,
+      "lat": 49.802639
+    },
+    "nameUa": "Рудники",
+    "nameRu": "Рудники"
+  },
+  {
+    "id": 695464,
+    "name": "Romny",
+    "country": "UA",
+    "coord": {
+      "lon": 33.474709,
+      "lat": 50.751041
+    },
+    "nameUa": "Ромни",
+    "nameRu": "Ромны"
+  },
+  {
+    "id": 695912,
+    "name": "Radomyshl",
+    "country": "UA",
+    "coord": {
+      "lon": 29.229111,
+      "lat": 50.496132
+    },
+    "nameUa": "Радомишль",
+    "nameRu": "Радомышль"
+  },
+  {
+    "id": 695344,
+    "name": "Rozdilna",
+    "country": "UA",
+    "coord": {
+      "lon": 30.079189,
+      "lat": 46.843342
+    },
+    "nameUa": "Роздільна",
+    "nameRu": "Раздельная"
+  },
+  {
+    "id": 695670,
+    "name": "Reni",
+    "country": "UA",
+    "coord": {
+      "lon": 28.293171,
+      "lat": 45.457272
+    },
+    "nameUa": "Рені",
+    "nameRu": "Рени"
+  },
+  {
+    "id": 695274,
+    "name": "Rubizhne",
+    "country": "UA",
+    "coord": {
+      "lon": 38.379669,
+      "lat": 49.012291
+    },
+    "nameUa": "Рубіжне",
+    "nameRu": "Рубежное"
+  },
+  {
+    "id": 695859,
+    "name": "Rakhiv",
+    "country": "UA",
+    "coord": {
+      "lon": 24.20089,
+      "lat": 48.052601
+    },
+    "nameUa": "Рахів",
+    "nameRu": "Рахов"
+  },
+  {
+    "id": 710565,
+    "name": "Radyvyliv",
+    "country": "UA",
+    "coord": {
+      "lon": 25.25576,
+      "lat": 50.12994
+    },
+    "nameUa": "Радивилів",
+    "nameRu": "Радивилов"
+  },
+  {
+    "id": 695379,
+    "name": "Rovenki",
+    "country": "UA",
+    "coord": {
+      "lon": 39.37764,
+      "lat": 48.083321
+    },
+    "nameUa": "Ровеньки",
+    "nameRu": "Ровеньки"
+  },
+  {
+    "id": 695643,
+    "name": "Reshetylivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.078152,
+      "lat": 49.56501
+    },
+    "nameUa": "Решетилівка",
+    "nameRu": "Решетиловка"
+  },
+  {
+    "id": 695516,
+    "name": "Rokytne",
+    "country": "UA",
+    "coord": {
+      "lon": 27.214001,
+      "lat": 51.279598
+    },
+    "nameUa": "Рокитне",
+    "nameRu": "Рокитное"
+  },
+  {
+    "id": 695579,
+    "name": "Rodionovka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.231941,
+      "lat": 47.996239
+    },
+    "nameUa": "Радіонівка",
+    "nameRu": "Радионовка"
+  },
+  {
+    "id": 695026,
+    "name": "Rykhtichi",
+    "country": "UA",
+    "coord": {
+      "lon": 23.55662,
+      "lat": 49.385109
+    },
+    "nameUa": "Рихтичі",
+    "nameRu": "Рыхтичи"
+  },
+  {
+    "id": 695052,
+    "name": "Rybakivka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.349951,
+      "lat": 46.617119
+    },
+    "nameUa": "Рибаківка",
+    "nameRu": "Рыбаковка"
+  },
+  {
+    "id": 695082,
+    "name": "Ruzhyn",
+    "country": "UA",
+    "coord": {
+      "lon": 29.20455,
+      "lat": 49.722801
+    },
+    "nameUa": "Ружин",
+    "nameRu": "Ружин"
+  },
+  {
+    "id": 695104,
+    "name": "Russkaya Polyana",
+    "country": "UA",
+    "coord": {
+      "lon": 31.92009,
+      "lat": 49.417
+    },
+    "nameUa": "Руська Поляна",
+    "nameRu": "Русская Поляна"
+  },
+  {
+    "id": 695205,
+    "name": "Rudne",
+    "country": "UA",
+    "coord": {
+      "lon": 23.9,
+      "lat": 49.833328
+    },
+    "nameUa": "Рудне",
+    "nameRu": "Рудно"
+  },
+  {
+    "id": 695221,
+    "name": "Rudki",
+    "country": "UA",
+    "coord": {
+      "lon": 23.48702,
+      "lat": 49.653061
+    },
+    "nameUa": "Рудки",
+    "nameRu": "Рудки"
+  },
+  {
+    "id": 695298,
+    "name": "Rozvadov",
+    "country": "UA",
+    "coord": {
+      "lon": 23.616671,
+      "lat": 49.5
+    },
+    "nameUa": "Розвадів",
+    "nameRu": "Розвадов"
+  },
+  {
+    "id": 695307,
+    "name": "Rozivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.772388,
+      "lat": 46.938461
+    },
+    "nameUa": "Розівка",
+    "nameRu": "Розовка"
+  },
+  {
+    "id": 695315,
+    "name": "Rozhnyativ",
+    "country": "UA",
+    "coord": {
+      "lon": 24.16379,
+      "lat": 48.93576
+    },
+    "nameUa": "Рожнятів",
+    "nameRu": "Рожнятов"
+  },
+  {
+    "id": 695320,
+    "name": "Rozhniv",
+    "country": "UA",
+    "coord": {
+      "lon": 25.2258,
+      "lat": 48.365971
+    },
+    "nameUa": "Рожнів",
+    "nameRu": "Рожнов"
+  },
+  {
+    "id": 695342,
+    "name": "Rozdo",
+    "country": "UA",
+    "coord": {
+      "lon": 24.0623,
+      "lat": 49.461441
+    },
+    "nameUa": "Розділ",
+    "nameRu": "Роздол"
+  },
+  {
+    "id": 695365,
+    "name": "Rivne",
+    "country": "UA",
+    "coord": {
+      "lon": 31.75432,
+      "lat": 48.247421
+    },
+    "nameUa": "Рівне",
+    "nameRu": "Ровное"
+  },
+  {
+    "id": 695439,
+    "name": "Roskoshnyy",
+    "country": "UA",
+    "coord": {
+      "lon": 30.18471,
+      "lat": 49.370869
+    },
+    "nameUa": "Розкішна",
+    "nameRu": "Роскошная"
+  },
+  {
+    "id": 695441,
+    "name": "Roskoshnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 39.300362,
+      "lat": 48.507431
+    },
+    "nameUa": "Розкішне",
+    "nameRu": "Роскошное"
+  },
+  {
+    "id": 695459,
+    "name": "Ropcha",
+    "country": "UA",
+    "coord": {
+      "lon": 25.77421,
+      "lat": 48.119881
+    },
+    "nameUa": "Ропча",
+    "nameRu": "Ропча"
+  },
+  {
+    "id": 695463,
+    "name": "Romodan",
+    "country": "UA",
+    "coord": {
+      "lon": 33.331779,
+      "lat": 49.989761
+    },
+    "nameUa": "Ромодан",
+    "nameRu": "Ромодан"
+  },
+  {
+    "id": 695515,
+    "name": "Rokosovo",
+    "country": "UA",
+    "coord": {
+      "lon": 23.176241,
+      "lat": 48.210178
+    },
+    "nameUa": "Рокосово",
+    "nameRu": "Рокосово"
+  },
+  {
+    "id": 695559,
+    "name": "Rogatin",
+    "country": "UA",
+    "coord": {
+      "lon": 24.609261,
+      "lat": 49.409
+    },
+    "nameUa": "Рогатин",
+    "nameRu": "Рогатин"
+  },
+  {
+    "id": 695574,
+    "name": "Rodnykove",
+    "country": "UA",
+    "coord": {
+      "lon": 33.954071,
+      "lat": 45.042961
+    },
+    "nameUa": "Родникове",
+    "nameRu": "Родниково"
+  },
+  {
+    "id": 695581,
+    "name": "Rodinskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 37.20602,
+      "lat": 48.35199
+    },
+    "nameUa": "Родинське",
+    "nameRu": "Родинское"
+  },
+  {
+    "id": 695653,
+    "name": "Ripky",
+    "country": "UA",
+    "coord": {
+      "lon": 31.08383,
+      "lat": 51.801048
+    },
+    "nameUa": "Ріпки",
+    "nameRu": "Репки"
+  },
+  {
+    "id": 695699,
+    "name": "Rechka",
+    "country": "UA",
+    "coord": {
+      "lon": 24.9333,
+      "lat": 48.280338
+    },
+    "nameUa": "Річка",
+    "nameRu": "Речка"
+  },
+  {
+    "id": 695740,
+    "name": "Rozdolne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.48777,
+      "lat": 45.770828
+    },
+    "nameUa": "Роздольне",
+    "nameRu": "Раздольное"
+  },
+  {
+    "id": 695789,
+    "name": "Ratne",
+    "country": "UA",
+    "coord": {
+      "lon": 24.5303,
+      "lat": 51.668301
+    },
+    "nameUa": "Ратне",
+    "nameRu": "Ратно"
+  },
+  {
+    "id": 695798,
+    "name": "Rassypnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 38.57618,
+      "lat": 48.149658
+    },
+    "nameUa": "Розсипне",
+    "nameRu": "Рассыпное"
+  },
+  {
+    "id": 695821,
+    "name": "Ralevka",
+    "country": "UA",
+    "coord": {
+      "lon": 23.24058,
+      "lat": 49.50053
+    },
+    "nameUa": "Ралівка",
+    "nameRu": "Ралевка"
+  },
+  {
+    "id": 695826,
+    "name": "Rakiv Lis",
+    "country": "UA",
+    "coord": {
+      "lon": 24.924271,
+      "lat": 51.621738
+    },
+    "nameUa": "Раків Ліс",
+    "nameRu": "Раков Лес"
+  },
+  {
+    "id": 695844,
+    "name": "Rakoshyno",
+    "country": "UA",
+    "coord": {
+      "lon": 22.59687,
+      "lat": 48.467129
+    },
+    "nameUa": "Ракошино",
+    "nameRu": "Ракошино"
+  },
+  {
+    "id": 695937,
+    "name": "Radcha",
+    "country": "UA",
+    "coord": {
+      "lon": 24.65502,
+      "lat": 48.850231
+    },
+    "nameUa": "Радча",
+    "nameRu": "Радча"
+  }
+]

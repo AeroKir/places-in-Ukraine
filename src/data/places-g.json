@@ -1,0 +1,266 @@
+[
+  {
+    "id": 708408,
+    "name": "Gornaya Zdravnitsa",
+    "country": "UA",
+    "coord": {
+      "lon": 34.133331,
+      "lat": 44.466667
+    },
+    "nameUa": "Гірська Здравниця",
+    "nameRu": "Горная Здравница"
+  },
+  {
+    "id": 708507,
+    "name": "Goncharova",
+    "country": "UA",
+    "coord": {
+      "lon": 35.266666,
+      "lat": 44.983334
+    },
+    "nameUa": "Гончарова",
+    "nameRu": "Гончарова"
+  },
+  {
+    "id": 708953,
+    "name": "Gaspra",
+    "country": "UA",
+    "coord": {
+      "lon": 34.099998,
+      "lat": 44.433334
+    },
+    "nameUa": "Гаспра",
+    "nameRu": "Гаспра"
+  },
+  {
+    "id": 708506,
+    "name": "Goncharovka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.166668,
+      "lat": 45.066666
+    },
+    "nameUa": "Первомайське",
+    "nameRu": "Первомайское"
+  },
+  {
+    "id": 708662,
+    "name": "Gnorovskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 35.266666,
+      "lat": 48.033333
+    },
+    "nameUa": "Гнаровське",
+    "nameRu": "Гнаровское"
+  },
+  {
+    "id": 708633,
+    "name": "Gogulina",
+    "country": "UA",
+    "coord": {
+      "lon": 26.216667,
+      "lat": 48.233334
+    },
+    "nameUa": "Зелений Гай",
+    "nameRu": "Зелёный Гай"
+  },
+  {
+    "id": 708266,
+    "name": "Goryanovskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.866669,
+      "lat": 48.583332
+    },
+    "nameUa": "Горянівське",
+    "nameRu": "Горяновское"
+  },
+  {
+    "id": 708545,
+    "name": "Golubinoye",
+    "country": "UA",
+    "coord": {
+      "lon": 22.966667,
+      "lat": 48.566666
+    },
+    "nameUa": "Голубине",
+    "nameRu": "Голубиное"
+  },
+  {
+    "id": 707800,
+    "name": "Gutertal’",
+    "country": "UA",
+    "coord": {
+      "lon": 35.200001,
+      "lat": 46.75
+    },
+    "nameUa": "Кирпичне",
+    "nameRu": "Кирпичное"
+  },
+  {
+    "id": 708421,
+    "name": "Gorki",
+    "country": "UA",
+    "coord": {
+      "lon": 37.549999,
+      "lat": 48.716671
+    },
+    "nameUa": "Гірки",
+    "nameRu": "Горки"
+  },
+  {
+    "id": 707928,
+    "name": "Gubinikha",
+    "country": "UA",
+    "coord": {
+      "lon": 35.254719,
+      "lat": 48.810829
+    },
+    "nameUa": "Губиниха",
+    "nameRu": "Губиниха"
+  },
+  {
+    "id": 708395,
+    "name": "Gornyak",
+    "country": "UA",
+    "coord": {
+      "lon": 37.373089,
+      "lat": 48.055698
+    },
+    "nameUa": "Гірник",
+    "nameRu": "Горняк"
+  },
+  {
+    "id": 708367,
+    "name": "Gorodishche",
+    "country": "UA",
+    "coord": {
+      "lon": 35.845509,
+      "lat": 48.518162
+    },
+    "nameUa": "Городище",
+    "nameRu": "Городище"
+  },
+  {
+    "id": 708928,
+    "name": "Gavrilovka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.049999,
+      "lat": 49.98333
+    },
+    "nameUa": "Гаврилівка",
+    "nameRu": "Гавриловка"
+  },
+  {
+    "id": 708431,
+    "name": "Gorishni Plavni",
+    "country": "UA",
+    "coord": {
+      "lon": 33.650002,
+      "lat": 49.033329
+    },
+    "nameUa": "Горішні Плавні",
+    "nameRu": "Горишние Плавни"
+  },
+  {
+    "id": 708784,
+    "name": "Glevakha",
+    "country": "UA",
+    "coord": {
+      "lon": 30.327061,
+      "lat": 50.274231
+    },
+    "nameUa": "Глеваха",
+    "nameRu": "Глеваха"
+  },
+  {
+    "id": 708553,
+    "name": "Golta",
+    "country": "UA",
+    "coord": {
+      "lon": 30.862591,
+      "lat": 48.027969
+    },
+    "nameUa": "Голта",
+    "nameRu": "Голта"
+  },
+  {
+    "id": 708179,
+    "name": "Grebënki",
+    "country": "UA",
+    "coord": {
+      "lon": 30.193211,
+      "lat": 49.95536
+    },
+    "nameUa": "Гребінки",
+    "nameRu": "Гребёнки"
+  },
+  {
+    "id": 708296,
+    "name": "Gorokhov",
+    "country": "UA",
+    "coord": {
+      "lon": 24.76148,
+      "lat": 50.501862
+    },
+    "nameUa": "Горохів",
+    "nameRu": "Горохов"
+  },
+  {
+    "id": 709034,
+    "name": "Galich",
+    "country": "UA",
+    "coord": {
+      "lon": 24.72578,
+      "lat": 49.121792
+    },
+    "nameUa": "Галич",
+    "nameRu": "Галич"
+  },
+  {
+    "id": 707921,
+    "name": "Guchok",
+    "country": "UA",
+    "coord": {
+      "lon": 22.783331,
+      "lat": 49.566669
+    },
+    "nameUa": "Гучок",
+    "nameRu": "Гучёк"
+  },
+  {
+    "id": 708210,
+    "name": "Gradizhsk",
+    "country": "UA",
+    "coord": {
+      "lon": 33.136131,
+      "lat": 49.234581
+    },
+    "nameUa": "Градизьк",
+    "nameRu": "Градижск"
+  },
+  {
+    "id": 708273,
+    "name": "Gorskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 38.495411,
+      "lat": 48.73468
+    },
+    "nameUa": "Гірське",
+    "nameRu": "Горское"
+  },
+  {
+    "id": 708695,
+    "name": "Gnedin",
+    "country": "UA",
+    "coord": {
+      "lon": 30.71059,
+      "lat": 50.328999
+    },
+    "nameUa": "Гнідин",
+    "nameRu": "Гнедин"
+  }
+]

@@ -1,0 +1,541 @@
+[
+  {
+    "id": 461727,
+    "name": "Olenevka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.533329,
+      "lat": 45.383331
+    },
+    "nameUa": "Оленівка",
+    "nameRu": "Оленевка"
+  },
+  {
+    "id": 698283,
+    "name": "Osokorki",
+    "country": "UA",
+    "coord": {
+      "lon": 30.6,
+      "lat": 50.400002
+    },
+    "nameUa": "Осокорки",
+    "nameRu": "Осокорки"
+  },
+  {
+    "id": 698466,
+    "name": "Opolzneve",
+    "country": "UA",
+    "coord": {
+      "lon": 33.933334,
+      "lat": 44.400002
+    },
+    "nameUa": "Оползневе",
+    "nameRu": "Оползневое"
+  },
+  {
+    "id": 698159,
+    "name": "Otradnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.219451,
+      "lat": 44.50881
+    },
+    "nameUa": "Відрадне",
+    "nameRu": "Отрадное"
+  },
+  {
+    "id": 698391,
+    "name": "Orlyne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.766666,
+      "lat": 44.450001
+    },
+    "nameUa": "Орлине",
+    "nameRu": "Орлиное"
+  },
+  {
+    "id": 698351,
+    "name": "Ortay",
+    "country": "UA",
+    "coord": {
+      "lon": 35.150002,
+      "lat": 45.183334
+    },
+    "nameUa": "Фрунзево",
+    "nameRu": "Фрунзево"
+  },
+  {
+    "id": 698738,
+    "name": "Odes’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 30,
+      "lat": 47
+    },
+    "nameUa": "Одеська область",
+    "nameRu": "Одесская область"
+  },
+  {
+    "id": 698740,
+    "name": "Odessa",
+    "country": "UA",
+    "coord": {
+      "lon": 30.732622,
+      "lat": 46.477474
+    },
+    "nameUa": "Одеса",
+    "nameRu": "Одесса"
+  },
+  {
+    "id": 698362,
+    "name": "Orlovshchina",
+    "country": "UA",
+    "coord": {
+      "lon": 35.333332,
+      "lat": 48.633331
+    },
+    "nameUa": "Орлівщина",
+    "nameRu": "Орловщина"
+  },
+  {
+    "id": 698542,
+    "name": "Ol’khovtsy",
+    "country": "UA",
+    "coord": {
+      "lon": 26.516666,
+      "lat": 48.650002
+    },
+    "nameUa": "Вільховець",
+    "nameRu": "Ольховец"
+  },
+  {
+    "id": 808832,
+    "name": "Otdokhnina",
+    "country": "UA",
+    "coord": {
+      "lon": 36.323059,
+      "lat": 49.061668
+    },
+    "nameUa": "Оддихне",
+    "nameRu": "Отдыхное"
+  },
+  {
+    "id": 698410,
+    "name": "Orekhovskiy",
+    "country": "UA",
+    "coord": {
+      "lon": 35.316669,
+      "lat": 47.333328
+    },
+    "nameUa": "Петрівка",
+    "nameRu": "Петровка"
+  },
+  {
+    "id": 691842,
+    "name": "Ostrovs’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 34.421612,
+      "lat": 45.769058
+    },
+    "nameUa": "Островське",
+    "nameRu": "Островское"
+  },
+  {
+    "id": 698652,
+    "name": "Oktyabrs’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 34.126678,
+      "lat": 45.292839
+    },
+    "nameUa": "Октябрське",
+    "nameRu": "Октябрьское"
+  },
+  {
+    "id": 698166,
+    "name": "Otesh-Eli",
+    "country": "UA",
+    "coord": {
+      "lon": 33.76667,
+      "lat": 44.833328
+    },
+    "nameUa": "Отеш-Елі",
+    "nameRu": "Отеш-Эли"
+  },
+  {
+    "id": 7019825,
+    "name": "Oktyabrs’kyy",
+    "country": "UA",
+    "coord": {
+      "lon": 33.604359,
+      "lat": 44.592049
+    },
+    "nameUa": "Октябрський",
+    "nameRu": "Октябрьский"
+  },
+  {
+    "id": 698138,
+    "name": "Ovidiopol",
+    "country": "UA",
+    "coord": {
+      "lon": 30.441271,
+      "lat": 46.249981
+    },
+    "nameUa": "Овідіополь",
+    "nameRu": "Овидиополь"
+  },
+  {
+    "id": 698782,
+    "name": "Obukhiv",
+    "country": "UA",
+    "coord": {
+      "lon": 30.622721,
+      "lat": 50.10997
+    },
+    "nameUa": "Обухів",
+    "nameRu": "Обухов"
+  },
+  {
+    "id": 698247,
+    "name": "Oster",
+    "country": "UA",
+    "coord": {
+      "lon": 30.88229,
+      "lat": 50.9506
+    },
+    "nameUa": "Остер",
+    "nameRu": "Остёр"
+  },
+  {
+    "id": 698436,
+    "name": "Ordzhonikidze",
+    "country": "UA",
+    "coord": {
+      "lon": 34.05957,
+      "lat": 47.667622
+    },
+    "nameUa": "Покров",
+    "nameRu": "Покров"
+  },
+  {
+    "id": 698770,
+    "name": "Ochakiv",
+    "country": "UA",
+    "coord": {
+      "lon": 31.54982,
+      "lat": 46.612831
+    },
+    "nameUa": "Очаків",
+    "nameRu": "Очаков"
+  },
+  {
+    "id": 698232,
+    "name": "Ostroh",
+    "country": "UA",
+    "coord": {
+      "lon": 26.51425,
+      "lat": 50.329418
+    },
+    "nameUa": "Острог",
+    "nameRu": "Острог"
+  },
+  {
+    "id": 698597,
+    "name": "Olevsk",
+    "country": "UA",
+    "coord": {
+      "lon": 27.652281,
+      "lat": 51.224819
+    },
+    "nameUa": "Олевськ",
+    "nameRu": "Олевск"
+  },
+  {
+    "id": 698625,
+    "name": "Oleksandriya",
+    "country": "UA",
+    "coord": {
+      "lon": 33.115929,
+      "lat": 48.669609
+    },
+    "nameUa": "Олександрія",
+    "nameRu": "Александрия"
+  },
+  {
+    "id": 698627,
+    "name": "Oleksandrivka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.234921,
+      "lat": 48.96336
+    },
+    "nameUa": "Олександрівка",
+    "nameRu": "Александровка"
+  },
+  {
+    "id": 713749,
+    "name": "Okhtyrka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.898788,
+      "lat": 50.31036
+    },
+    "nameUa": "Охтирка",
+    "nameRu": "Ахтырка"
+  },
+  {
+    "id": 698450,
+    "name": "Orativ",
+    "country": "UA",
+    "coord": {
+      "lon": 29.52697,
+      "lat": 49.188889
+    },
+    "nameUa": "Оратів",
+    "nameRu": "Оратов"
+  },
+  {
+    "id": 698598,
+    "name": "Olesko",
+    "country": "UA",
+    "coord": {
+      "lon": 24.89336,
+      "lat": 49.96233
+    },
+    "nameUa": "Олесько",
+    "nameRu": "Олеско"
+  },
+  {
+    "id": 713683,
+    "name": "Oleksandrivka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.634809,
+      "lat": 46.32893
+    },
+    "nameUa": "Олександрівка",
+    "nameRu": "Александровка"
+  },
+  {
+    "id": 698131,
+    "name": "Ovruch",
+    "country": "UA",
+    "coord": {
+      "lon": 28.803511,
+      "lat": 51.3246
+    },
+    "nameUa": "Овруч",
+    "nameRu": "Овруч"
+  },
+  {
+    "id": 698459,
+    "name": "Opryshovtse",
+    "country": "UA",
+    "coord": {
+      "lon": 24.712179,
+      "lat": 48.880901
+    },
+    "nameUa": "Опришівці",
+    "nameRu": "Опришевцы"
+  },
+  {
+    "id": 698428,
+    "name": "Orikhiv",
+    "country": "UA",
+    "coord": {
+      "lon": 35.785751,
+      "lat": 47.56731
+    },
+    "nameUa": "Оріхів",
+    "nameRu": "Орехов"
+  },
+  {
+    "id": 698102,
+    "name": "Ozerne",
+    "country": "UA",
+    "coord": {
+      "lon": 28.733841,
+      "lat": 50.178162
+    },
+    "nameUa": "Озерне",
+    "nameRu": "Озёрное"
+  },
+  {
+    "id": 698107,
+    "name": "Ozerne",
+    "country": "UA",
+    "coord": {
+      "lon": 28.675461,
+      "lat": 45.403
+    },
+    "nameUa": "Озерне",
+    "nameRu": "Озёрное"
+  },
+  {
+    "id": 698110,
+    "name": "Ozerna",
+    "country": "UA",
+    "coord": {
+      "lon": 25.328951,
+      "lat": 49.62891
+    },
+    "nameUa": "Озерна",
+    "nameRu": "Озёрная"
+  },
+  {
+    "id": 698142,
+    "name": "Otyniya",
+    "country": "UA",
+    "coord": {
+      "lon": 24.861111,
+      "lat": 48.737671
+    },
+    "nameUa": "Отинія",
+    "nameRu": "Отыния"
+  },
+  {
+    "id": 698316,
+    "name": "Osypenko",
+    "country": "UA",
+    "coord": {
+      "lon": 36.825298,
+      "lat": 46.913601
+    },
+    "nameUa": "Осипенко",
+    "nameRu": "Осипенко"
+  },
+  {
+    "id": 698346,
+    "name": "Orzhytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 32.701221,
+      "lat": 49.791821
+    },
+    "nameUa": "Оржиця",
+    "nameRu": "Оржица"
+  },
+  {
+    "id": 698438,
+    "name": "Ordzhonikidze",
+    "country": "UA",
+    "coord": {
+      "lon": 35.353746,
+      "lat": 44.967379
+    },
+    "nameUa": "Орджонікідзе",
+    "nameRu": "Орджоникидзе"
+  },
+  {
+    "id": 698462,
+    "name": "Oposhnya",
+    "country": "UA",
+    "coord": {
+      "lon": 34.612259,
+      "lat": 49.95652
+    },
+    "nameUa": "Опішня",
+    "nameRu": "Опошня"
+  },
+  {
+    "id": 698479,
+    "name": "Onufriyivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.448689,
+      "lat": 48.907162
+    },
+    "nameUa": "Онуфріївка",
+    "nameRu": "Онуфриевка"
+  },
+  {
+    "id": 698502,
+    "name": "Olyka",
+    "country": "UA",
+    "coord": {
+      "lon": 25.81251,
+      "lat": 50.718552
+    },
+    "nameUa": "Олика",
+    "nameRu": "Олыка"
+  },
+  {
+    "id": 698510,
+    "name": "Olshanskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 31.793751,
+      "lat": 47.184109
+    },
+    "nameUa": "Ольшанське",
+    "nameRu": "Ольшанское"
+  },
+  {
+    "id": 698570,
+    "name": "Olishevka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.333139,
+      "lat": 51.22266
+    },
+    "nameUa": "Олишівка",
+    "nameRu": "Олишевка"
+  },
+  {
+    "id": 698790,
+    "name": "Obroshyne",
+    "country": "UA",
+    "coord": {
+      "lon": 23.866671,
+      "lat": 49.783329
+    },
+    "nameUa": "Оброшине",
+    "nameRu": "Оброшино"
+  },
+  {
+    "id": 698807,
+    "name": "Obodivka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.247749,
+      "lat": 48.40514
+    },
+    "nameUa": "Ободівка",
+    "nameRu": "Ободовка"
+  },
+  {
+    "id": 698825,
+    "name": "Obertyn",
+    "country": "UA",
+    "coord": {
+      "lon": 25.17012,
+      "lat": 48.700321
+    },
+    "nameUa": "Обертин",
+    "nameRu": "Обертин"
+  },
+  {
+    "id": 832394,
+    "name": "Orikhove",
+    "country": "UA",
+    "coord": {
+      "lon": 33.631802,
+      "lat": 45.12944
+    },
+    "nameUa": "Оріхове",
+    "nameRu": "Орехово"
+  },
+  {
+    "id": 6931023,
+    "name": "Orzhiv",
+    "country": "UA",
+    "coord": {
+      "lon": 26.115875,
+      "lat": 50.754486
+    },
+    "nameUa": "Оржів",
+    "nameRu": "Оржев"
+  }
+]

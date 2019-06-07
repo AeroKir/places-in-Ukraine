@@ -1,0 +1,420 @@
+[
+  {
+    "id": 688105,
+    "name": "Yevpatoriya",
+    "country": "UA",
+    "coord": {
+      "lon": 33.355831,
+      "lat": 45.197224
+    },
+    "nameUa": "Євпаторія",
+    "nameRu": "Евпатория"
+  },
+  {
+    "id": 688041,
+    "name": "Yurov",
+    "country": "UA",
+    "coord": {
+      "lon": 29.733334,
+      "lat": 50.416668
+    },
+    "nameUa": "Юрів",
+    "nameRu": "Юров"
+  },
+  {
+    "id": 688052,
+    "name": "Yurkivka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.10125,
+      "lat": 49.012562
+    },
+    "nameUa": "Юрківка",
+    "nameRu": "Юрковка"
+  },
+  {
+    "id": 688127,
+    "name": "Yerky",
+    "country": "UA",
+    "coord": {
+      "lon": 30.98818,
+      "lat": 48.99062
+    },
+    "nameUa": "Єрки",
+    "nameRu": "Ерки"
+  },
+  {
+    "id": 688191,
+    "name": "Yelyzavethradka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.404598,
+      "lat": 48.80381
+    },
+    "nameUa": "Єлизаветградка",
+    "nameRu": "Елизаветградка"
+  },
+  {
+    "id": 688365,
+    "name": "Yasinya",
+    "country": "UA",
+    "coord": {
+      "lon": 24.36042,
+      "lat": 48.279369
+    },
+    "nameUa": "Ясіня",
+    "nameRu": "Ясиня"
+  },
+  {
+    "id": 688512,
+    "name": "Yamnytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 24.7075,
+      "lat": 48.989719
+    },
+    "nameUa": "Ямниця",
+    "nameRu": "Ямница"
+  },
+  {
+    "id": 688532,
+    "name": "Yalta",
+    "country": "UA",
+    "coord": {
+      "lon": 37.273651,
+      "lat": 46.962791
+    },
+    "nameUa": "Ялта",
+    "nameRu": "Ялта"
+  },
+  {
+    "id": 688602,
+    "name": "Yahilnytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 25.74374,
+      "lat": 48.942478
+    },
+    "nameUa": "Ягільниця",
+    "nameRu": "Ягельница"
+  },
+  {
+    "id": 688625,
+    "name": "Yabluniv",
+    "country": "UA",
+    "coord": {
+      "lon": 24.93874,
+      "lat": 48.404179
+    },
+    "nameUa": "Яблунів",
+    "nameRu": "Яблонов"
+  },
+  {
+    "id": 688637,
+    "name": "Yablunytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 24.48448,
+      "lat": 48.317421
+    },
+    "nameUa": "Яблуниця",
+    "nameRu": "Яблоница"
+  },
+  {
+    "id": 688533,
+    "name": "Yalta",
+    "country": "UA",
+    "coord": {
+      "lon": 34.166668,
+      "lat": 44.5
+    },
+    "nameUa": "Ялта",
+    "nameRu": "Ялта"
+  },
+  {
+    "id": 688501,
+    "name": "Yampil",
+    "country": "UA",
+    "coord": {
+      "lon": 33.783333,
+      "lat": 51.950001
+    },
+    "nameUa": "Ямпіль",
+    "nameRu": "Ямполь"
+  },
+  {
+    "id": 688157,
+    "name": "Yemel’yanov",
+    "country": "UA",
+    "coord": {
+      "lon": 31.033333,
+      "lat": 50.766666
+    },
+    "nameUa": "Омелянів",
+    "nameRu": "Омелянов"
+  },
+  {
+    "id": 688455,
+    "name": "Yaremche",
+    "country": "UA",
+    "coord": {
+      "lon": 24.551945,
+      "lat": 48.458332
+    },
+    "nameUa": "Яремче",
+    "nameRu": "Яремче"
+  },
+  {
+    "id": 687995,
+    "name": "Yuzhne",
+    "country": "UA",
+    "coord": {
+      "lon": 35.283333,
+      "lat": 44.983334
+    },
+    "nameUa": "Южне",
+    "nameRu": "Южное"
+  },
+  {
+    "id": 688074,
+    "name": "Yunga",
+    "country": "UA",
+    "coord": {
+      "lon": 35.264139,
+      "lat": 44.967014
+    },
+    "nameUa": "Юнгє",
+    "nameRu": "Юнге"
+  },
+  {
+    "id": 688146,
+    "name": "Yenikale",
+    "country": "UA",
+    "coord": {
+      "lon": 36.599998,
+      "lat": 45.349998
+    },
+    "nameUa": "Єнікале",
+    "nameRu": "Еникале"
+  },
+  {
+    "id": 826042,
+    "name": "Yehorove",
+    "country": "UA",
+    "coord": {
+      "lon": 36.482777,
+      "lat": 45.385834
+    },
+    "nameUa": "Єгорове",
+    "nameRu": "Егорово"
+  },
+  {
+    "id": 688122,
+    "name": "Yermakove",
+    "country": "UA",
+    "coord": {
+      "lon": 34.483334,
+      "lat": 45.849998
+    },
+    "nameUa": "Єрмакове",
+    "nameRu": "Ермаково"
+  },
+  {
+    "id": 688357,
+    "name": "Yasna Polyana",
+    "country": "UA",
+    "coord": {
+      "lon": 34.633331,
+      "lat": 46.183334
+    },
+    "nameUa": "Ясна Поляна",
+    "nameRu": "Ясная Поляна"
+  },
+  {
+    "id": 713743,
+    "name": "Yakymivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.15361,
+      "lat": 46.68972
+    },
+    "nameUa": "Якимівка",
+    "nameRu": "Акимовка"
+  },
+  {
+    "id": 706967,
+    "name": "Yanchekrak",
+    "country": "UA",
+    "coord": {
+      "lon": 35.360279,
+      "lat": 47.536388
+    },
+    "nameUa": "Кам'янське",
+    "nameRu": "Каменское"
+  },
+  {
+    "id": 688170,
+    "name": "Yelizavetovka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.345829,
+      "lat": 49.186111
+    },
+    "nameUa": "Єлизаветівка",
+    "nameRu": "Елизаветовка"
+  },
+  {
+    "id": 688022,
+    "name": "Yur”yivka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.033329,
+      "lat": 48.73333
+    },
+    "nameUa": "Юр'ївка",
+    "nameRu": "Юрьевка"
+  },
+  {
+    "id": 7018912,
+    "name": "Yantarne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.222069,
+      "lat": 45.433819
+    },
+    "nameUa": "Янтарне",
+    "nameRu": "Янтарное"
+  },
+  {
+    "id": 688628,
+    "name": "Yablon’ki",
+    "country": "UA",
+    "coord": {
+      "lon": 30.216669,
+      "lat": 50.549999
+    },
+    "nameUa": "Буча",
+    "nameRu": "Буча"
+  },
+  {
+    "id": 688451,
+    "name": "Yarizovka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.5,
+      "lat": 48.950001
+    },
+    "nameUa": "Івано-Яризівка",
+    "nameRu": "Ивано-Яризовка"
+  },
+  {
+    "id": 688288,
+    "name": "Yavoriv",
+    "country": "UA",
+    "coord": {
+      "lon": 23.38254,
+      "lat": 49.938641
+    },
+    "nameUa": "Яворів",
+    "nameRu": "Яворов"
+  },
+  {
+    "id": 688373,
+    "name": "Yasinovataya",
+    "country": "UA",
+    "coord": {
+      "lon": 37.859402,
+      "lat": 48.129799
+    },
+    "nameUa": "Ясинувата",
+    "nameRu": "Ясиноватая"
+  },
+  {
+    "id": 688279,
+    "name": "Yavoruv",
+    "country": "UA",
+    "coord": {
+      "lon": 22.914049,
+      "lat": 49.016739
+    },
+    "nameUa": "Яворів",
+    "nameRu": "Яворов"
+  },
+  {
+    "id": 688148,
+    "name": "Yenakiyeve",
+    "country": "UA",
+    "coord": {
+      "lon": 38.211369,
+      "lat": 48.233311
+    },
+    "nameUa": "Єнакієве",
+    "nameRu": "Енакиево"
+  },
+  {
+    "id": 688440,
+    "name": "Yarmolyntsi",
+    "country": "UA",
+    "coord": {
+      "lon": 26.83725,
+      "lat": 49.19236
+    },
+    "nameUa": "Ярмолинці",
+    "nameRu": "Ярмолинцы"
+  },
+  {
+    "id": 688221,
+    "name": "Yelanets’",
+    "country": "UA",
+    "coord": {
+      "lon": 31.85253,
+      "lat": 47.696819
+    },
+    "nameUa": "Єланець",
+    "nameRu": "Еланец"
+  },
+  {
+    "id": 7525990,
+    "name": "Yuzhnoukrainsk",
+    "country": "UA",
+    "coord": {
+      "lon": 31.182631,
+      "lat": 47.817768
+    },
+    "nameUa": "Южноукраїнськ",
+    "nameRu": "Южноукраинск"
+  },
+  {
+    "id": 687997,
+    "name": "Yuzhne",
+    "country": "UA",
+    "coord": {
+      "lon": 31.101311,
+      "lat": 46.622108
+    },
+    "nameUa": "Южне",
+    "nameRu": "Южное"
+  },
+  {
+    "id": 688587,
+    "name": "Yahotyn",
+    "country": "UA",
+    "coord": {
+      "lon": 31.762461,
+      "lat": 50.279751
+    },
+    "nameUa": "Яготин",
+    "nameRu": "Яготин"
+  },
+  {
+    "id": 707313,
+    "name": "Yizhivtsi",
+    "country": "UA",
+    "coord": {
+      "lon": 25.662319,
+      "lat": 48.039619
+    },
+    "nameUa": "Їжівці",
+    "nameRu": "Иживцы"
+  }
+]

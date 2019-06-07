@@ -1,0 +1,783 @@
+[
+  {
+    "id": 687640,
+    "name": "Zarech’ye",
+    "country": "UA",
+    "coord": {
+      "lon": 30.10129,
+      "lat": 49.788898
+    },
+    "nameUa": "Заріччя",
+    "nameRu": "Заречье"
+  },
+  {
+    "id": 686812,
+    "name": "Zuya",
+    "country": "UA",
+    "coord": {
+      "lon": 34.315418,
+      "lat": 45.053101
+    },
+    "nameUa": "Зуя",
+    "nameRu": "Зуя"
+  },
+  {
+    "id": 686863,
+    "name": "Zolotyy Potik",
+    "country": "UA",
+    "coord": {
+      "lon": 25.33926,
+      "lat": 48.9095
+    },
+    "nameUa": "Золотий Потік",
+    "nameRu": "Золотой Поток"
+  },
+  {
+    "id": 686895,
+    "name": "Zolochiv",
+    "country": "UA",
+    "coord": {
+      "lon": 35.981781,
+      "lat": 50.27985
+    },
+    "nameUa": "Золочів",
+    "nameRu": "Золочев"
+  },
+  {
+    "id": 686932,
+    "name": "Zlynka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.539061,
+      "lat": 48.485222
+    },
+    "nameUa": "Злинка",
+    "nameRu": "Злынка"
+  },
+  {
+    "id": 686970,
+    "name": "Zhvanets",
+    "country": "UA",
+    "coord": {
+      "lon": 26.48744,
+      "lat": 48.549679
+    },
+    "nameUa": "Жванець",
+    "nameRu": "Жванец"
+  },
+  {
+    "id": 687009,
+    "name": "Zhuravka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.594898,
+      "lat": 50.481079
+    },
+    "nameUa": "Журавка",
+    "nameRu": "Журавка"
+  },
+  {
+    "id": 687065,
+    "name": "Zhovtneve",
+    "country": "UA",
+    "coord": {
+      "lon": 24.24918,
+      "lat": 50.663651
+    },
+    "nameUa": "Благодатне",
+    "nameRu": "Благодатное"
+  },
+  {
+    "id": 687191,
+    "name": "Zhelyabovka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.757759,
+      "lat": 45.398769
+    },
+    "nameUa": "Желябовка",
+    "nameRu": "Желябовка"
+  },
+  {
+    "id": 687433,
+    "name": "Zdolbitsa",
+    "country": "UA",
+    "coord": {
+      "lon": 26.24111,
+      "lat": 50.496071
+    },
+    "nameUa": "Здовбиця",
+    "nameRu": "Здолбица"
+  },
+  {
+    "id": 687526,
+    "name": "Zavallya",
+    "country": "UA",
+    "coord": {
+      "lon": 30.015579,
+      "lat": 48.213539
+    },
+    "nameUa": "Завалля",
+    "nameRu": "Завалье"
+  },
+  {
+    "id": 687557,
+    "name": "Zatoka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.46538,
+      "lat": 46.07251
+    },
+    "nameUa": "Затока",
+    "nameRu": "Затока"
+  },
+  {
+    "id": 687562,
+    "name": "Zatyshshya",
+    "country": "UA",
+    "coord": {
+      "lon": 29.87327,
+      "lat": 47.333511
+    },
+    "nameUa": "Затишшя",
+    "nameRu": "Затишье"
+  },
+  {
+    "id": 687578,
+    "name": "Zastavna",
+    "country": "UA",
+    "coord": {
+      "lon": 25.843691,
+      "lat": 48.523071
+    },
+    "nameUa": "Заставна",
+    "nameRu": "Заставна"
+  },
+  {
+    "id": 687602,
+    "name": "Zarya",
+    "country": "UA",
+    "coord": {
+      "lon": 29.69672,
+      "lat": 45.990799
+    },
+    "nameUa": "Зоря",
+    "nameRu": "Заря"
+  },
+  {
+    "id": 687645,
+    "name": "Zarichchya",
+    "country": "UA",
+    "coord": {
+      "lon": 24.648569,
+      "lat": 48.521439
+    },
+    "nameUa": "Заріччя",
+    "nameRu": "Заречье"
+  },
+  {
+    "id": 687652,
+    "name": "Zarichne",
+    "country": "UA",
+    "coord": {
+      "lon": 26.129021,
+      "lat": 51.812599
+    },
+    "nameUa": "Зарічне",
+    "nameRu": "Заречное"
+  },
+  {
+    "id": 687726,
+    "name": "Zaozerne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.27866,
+      "lat": 45.158161
+    },
+    "nameUa": "Заозерне",
+    "nameRu": "Заозёрное"
+  },
+  {
+    "id": 687787,
+    "name": "Zaliztsi",
+    "country": "UA",
+    "coord": {
+      "lon": 25.372971,
+      "lat": 49.791882
+    },
+    "nameUa": "Залізці",
+    "nameRu": "Заложцы"
+  },
+  {
+    "id": 687790,
+    "name": "Zheleznyj port",
+    "country": "UA",
+    "coord": {
+      "lon": 32.303023,
+      "lat": 46.121589
+    },
+    "nameUa": "Залізний Порт",
+    "nameRu": "Зализный Порт"
+  },
+  {
+    "id": 687796,
+    "name": "Zaliznychne",
+    "country": "UA",
+    "coord": {
+      "lon": 36.165241,
+      "lat": 47.652382
+    },
+    "nameUa": "Залізничне",
+    "nameRu": "Зализничное"
+  },
+  {
+    "id": 687797,
+    "name": "Zaliznychne",
+    "country": "UA",
+    "coord": {
+      "lon": 28.61466,
+      "lat": 45.748901
+    },
+    "nameUa": "Залізничне",
+    "nameRu": "Зализничное"
+  },
+  {
+    "id": 687824,
+    "name": "Zalesnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 38.809341,
+      "lat": 48.03104
+    },
+    "nameUa": "Залісне",
+    "nameRu": "Залесное"
+  },
+  {
+    "id": 687841,
+    "name": "Zakupne",
+    "country": "UA",
+    "coord": {
+      "lon": 26.337561,
+      "lat": 49.119438
+    },
+    "nameUa": "Закупне",
+    "nameRu": "Закупное"
+  },
+  {
+    "id": 687872,
+    "name": "Zahvizdya",
+    "country": "UA",
+    "coord": {
+      "lon": 24.65275,
+      "lat": 48.918362
+    },
+    "nameUa": "Загвіздя",
+    "nameRu": "Загвоздье"
+  },
+  {
+    "id": 687901,
+    "name": "Zagnitkiv",
+    "country": "UA",
+    "coord": {
+      "lon": 28.89234,
+      "lat": 48.048779
+    },
+    "nameUa": "Загнітків",
+    "nameRu": "Загнитков"
+  },
+  {
+    "id": 687825,
+    "name": "Zalisne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.783333,
+      "lat": 44.616669
+    },
+    "nameUa": "Залісне",
+    "nameRu": "Залесное"
+  },
+  {
+    "id": 687301,
+    "name": "Zemlyanychne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.833332,
+      "lat": 44.966667
+    },
+    "nameUa": "Земляничне",
+    "nameRu": "Земляничное"
+  },
+  {
+    "id": 686966,
+    "name": "Zhytomyrs’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 28.5,
+      "lat": 50.5
+    },
+    "nameUa": "Житомирська область",
+    "nameRu": "Житомирская область"
+  },
+  {
+    "id": 687670,
+    "name": "Zaprudnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.316666,
+      "lat": 44.599998
+    },
+    "nameUa": "Запрудне",
+    "nameRu": "Запрудное"
+  },
+  {
+    "id": 687746,
+    "name": "Zamost’ye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.099998,
+      "lat": 44.950001
+    },
+    "nameUa": "Заміст'є",
+    "nameRu": "Замостье"
+  },
+  {
+    "id": 687150,
+    "name": "Zhigulina Roshcha",
+    "country": "UA",
+    "coord": {
+      "lon": 34.133331,
+      "lat": 44.966667
+    },
+    "nameUa": "Жигулина Роща",
+    "nameRu": "Жигулина Роща"
+  },
+  {
+    "id": 687032,
+    "name": "Zhukivka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.628334,
+      "lat": 45.370834
+    },
+    "nameUa": "Жуківка",
+    "nameRu": "Жуковка"
+  },
+  {
+    "id": 687501,
+    "name": "Zavods’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 34.083332,
+      "lat": 44.916668
+    },
+    "nameUa": "Заводське",
+    "nameRu": "Заводское"
+  },
+  {
+    "id": 686898,
+    "name": "Zol’noye",
+    "country": "UA",
+    "coord": {
+      "lon": 33.983334,
+      "lat": 45.033333
+    },
+    "nameUa": "Зольне",
+    "nameRu": "Зольное"
+  },
+  {
+    "id": 686850,
+    "name": "Zorkine",
+    "country": "UA",
+    "coord": {
+      "lon": 34.716667,
+      "lat": 45.549999
+    },
+    "nameUa": "Зоркіне",
+    "nameRu": "Зоркино"
+  },
+  {
+    "id": 687699,
+    "name": "Zaporiz’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 35.5,
+      "lat": 47.5
+    },
+    "nameUa": "Запорізька область",
+    "nameRu": "Запорожская область"
+  },
+  {
+    "id": 687345,
+    "name": "Zeleny Hay",
+    "country": "UA",
+    "coord": {
+      "lon": 35.362499,
+      "lat": 47.390835
+    },
+    "nameUa": "Зелений Гай",
+    "nameRu": "Зелёный Гай"
+  },
+  {
+    "id": 687676,
+    "name": "Zaporozh’ye Levoye",
+    "country": "UA",
+    "coord": {
+      "lon": 35.283333,
+      "lat": 47.849998
+    },
+    "nameUa": "Запоріжжя-Ліве",
+    "nameRu": "Запорожье-Левое"
+  },
+  {
+    "id": 687869,
+    "name": "Zakarpats’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 23,
+      "lat": 48.333332
+    },
+    "nameUa": "Закарпатська область",
+    "nameRu": "Закарпатская область"
+  },
+  {
+    "id": 687826,
+    "name": "Zalishchyky",
+    "country": "UA",
+    "coord": {
+      "lon": 25.733889,
+      "lat": 48.644722
+    },
+    "nameUa": "Заліщики",
+    "nameRu": "Залещики"
+  },
+  {
+    "id": 686949,
+    "name": "Zin’kovtsy",
+    "country": "UA",
+    "coord": {
+      "lon": 26.583332,
+      "lat": 48.683334
+    },
+    "nameUa": "Зіньківці",
+    "nameRu": "Зиньковцы"
+  },
+  {
+    "id": 687835,
+    "name": "Zakutnevka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.310001,
+      "lat": 49.207218
+    },
+    "nameUa": "Закутнівка",
+    "nameRu": "Закутневка"
+  },
+  {
+    "id": 687363,
+    "name": "Zelënyy",
+    "country": "UA",
+    "coord": {
+      "lon": 35.476742,
+      "lat": 47.960272
+    },
+    "nameUa": "Зелене",
+    "nameRu": "Зелёное"
+  },
+  {
+    "id": 687700,
+    "name": "Zaporizhzhya",
+    "country": "UA",
+    "coord": {
+      "lon": 35.183331,
+      "lat": 47.816669
+    },
+    "nameUa": "Запоріжжя",
+    "nameRu": "Запорожье"
+  },
+  {
+    "id": 7040139,
+    "name": "Zaliznychne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.802689,
+      "lat": 44.71629
+    },
+    "nameUa": "Залізничне",
+    "nameRu": "Железнодорожное"
+  },
+  {
+    "id": 7046438,
+    "name": "Zaliznychne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.512772,
+      "lat": 46.01931
+    },
+    "nameUa": "Залізничне",
+    "nameRu": "Зализничное"
+  },
+  {
+    "id": 687656,
+    "name": "Zarichne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.262199,
+      "lat": 44.855999
+    },
+    "nameUa": "Зарічне",
+    "nameRu": "Заречное"
+  },
+  {
+    "id": 687060,
+    "name": "Zhovtnevoye",
+    "country": "UA",
+    "coord": {
+      "lon": 31.98333,
+      "lat": 48.51667
+    },
+    "nameUa": "Шостаківка",
+    "nameRu": "Шестаковка"
+  },
+  {
+    "id": 686928,
+    "name": "Zmiyev",
+    "country": "UA",
+    "coord": {
+      "lon": 36.361092,
+      "lat": 49.69664
+    },
+    "nameUa": "Зміїв",
+    "nameRu": "Змиёв"
+  },
+  {
+    "id": 686875,
+    "name": "Zolotonosha",
+    "country": "UA",
+    "coord": {
+      "lon": 32.037731,
+      "lat": 49.668861
+    },
+    "nameUa": "Золотоноша",
+    "nameRu": "Золотоноша"
+  },
+  {
+    "id": 687432,
+    "name": "Zdolbuniv",
+    "country": "UA",
+    "coord": {
+      "lon": 26.24251,
+      "lat": 50.520599
+    },
+    "nameUa": "Здолбунів",
+    "nameRu": "Здолбунов"
+  },
+  {
+    "id": 686896,
+    "name": "Zolochiv",
+    "country": "UA",
+    "coord": {
+      "lon": 24.89436,
+      "lat": 49.805969
+    },
+    "nameUa": "Золочів",
+    "nameRu": "Золочев"
+  },
+  {
+    "id": 687093,
+    "name": "Zhovkva",
+    "country": "UA",
+    "coord": {
+      "lon": 23.972601,
+      "lat": 50.05825
+    },
+    "nameUa": "Жовква",
+    "nameRu": "Жолква"
+  },
+  {
+    "id": 687933,
+    "name": "Zachepylivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.239429,
+      "lat": 49.193851
+    },
+    "nameUa": "Зачепилівка",
+    "nameRu": "Зачепиловка"
+  },
+  {
+    "id": 687277,
+    "name": "Zhurivka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.78492,
+      "lat": 50.502762
+    },
+    "nameUa": "Згурівка",
+    "nameRu": "Згуровка"
+  },
+  {
+    "id": 687116,
+    "name": "Zhmerynka",
+    "country": "UA",
+    "coord": {
+      "lon": 28.112009,
+      "lat": 49.037048
+    },
+    "nameUa": "Жмеринка",
+    "nameRu": "Жмеринка"
+  },
+  {
+    "id": 686943,
+    "name": "Zlatopol’",
+    "country": "UA",
+    "coord": {
+      "lon": 35.0247,
+      "lat": 47.40826
+    },
+    "nameUa": "Златопіль",
+    "nameRu": "Златополь"
+  },
+  {
+    "id": 686967,
+    "name": "Zhytomyr",
+    "country": "UA",
+    "coord": {
+      "lon": 28.676689,
+      "lat": 50.26487
+    },
+    "nameUa": "Житомир",
+    "nameRu": "Житомир"
+  },
+  {
+    "id": 687965,
+    "name": "Zabolotiv",
+    "country": "UA",
+    "coord": {
+      "lon": 25.285709,
+      "lat": 48.470539
+    },
+    "nameUa": "Заболотів",
+    "nameRu": "Заболотов"
+  },
+  {
+    "id": 687245,
+    "name": "Zhashkiv",
+    "country": "UA",
+    "coord": {
+      "lon": 30.110201,
+      "lat": 49.245449
+    },
+    "nameUa": "Жашків",
+    "nameRu": "Жашков"
+  },
+  {
+    "id": 687455,
+    "name": "Zbarazh",
+    "country": "UA",
+    "coord": {
+      "lon": 25.776159,
+      "lat": 49.66357
+    },
+    "nameUa": "Збараж",
+    "nameRu": "Збараж"
+  },
+  {
+    "id": 686818,
+    "name": "Zuhres",
+    "country": "UA",
+    "coord": {
+      "lon": 38.264439,
+      "lat": 48.011398
+    },
+    "nameUa": "Зугрес",
+    "nameRu": "Зугрэс"
+  },
+  {
+    "id": 687449,
+    "name": "Zboriv",
+    "country": "UA",
+    "coord": {
+      "lon": 25.140961,
+      "lat": 49.664841
+    },
+    "nameUa": "Зборів",
+    "nameRu": "Зборов"
+  },
+  {
+    "id": 686919,
+    "name": "Znomenka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.664719,
+      "lat": 48.71278
+    },
+    "nameUa": "Знам'янка",
+    "nameRu": "Знаменка"
+  },
+  {
+    "id": 687669,
+    "name": "Zaprudnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 38.76667,
+      "lat": 48.01667
+    },
+    "nameUa": "Запрудне",
+    "nameRu": "Запрудное"
+  },
+  {
+    "id": 687292,
+    "name": "Zinkiv",
+    "country": "UA",
+    "coord": {
+      "lon": 34.363762,
+      "lat": 50.208061
+    },
+    "nameUa": "Зіньків",
+    "nameRu": "Зеньков"
+  },
+  {
+    "id": 687196,
+    "name": "Zhovti Vody",
+    "country": "UA",
+    "coord": {
+      "lon": 33.50034,
+      "lat": 48.347309
+    },
+    "nameUa": "Жовті Води",
+    "nameRu": "Жёлтые Воды"
+  },
+  {
+    "id": 618835,
+    "name": "Zhidachov",
+    "country": "UA",
+    "coord": {
+      "lon": 24.14254,
+      "lat": 49.384682
+    },
+    "nameUa": "Жидачів",
+    "nameRu": "Жидачов"
+  },
+  {
+    "id": 687021,
+    "name": "Zhulyany",
+    "country": "UA",
+    "coord": {
+      "lon": 30.44327,
+      "lat": 50.392811
+    },
+    "nameUa": "Жуляни",
+    "nameRu": "Жуляны"
+  },
+  {
+    "id": 686803,
+    "name": "Zvenyhorodka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.967541,
+      "lat": 49.078659
+    },
+    "nameUa": "Звенигородка",
+    "nameRu": "Звенигородка"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": 709112,
+    "name": "Foros",
+    "country": "UA",
+    "coord": {
+      "lon": 33.783333,
+      "lat": 44.400002
+    },
+    "nameUa": "Форос",
+    "nameRu": "Форос"
+  },
+  {
+    "id": 709151,
+    "name": "Fersmanove",
+    "country": "UA",
+    "coord": {
+      "lon": 34.166668,
+      "lat": 44.900002
+    },
+    "nameUa": "Ферсманове",
+    "nameRu": "Ферсманово"
+  },
+  {
+    "id": 709161,
+    "name": "Feodosiya",
+    "country": "UA",
+    "coord": {
+      "lon": 35.383331,
+      "lat": 45.033333
+    },
+    "nameUa": "Феодосія",
+    "nameRu": "Феодосия"
+  },
+  {
+    "id": 709077,
+    "name": "Frunzenskiy",
+    "country": "UA",
+    "coord": {
+      "lon": 34.916668,
+      "lat": 48.566666
+    },
+    "nameUa": "Фрунзенський",
+    "nameRu": "Фрунзенский"
+  },
+  {
+    "id": 709083,
+    "name": "Fruktove",
+    "country": "UA",
+    "coord": {
+      "lon": 33.599689,
+      "lat": 44.68045
+    },
+    "nameUa": "Фруктове",
+    "nameRu": "Фруктовое"
+  },
+  {
+    "id": 709250,
+    "name": "Fasovaya",
+    "country": "UA",
+    "coord": {
+      "lon": 29.799999,
+      "lat": 50.433331
+    },
+    "nameUa": "Фасівочка",
+    "nameRu": "Фасовочка"
+  },
+  {
+    "id": 709248,
+    "name": "Fastiv",
+    "country": "UA",
+    "coord": {
+      "lon": 29.9177,
+      "lat": 50.076698
+    },
+    "nameUa": "Фастів",
+    "nameRu": "Фастов"
+  },
+  {
+    "id": 709071,
+    "name": "Frunzivka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.75,
+      "lat": 47.333328
+    },
+    "nameUa": "Захарівка",
+    "nameRu": "Захарьевка"
+  },
+  {
+    "id": 709074,
+    "name": "Frunzevka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.083328,
+      "lat": 45.26667
+    },
+    "nameUa": "Штормове",
+    "nameRu": "Штормовое"
+  },
+  {
+    "id": 709078,
+    "name": "Frunze",
+    "country": "UA",
+    "coord": {
+      "lon": 38.75444,
+      "lat": 48.668629
+    },
+    "nameUa": "Сентянівка",
+    "nameRu": "Сентяновка"
+  },
+  {
+    "id": 709082,
+    "name": "Frunze",
+    "country": "UA",
+    "coord": {
+      "lon": 33.629559,
+      "lat": 45.026878
+    },
+    "nameUa": "Фрунзе",
+    "nameRu": "Фрунзе"
+  },
+  {
+    "id": 709114,
+    "name": "Fontanka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.86071,
+      "lat": 46.56255
+    },
+    "nameUa": "Фонтанка",
+    "nameRu": "Фонтанка"
+  }
+]

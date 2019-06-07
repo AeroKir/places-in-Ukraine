@@ -1,0 +1,1179 @@
+[
+  {
+    "id": 703447,
+    "name": "Misto Kyyiv",
+    "country": "UA",
+    "coord": {
+      "lon": 30.516666,
+      "lat": 50.433334
+    },
+    "nameUa": "Місто Київ",
+    "nameRu": "Город Киев"
+  },
+  {
+    "id": 701619,
+    "name": "Massandra",
+    "country": "UA",
+    "coord": {
+      "lon": 34.183334,
+      "lat": 44.516666
+    },
+    "nameUa": "Масандра",
+    "nameRu": "Массандра"
+  },
+  {
+    "id": 700755,
+    "name": "Morozovskiy",
+    "country": "UA",
+    "coord": {
+      "lon": 35.416668,
+      "lat": 48.366669
+    },
+    "nameUa": "Морозівське",
+    "nameRu": "Морозовское"
+  },
+  {
+    "id": 700918,
+    "name": "Mohyliv-Podilskyy",
+    "country": "UA",
+    "coord": {
+      "lon": 27.798201,
+      "lat": 48.44598
+    },
+    "nameUa": "Могилів-Подільський",
+    "nameRu": "Могилёв-Подольский"
+  },
+  {
+    "id": 700181,
+    "name": "Mykolayivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.614429,
+      "lat": 44.96714
+    },
+    "nameUa": "Миколаївка",
+    "nameRu": "Николаевка"
+  },
+  {
+    "id": 796868,
+    "name": "Mykhaylivka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.262699,
+      "lat": 45.28669
+    },
+    "nameUa": "Михайлівка",
+    "nameRu": "Михайловка"
+  },
+  {
+    "id": 701759,
+    "name": "Martusovka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.866667,
+      "lat": 50.299999
+    },
+    "nameUa": "Мартусівка",
+    "nameRu": "Мартусовка"
+  },
+  {
+    "id": 700661,
+    "name": "Mramorne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.25,
+      "lat": 44.816666
+    },
+    "nameUa": "Мраморне",
+    "nameRu": "Мраморное"
+  },
+  {
+    "id": 701500,
+    "name": "Mayorovka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.266666,
+      "lat": 51.483334
+    },
+    "nameUa": "Майорівка",
+    "nameRu": "Майоровка"
+  },
+  {
+    "id": 701779,
+    "name": "Markovtsy",
+    "country": "UA",
+    "coord": {
+      "lon": 31.25,
+      "lat": 50.733334
+    },
+    "nameUa": "Марківці",
+    "nameRu": "Марковцы"
+  },
+  {
+    "id": 700924,
+    "name": "Mogilëv",
+    "country": "UA",
+    "coord": {
+      "lon": 30.35,
+      "lat": 53.900002
+    },
+    "nameUa": "Могильов",
+    "nameRu": "Могилёв"
+  },
+  {
+    "id": 700997,
+    "name": "Miskhor",
+    "country": "UA",
+    "coord": {
+      "lon": 34.083332,
+      "lat": 44.433334
+    },
+    "nameUa": "Місхор",
+    "nameRu": "Мисхор"
+  },
+  {
+    "id": 700182,
+    "name": "Mykolayivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.533333,
+      "lat": 44.549999
+    },
+    "nameUa": "Миколаївка",
+    "nameRu": "Николаевка"
+  },
+  {
+    "id": 694422,
+    "name": "Misto Sevastopol’",
+    "country": "UA",
+    "coord": {
+      "lon": 33.533333,
+      "lat": 44.599998
+    },
+    "nameUa": "Місто Севастополь",
+    "nameRu": "Город Севастополь"
+  },
+  {
+    "id": 701419,
+    "name": "Mekenziyevy Gory",
+    "country": "UA",
+    "coord": {
+      "lon": 33.583332,
+      "lat": 44.616669
+    },
+    "nameUa": "Мекензієві гори",
+    "nameRu": "Мекензиевы горы"
+  },
+  {
+    "id": 701947,
+    "name": "Malyy Mayak",
+    "country": "UA",
+    "coord": {
+      "lon": 34.366669,
+      "lat": 44.616669
+    },
+    "nameUa": "Малий Маяк",
+    "nameRu": "Малый Маяк"
+  },
+  {
+    "id": 701611,
+    "name": "Matiasa",
+    "country": "UA",
+    "coord": {
+      "lon": 35.016666,
+      "lat": 44.833332
+    },
+    "nameUa": "Матіаса",
+    "nameRu": "Матиаса"
+  },
+  {
+    "id": 700550,
+    "name": "Mysove",
+    "country": "UA",
+    "coord": {
+      "lon": 35.836394,
+      "lat": 45.447412
+    },
+    "nameUa": "Мисове",
+    "nameRu": "Мысовое"
+  },
+  {
+    "id": 700180,
+    "name": "Mykolayivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.933334,
+      "lat": 45.266666
+    },
+    "nameUa": "Миколаївка",
+    "nameRu": "Николаевка"
+  },
+  {
+    "id": 701491,
+    "name": "Mays’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 34.566666,
+      "lat": 45.599998
+    },
+    "nameUa": "Майське",
+    "nameRu": "Майское"
+  },
+  {
+    "id": 701453,
+    "name": "Medvedivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.549999,
+      "lat": 45.883331
+    },
+    "nameUa": "Медведівка",
+    "nameRu": "Медведевка"
+  },
+  {
+    "id": 701965,
+    "name": "Malyy Fontan",
+    "country": "UA",
+    "coord": {
+      "lon": 30.766666,
+      "lat": 46.433334
+    },
+    "nameUa": "Малий Фонтан",
+    "nameRu": "Малый Фонтан"
+  },
+  {
+    "id": 700567,
+    "name": "Mykolayivs’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 32,
+      "lat": 47.25
+    },
+    "nameUa": "Миколаївська область",
+    "nameRu": "Николаевская область"
+  },
+  {
+    "id": 701579,
+    "name": "Matrosskaya Sloboda",
+    "country": "UA",
+    "coord": {
+      "lon": 36.810036,
+      "lat": 46.735537
+    },
+    "nameUa": "Матроська слобідка",
+    "nameRu": "Матросская слободка"
+  },
+  {
+    "id": 701404,
+    "name": "Melitopol",
+    "country": "UA",
+    "coord": {
+      "lon": 35.373055,
+      "lat": 46.84222
+    },
+    "nameUa": "Мелітополь",
+    "nameRu": "Мелитополь"
+  },
+  {
+    "id": 701932,
+    "name": "Malyy Tokmak",
+    "country": "UA",
+    "coord": {
+      "lon": 35.716667,
+      "lat": 47.25
+    },
+    "nameUa": "Малий Токмак",
+    "nameRu": "Малый Токмак"
+  },
+  {
+    "id": 700871,
+    "name": "Mokroye",
+    "country": "UA",
+    "coord": {
+      "lon": 35.25,
+      "lat": 47.816666
+    },
+    "nameUa": "Мокра",
+    "nameRu": "Мокрая"
+  },
+  {
+    "id": 701587,
+    "name": "Matveyevka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.266666,
+      "lat": 47.883331
+    },
+    "nameUa": "Матвіївка",
+    "nameRu": "Матвеевка"
+  },
+  {
+    "id": 701216,
+    "name": "Mikhaylovka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.25,
+      "lat": 47.950001
+    },
+    "nameUa": "Михайлівка",
+    "nameRu": "Михайловка"
+  },
+  {
+    "id": 701091,
+    "name": "Mynay",
+    "country": "UA",
+    "coord": {
+      "lon": 22.283333,
+      "lat": 48.583332
+    },
+    "nameUa": "Минай",
+    "nameRu": "Минай"
+  },
+  {
+    "id": 701405,
+    "name": "Meliorativnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 35.366669,
+      "lat": 48.599998
+    },
+    "nameUa": "Меліоративне",
+    "nameRu": "Мелиоративное"
+  },
+  {
+    "id": 6982974,
+    "name": "Marta",
+    "country": "UA",
+    "coord": {
+      "lon": 34.10199,
+      "lat": 44.686298
+    },
+    "nameUa": "Марта",
+    "nameRu": "Марта"
+  },
+  {
+    "id": 701347,
+    "name": "Merefa",
+    "country": "UA",
+    "coord": {
+      "lon": 36.051941,
+      "lat": 49.819721
+    },
+    "nameUa": "Мерефа",
+    "nameRu": "Мерефа"
+  },
+  {
+    "id": 701196,
+    "name": "Mikhaylovka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.150002,
+      "lat": 48.799999
+    },
+    "nameUa": "Михайлівка",
+    "nameRu": "Михайловка"
+  },
+  {
+    "id": 700754,
+    "name": "Morozovskiy",
+    "country": "UA",
+    "coord": {
+      "lon": 35.916672,
+      "lat": 48.650002
+    },
+    "nameUa": "Морозівське",
+    "nameRu": "Морозовское"
+  },
+  {
+    "id": 702072,
+    "name": "Malokaterynivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.253891,
+      "lat": 47.6525
+    },
+    "nameUa": "Малокатеринівка",
+    "nameRu": "Малокатериновка"
+  },
+  {
+    "id": 7046808,
+    "name": "Moskalenka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.741928,
+      "lat": 46.286369
+    },
+    "nameUa": "Москаленка",
+    "nameRu": "Москаленко"
+  },
+  {
+    "id": 700177,
+    "name": "Mykolayivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.606361,
+      "lat": 46.107071
+    },
+    "nameUa": "Миколаївка",
+    "nameRu": "Николаевка"
+  },
+  {
+    "id": 701922,
+    "name": "Mamut",
+    "country": "UA",
+    "coord": {
+      "lon": 34.428249,
+      "lat": 45.79575
+    },
+    "nameUa": "Мамут",
+    "nameRu": "Мамут"
+  },
+  {
+    "id": 701862,
+    "name": "Mare",
+    "country": "UA",
+    "coord": {
+      "lon": 34.292511,
+      "lat": 45.453239
+    },
+    "nameUa": "Маре",
+    "nameRu": "Марэ"
+  },
+  {
+    "id": 6980613,
+    "name": "Malen’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 34.002399,
+      "lat": 45.076889
+    },
+    "nameUa": "Маленьке",
+    "nameRu": "Маленькое"
+  },
+  {
+    "id": 700835,
+    "name": "Molodizhne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.05006,
+      "lat": 45.00428
+    },
+    "nameUa": "Молодіжне",
+    "nameRu": "Молодёжное"
+  },
+  {
+    "id": 6974770,
+    "name": "Molochne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.033039,
+      "lat": 44.91288
+    },
+    "nameUa": "Молочне",
+    "nameRu": "Молочное"
+  },
+  {
+    "id": 7040022,
+    "name": "Malovydne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.81052,
+      "lat": 44.795849
+    },
+    "nameUa": "Маловидне",
+    "nameRu": "Маловидное"
+  },
+  {
+    "id": 7021078,
+    "name": "Male Sadove",
+    "country": "UA",
+    "coord": {
+      "lon": 33.840729,
+      "lat": 44.63913
+    },
+    "nameUa": "Мале Садове",
+    "nameRu": "Малое Садовое"
+  },
+  {
+    "id": 701822,
+    "name": "Mariupol",
+    "country": "UA",
+    "coord": {
+      "lon": 37.5,
+      "lat": 47.066669
+    },
+    "nameUa": "Маріуполь",
+    "nameRu": "Мариуполь"
+  },
+  {
+    "id": 701911,
+    "name": "Manchzhuriya",
+    "country": "UA",
+    "coord": {
+      "lon": 32.033329,
+      "lat": 47.23333
+    },
+    "nameUa": "Новоінгулка",
+    "nameRu": "Новоингулка"
+  },
+  {
+    "id": 701824,
+    "name": "Mariupol",
+    "country": "UA",
+    "coord": {
+      "lon": 37.533089,
+      "lat": 47.105701
+    },
+    "nameUa": "Маріуполь",
+    "nameRu": "Мариуполь"
+  },
+  {
+    "id": 700569,
+    "name": "Mykolayiv",
+    "country": "UA",
+    "coord": {
+      "lon": 31.9974,
+      "lat": 46.965912
+    },
+    "nameUa": "Миколаїв",
+    "nameRu": "Николаев"
+  },
+  {
+    "id": 702116,
+    "name": "Malyn",
+    "country": "UA",
+    "coord": {
+      "lon": 29.238331,
+      "lat": 50.772331
+    },
+    "nameUa": "Малин",
+    "nameRu": "Малин"
+  },
+  {
+    "id": 701855,
+    "name": "Marhanets",
+    "country": "UA",
+    "coord": {
+      "lon": 34.627689,
+      "lat": 47.635429
+    },
+    "nameUa": "Марганець",
+    "nameRu": "Марганец"
+  },
+  {
+    "id": 700568,
+    "name": "Mykolayiv",
+    "country": "UA",
+    "coord": {
+      "lon": 23.98522,
+      "lat": 49.52372
+    },
+    "nameUa": "Миколаїв",
+    "nameRu": "Николаев"
+  },
+  {
+    "id": 702337,
+    "name": "Makariv",
+    "country": "UA",
+    "coord": {
+      "lon": 29.811279,
+      "lat": 50.464081
+    },
+    "nameUa": "Макарів",
+    "nameRu": "Макаров"
+  },
+  {
+    "id": 701650,
+    "name": "Mar’yevka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.900002,
+      "lat": 48.883331
+    },
+    "nameUa": "Мар'ївка",
+    "nameRu": "Марьевка"
+  },
+  {
+    "id": 702320,
+    "name": "Makiyivka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.925758,
+      "lat": 48.047821
+    },
+    "nameUa": "Макіївка",
+    "nameRu": "Макеевка"
+  },
+  {
+    "id": 701372,
+    "name": "Mena",
+    "country": "UA",
+    "coord": {
+      "lon": 32.215679,
+      "lat": 51.521702
+    },
+    "nameUa": "Мена",
+    "nameRu": "Мена"
+  },
+  {
+    "id": 701031,
+    "name": "Myronivka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.98225,
+      "lat": 49.660069
+    },
+    "nameUa": "Миронівка",
+    "nameRu": "Мироновка"
+  },
+  {
+    "id": 700753,
+    "name": "Morshin",
+    "country": "UA",
+    "coord": {
+      "lon": 23.87232,
+      "lat": 49.156521
+    },
+    "nameUa": "Моршин",
+    "nameRu": "Моршин"
+  },
+  {
+    "id": 702246,
+    "name": "Mala Bilozerka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.93457,
+      "lat": 47.247372
+    },
+    "nameUa": "Мала Білозерка",
+    "nameRu": "Малая Белозёрка"
+  },
+  {
+    "id": 701845,
+    "name": "Mar’inka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.50544,
+      "lat": 47.945271
+    },
+    "nameUa": "Мар’їнка",
+    "nameRu": "Марьинка"
+  },
+  {
+    "id": 701075,
+    "name": "Myrhorod",
+    "country": "UA",
+    "coord": {
+      "lon": 33.60886,
+      "lat": 49.96854
+    },
+    "nameUa": "Миргород",
+    "nameRu": "Миргород"
+  },
+  {
+    "id": 701305,
+    "name": "Mezhova",
+    "country": "UA",
+    "coord": {
+      "lon": 36.73468,
+      "lat": 48.253181
+    },
+    "nameUa": "Межова",
+    "nameRu": "Межевая"
+  },
+  {
+    "id": 702231,
+    "name": "Mala Danylivka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.165642,
+      "lat": 50.063541
+    },
+    "nameUa": "Мала Данилівка",
+    "nameRu": "Малая Даниловка"
+  },
+  {
+    "id": 697613,
+    "name": "Manhush",
+    "country": "UA",
+    "coord": {
+      "lon": 37.31068,
+      "lat": 47.05582
+    },
+    "nameUa": "Мангуш",
+    "nameRu": "Мангуш"
+  },
+  {
+    "id": 701119,
+    "name": "Mikulintsy",
+    "country": "UA",
+    "coord": {
+      "lon": 25.605181,
+      "lat": 49.396
+    },
+    "nameUa": "Микулинці",
+    "nameRu": "Микулинцы"
+  },
+  {
+    "id": 700700,
+    "name": "Mospyne",
+    "country": "UA",
+    "coord": {
+      "lon": 38.06395,
+      "lat": 47.890808
+    },
+    "nameUa": "Моспине",
+    "nameRu": "Моспино"
+  },
+  {
+    "id": 701906,
+    "name": "Manevichi",
+    "country": "UA",
+    "coord": {
+      "lon": 25.534361,
+      "lat": 51.294048
+    },
+    "nameUa": "Маневичі",
+    "nameRu": "Маневичи"
+  },
+  {
+    "id": 700544,
+    "name": "Mytnitsa",
+    "country": "UA",
+    "coord": {
+      "lon": 30.24029,
+      "lat": 50.128689
+    },
+    "nameUa": "Митниця",
+    "nameRu": "Мытница"
+  },
+  {
+    "id": 812935,
+    "name": "Molchany",
+    "country": "UA",
+    "coord": {
+      "lon": 36.300282,
+      "lat": 49.9202
+    },
+    "nameUa": "Мовчани",
+    "nameRu": "Молчаны"
+  },
+  {
+    "id": 700646,
+    "name": "Mukacheve",
+    "country": "UA",
+    "coord": {
+      "lon": 22.717791,
+      "lat": 48.43919
+    },
+    "nameUa": "Мукачево",
+    "nameRu": "Мукачево"
+  },
+  {
+    "id": 700829,
+    "name": "Molodogvardeysk",
+    "country": "UA",
+    "coord": {
+      "lon": 39.658241,
+      "lat": 48.345779
+    },
+    "nameUa": "Молодогвардійськ",
+    "nameRu": "Молодогвардейск"
+  },
+  {
+    "id": 700159,
+    "name": "Mykolayivka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.756149,
+      "lat": 47.541351
+    },
+    "nameUa": "Миколаївка",
+    "nameRu": "Николаевка"
+  },
+  {
+    "id": 700606,
+    "name": "Murovani Kurylivtsi",
+    "country": "UA",
+    "coord": {
+      "lon": 27.518921,
+      "lat": 48.72348
+    },
+    "nameUa": "Муровані Курилівці",
+    "nameRu": "Мурованые Куриловцы"
+  },
+  {
+    "id": 700607,
+    "name": "Murovanoye",
+    "country": "UA",
+    "coord": {
+      "lon": 22.936701,
+      "lat": 49.521431
+    },
+    "nameUa": "Муроване",
+    "nameRu": "Мурованое"
+  },
+  {
+    "id": 700730,
+    "name": "Moshny",
+    "country": "UA",
+    "coord": {
+      "lon": 31.74757,
+      "lat": 49.514729
+    },
+    "nameUa": "Мошни",
+    "nameRu": "Мошны"
+  },
+  {
+    "id": 700750,
+    "name": "Morskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.803139,
+      "lat": 44.825932
+    },
+    "nameUa": "Морське",
+    "nameRu": "Морское"
+  },
+  {
+    "id": 700796,
+    "name": "Monastyryshche",
+    "country": "UA",
+    "coord": {
+      "lon": 29.804701,
+      "lat": 48.990898
+    },
+    "nameUa": "Монастирище",
+    "nameRu": "Монастырище"
+  },
+  {
+    "id": 700831,
+    "name": "Molodiya",
+    "country": "UA",
+    "coord": {
+      "lon": 26.021391,
+      "lat": 48.223259
+    },
+    "nameUa": "Молодія",
+    "nameRu": "Молодия"
+  },
+  {
+    "id": 700834,
+    "name": "Molodizhne",
+    "country": "UA",
+    "coord": {
+      "lon": 32.660149,
+      "lat": 48.177319
+    },
+    "nameUa": "Молодіжне",
+    "nameRu": "Молодёжное"
+  },
+  {
+    "id": 700964,
+    "name": "Mlyniv",
+    "country": "UA",
+    "coord": {
+      "lon": 25.616751,
+      "lat": 50.508999
+    },
+    "nameUa": "Млинів",
+    "nameRu": "Млинов"
+  },
+  {
+    "id": 700967,
+    "name": "Mleyev",
+    "country": "UA",
+    "coord": {
+      "lon": 31.533899,
+      "lat": 49.344341
+    },
+    "nameUa": "Мліїв",
+    "nameRu": "Млиев"
+  },
+  {
+    "id": 700974,
+    "name": "Mizoch",
+    "country": "UA",
+    "coord": {
+      "lon": 26.15,
+      "lat": 50.400002
+    },
+    "nameUa": "Мізоч",
+    "nameRu": "Мизоч"
+  },
+  {
+    "id": 700977,
+    "name": "Miusinsk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.903641,
+      "lat": 48.077499
+    },
+    "nameUa": "Міусинськ",
+    "nameRu": "Миусинск"
+  },
+  {
+    "id": 701057,
+    "name": "Myrnyy",
+    "country": "UA",
+    "coord": {
+      "lon": 33.035011,
+      "lat": 45.30788
+    },
+    "nameUa": "Мирний",
+    "nameRu": "Мирный"
+  },
+  {
+    "id": 701104,
+    "name": "Milove",
+    "country": "UA",
+    "coord": {
+      "lon": 40.130161,
+      "lat": 49.378719
+    },
+    "nameUa": "Мілове",
+    "nameRu": "Меловое"
+  },
+  {
+    "id": 701233,
+    "name": "Mykhaylivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.222351,
+      "lat": 47.27235
+    },
+    "nameUa": "Михайлівка",
+    "nameRu": "Михайловка"
+  },
+  {
+    "id": 701274,
+    "name": "Myhove",
+    "country": "UA",
+    "coord": {
+      "lon": 25.37904,
+      "lat": 48.15749
+    },
+    "nameUa": "Мигове",
+    "nameRu": "Мигово"
+  },
+  {
+    "id": 701276,
+    "name": "Myhiya",
+    "country": "UA",
+    "coord": {
+      "lon": 30.95153,
+      "lat": 48.037189
+    },
+    "nameUa": "Мигія",
+    "nameRu": "Мигия"
+  },
+  {
+    "id": 701286,
+    "name": "Mizhvodne",
+    "country": "UA",
+    "coord": {
+      "lon": 32.845009,
+      "lat": 45.587509
+    },
+    "nameUa": "Міжводне",
+    "nameRu": "Межводное"
+  },
+  {
+    "id": 701413,
+    "name": "Melekyne",
+    "country": "UA",
+    "coord": {
+      "lon": 37.399811,
+      "lat": 46.959572
+    },
+    "nameUa": "Мелекіне",
+    "nameRu": "Мелекино"
+  },
+  {
+    "id": 701425,
+    "name": "Medzhibozh",
+    "country": "UA",
+    "coord": {
+      "lon": 27.404869,
+      "lat": 49.437481
+    },
+    "nameUa": "Меджибіж",
+    "nameRu": "Меджибож"
+  },
+  {
+    "id": 701466,
+    "name": "Medenychi",
+    "country": "UA",
+    "coord": {
+      "lon": 23.750731,
+      "lat": 49.43055
+    },
+    "nameUa": "Меденичі",
+    "nameRu": "Меденичи"
+  },
+  {
+    "id": 701560,
+    "name": "Mayaky",
+    "country": "UA",
+    "coord": {
+      "lon": 29.55986,
+      "lat": 47.44083
+    },
+    "nameUa": "Маяки",
+    "nameRu": "Маяки"
+  },
+  {
+    "id": 701588,
+    "name": "Matviyivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.14444,
+      "lat": 47.074718
+    },
+    "nameUa": "Матвіївка",
+    "nameRu": "Матвеевка"
+  },
+  {
+    "id": 701637,
+    "name": "Mashivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.866879,
+      "lat": 49.443081
+    },
+    "nameUa": "Машівка",
+    "nameRu": "Машевка"
+  },
+  {
+    "id": 701768,
+    "name": "Marshintsy",
+    "country": "UA",
+    "coord": {
+      "lon": 26.29133,
+      "lat": 48.21751
+    },
+    "nameUa": "Маршинці",
+    "nameRu": "Маршинцы"
+  },
+  {
+    "id": 701792,
+    "name": "Markivka",
+    "country": "UA",
+    "coord": {
+      "lon": 39.570549,
+      "lat": 49.5229
+    },
+    "nameUa": "Марківка",
+    "nameRu": "Марковка"
+  },
+  {
+    "id": 701802,
+    "name": "Markova",
+    "country": "UA",
+    "coord": {
+      "lon": 24.41382,
+      "lat": 48.675758
+    },
+    "nameUa": "Маркова",
+    "nameRu": "Маркова"
+  },
+  {
+    "id": 701877,
+    "name": "Manyava",
+    "country": "UA",
+    "coord": {
+      "lon": 24.37537,
+      "lat": 48.655411
+    },
+    "nameUa": "Манява",
+    "nameRu": "Манява"
+  },
+  {
+    "id": 701912,
+    "name": "Manchenky",
+    "country": "UA",
+    "coord": {
+      "lon": 35.858349,
+      "lat": 49.97982
+    },
+    "nameUa": "Манченки",
+    "nameRu": "Манченки"
+  },
+  {
+    "id": 702061,
+    "name": "Malorichenske",
+    "country": "UA",
+    "coord": {
+      "lon": 34.557892,
+      "lat": 44.758881
+    },
+    "nameUa": "Малоріченське",
+    "nameRu": "Малореченское"
+  },
+  {
+    "id": 702073,
+    "name": "Malokakhovka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.447899,
+      "lat": 46.781422
+    },
+    "nameUa": "Малокаховка",
+    "nameRu": "Малокаховка"
+  },
+  {
+    "id": 702147,
+    "name": "Mala Vyska",
+    "country": "UA",
+    "coord": {
+      "lon": 31.63657,
+      "lat": 48.643082
+    },
+    "nameUa": "Мала Виска",
+    "nameRu": "Малая Виска"
+  },
+  {
+    "id": 702153,
+    "name": "Mala Tokmachka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.892929,
+      "lat": 47.535629
+    },
+    "nameUa": "Мала Токмачка",
+    "nameRu": "Малая Токмачка"
+  },
+  {
+    "id": 702356,
+    "name": "Mahdalynivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.915581,
+      "lat": 48.921021
+    },
+    "nameUa": "Магдалинівка",
+    "nameRu": "Магдалиновка"
+  },
+  {
+    "id": 793657,
+    "name": "Malynivka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.73333,
+      "lat": 49.816669
+    },
+    "nameUa": "Малинівка",
+    "nameRu": "Малиновка"
+  },
+  {
+    "id": 701032,
+    "name": "Mironovka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.12899,
+      "lat": 49.270489
+    },
+    "nameUa": "Миронівка",
+    "nameRu": "Мироновка"
+  }
+]

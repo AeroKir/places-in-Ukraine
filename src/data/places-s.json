@@ -1,0 +1,2158 @@
+[
+  {
+    "id": 692248,
+    "name": "Sukhoivanovskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 35.366669,
+      "lat": 47.583332
+    },
+    "nameUa": "Степногірськ",
+    "nameRu": "Степногорск"
+  },
+  {
+    "id": 6723018,
+    "name": "Shatylivka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.233105,
+      "lat": 50.019814
+    },
+    "nameUa": "Шатилівка",
+    "nameRu": "Шатиловка"
+  },
+  {
+    "id": 616196,
+    "name": "Staryy Dobrotvor",
+    "country": "UA",
+    "coord": {
+      "lon": 24.377001,
+      "lat": 50.231541
+    },
+    "nameUa": "Старий Добротвір",
+    "nameRu": "Старый Добротвор"
+  },
+  {
+    "id": 692410,
+    "name": "Strohonivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.197269,
+      "lat": 44.943089
+    },
+    "nameUa": "Строгонівка",
+    "nameRu": "Строгоновка"
+  },
+  {
+    "id": 692468,
+    "name": "Stozhkovskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 38.4925,
+      "lat": 48.113331
+    },
+    "nameUa": "Стіжківське",
+    "nameRu": "Стожковское"
+  },
+  {
+    "id": 692604,
+    "name": "Stepanivka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.986839,
+      "lat": 46.794891
+    },
+    "nameUa": "Степанівка",
+    "nameRu": "Степановка"
+  },
+  {
+    "id": 693002,
+    "name": "Serednye",
+    "country": "UA",
+    "coord": {
+      "lon": 22.50696,
+      "lat": 48.540428
+    },
+    "nameUa": "Середнє",
+    "nameRu": "Среднее"
+  },
+  {
+    "id": 703863,
+    "name": "Sanatoriy Kryms’ke Prymor”ya",
+    "country": "UA",
+    "coord": {
+      "lon": 35.190475,
+      "lat": 44.911317
+    },
+    "nameUa": "Кримське Примор'є",
+    "nameRu": "Крымское Приморье"
+  },
+  {
+    "id": 815919,
+    "name": "Sorokin",
+    "country": "UA",
+    "coord": {
+      "lon": 34.036667,
+      "lat": 52.15778
+    },
+    "nameUa": "Прогрес",
+    "nameRu": "Прогресс"
+  },
+  {
+    "id": 693272,
+    "name": "Sokolyne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.966667,
+      "lat": 44.549999
+    },
+    "nameUa": "Соколине",
+    "nameRu": "Соколиное"
+  },
+  {
+    "id": 692800,
+    "name": "Starosel’ye",
+    "country": "UA",
+    "coord": {
+      "lon": 33.916668,
+      "lat": 44.75
+    },
+    "nameUa": "Старосілля",
+    "nameRu": "Староселье"
+  },
+  {
+    "id": 694320,
+    "name": "Shchebetovka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.150002,
+      "lat": 44.933334
+    },
+    "nameUa": "Щебетовка",
+    "nameRu": "Щебетовка"
+  },
+  {
+    "id": 694385,
+    "name": "Shakh-Murza Staraya",
+    "country": "UA",
+    "coord": {
+      "lon": 35.016666,
+      "lat": 44.983334
+    },
+    "nameUa": "Шах-Мурза Стара",
+    "nameRu": "Шах-Мурза Старая"
+  },
+  {
+    "id": 692196,
+    "name": "Sums’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 34,
+      "lat": 51
+    },
+    "nameUa": "Сумська область",
+    "nameRu": "Сумская область"
+  },
+  {
+    "id": 692672,
+    "name": "Stavyshche",
+    "country": "UA",
+    "coord": {
+      "lon": 29.533333,
+      "lat": 50.400002
+    },
+    "nameUa": "Ставище",
+    "nameRu": "Ставище"
+  },
+  {
+    "id": 693738,
+    "name": "Sitnyaki",
+    "country": "UA",
+    "coord": {
+      "lon": 29.700001,
+      "lat": 50.416668
+    },
+    "nameUa": "Ситняки",
+    "nameRu": "Ситняки"
+  },
+  {
+    "id": 692014,
+    "name": "Svyatoshino",
+    "country": "UA",
+    "coord": {
+      "lon": 30.366667,
+      "lat": 50.450001
+    },
+    "nameUa": "Святошине",
+    "nameRu": "Святошино"
+  },
+  {
+    "id": 694558,
+    "name": "Semypolky",
+    "country": "UA",
+    "coord": {
+      "lon": 30.933332,
+      "lat": 50.716667
+    },
+    "nameUa": "Семиполки",
+    "nameRu": "Семиполки"
+  },
+  {
+    "id": 691991,
+    "name": "Syrai",
+    "country": "UA",
+    "coord": {
+      "lon": 31.049999,
+      "lat": 50.849998
+    },
+    "nameUa": "Сираї",
+    "nameRu": "Сыраи"
+  },
+  {
+    "id": 693585,
+    "name": "Slavov",
+    "country": "UA",
+    "coord": {
+      "lon": 28.533333,
+      "lat": 50.483334
+    },
+    "nameUa": "Славів",
+    "nameRu": "Славов"
+  },
+  {
+    "id": 693372,
+    "name": "Snitovskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 33.866669,
+      "lat": 44.416668
+    },
+    "nameUa": "Олива",
+    "nameRu": "Олива"
+  },
+  {
+    "id": 693056,
+    "name": "Sovetskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.166668,
+      "lat": 44.549999
+    },
+    "nameUa": "Совєтське",
+    "nameRu": "Советское"
+  },
+  {
+    "id": 694393,
+    "name": "Shablykina",
+    "country": "UA",
+    "coord": {
+      "lon": 33.433334,
+      "lat": 44.583332
+    },
+    "nameUa": "Шабликіна",
+    "nameRu": "Шаблыкина"
+  },
+  {
+    "id": 694728,
+    "name": "Schastlivoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.066666,
+      "lat": 44.566666
+    },
+    "nameUa": "Щасливе",
+    "nameRu": "Счастливое"
+  },
+  {
+    "id": 694423,
+    "name": "Sevastopol",
+    "country": "UA",
+    "coord": {
+      "lon": 33.533333,
+      "lat": 44.599998
+    },
+    "nameUa": "Севастополь",
+    "nameRu": "Севастополь"
+  },
+  {
+    "id": 694574,
+    "name": "Semydvir”ya",
+    "country": "UA",
+    "coord": {
+      "lon": 34.466667,
+      "lat": 44.716667
+    },
+    "nameUa": "Семидвір'я",
+    "nameRu": "Семидворье"
+  },
+  {
+    "id": 693070,
+    "name": "Sotera",
+    "country": "UA",
+    "coord": {
+      "lon": 34.5,
+      "lat": 44.733334
+    },
+    "nameUa": "Сотера",
+    "nameRu": "Сотера"
+  },
+  {
+    "id": 693698,
+    "name": "Skalyste",
+    "country": "UA",
+    "coord": {
+      "lon": 33.966667,
+      "lat": 44.816666
+    },
+    "nameUa": "Скалисте",
+    "nameRu": "Скалистое"
+  },
+  {
+    "id": 692315,
+    "name": "Sudak",
+    "country": "UA",
+    "coord": {
+      "lon": 34.966667,
+      "lat": 44.849998
+    },
+    "nameUa": "Судак",
+    "nameRu": "Судак"
+  },
+  {
+    "id": 693219,
+    "name": "Sonyachna Dolyna",
+    "country": "UA",
+    "coord": {
+      "lon": 35.099998,
+      "lat": 44.866669
+    },
+    "nameUa": "Сонячна Долина",
+    "nameRu": "Солнечная Долина"
+  },
+  {
+    "id": 694115,
+    "name": "Shevekova",
+    "country": "UA",
+    "coord": {
+      "lon": 35.200001,
+      "lat": 44.916668
+    },
+    "nameUa": "Шевекова",
+    "nameRu": "Шевекова"
+  },
+  {
+    "id": 694910,
+    "name": "Saky",
+    "country": "UA",
+    "coord": {
+      "lon": 33.603058,
+      "lat": 45.135555
+    },
+    "nameUa": "Саки",
+    "nameRu": "Саки"
+  },
+  {
+    "id": 694627,
+    "name": "Semenivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.766666,
+      "lat": 45.383331
+    },
+    "nameUa": "Семенівка",
+    "nameRu": "Семёновка"
+  },
+  {
+    "id": 694308,
+    "name": "Shchemilovka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.700001,
+      "lat": 46.150002
+    },
+    "nameUa": "Щемилівка",
+    "nameRu": "Щемиловка"
+  },
+  {
+    "id": 712752,
+    "name": "Sanatoriy Batylyman",
+    "country": "UA",
+    "coord": {
+      "lon": 33.6817,
+      "lat": 44.418985
+    },
+    "nameUa": "Санаторій Батилиман",
+    "nameRu": "Санаторий Батилиман"
+  },
+  {
+    "id": 692714,
+    "name": "Staryy Krym",
+    "country": "UA",
+    "coord": {
+      "lon": 35.099998,
+      "lat": 45.033333
+    },
+    "nameUa": "Старий Крим",
+    "nameRu": "Старый Крым"
+  },
+  {
+    "id": 694554,
+    "name": "Semysotka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.566666,
+      "lat": 45.233334
+    },
+    "nameUa": "Семисотка",
+    "nameRu": "Семисотка"
+  },
+  {
+    "id": 692995,
+    "name": "Sredniy Fontan",
+    "country": "UA",
+    "coord": {
+      "lon": 30.755453,
+      "lat": 46.413911
+    },
+    "nameUa": "Середній Фонтан",
+    "nameRu": "Средний Фонтан"
+  },
+  {
+    "id": 693080,
+    "name": "Sosnovka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.166668,
+      "lat": 46.683334
+    },
+    "nameUa": "Якимівка",
+    "nameRu": "Акимовка"
+  },
+  {
+    "id": 694623,
+    "name": "Semenivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.413334,
+      "lat": 46.889999
+    },
+    "nameUa": "Семенівка",
+    "nameRu": "Семёновка"
+  },
+  {
+    "id": 694240,
+    "name": "Shëlokovyy",
+    "country": "UA",
+    "coord": {
+      "lon": 35.283333,
+      "lat": 47.900002
+    },
+    "nameUa": "Матвіївка",
+    "nameRu": "Матвеевка"
+  },
+  {
+    "id": 694117,
+    "name": "Shevchenko Vtoroy",
+    "country": "UA",
+    "coord": {
+      "lon": 35.400002,
+      "lat": 48.516666
+    },
+    "nameUa": "Шевченко другий",
+    "nameRu": "Шевченко второй"
+  },
+  {
+    "id": 693250,
+    "name": "Sokolovo",
+    "country": "UA",
+    "coord": {
+      "lon": 35.316666,
+      "lat": 48.533333
+    },
+    "nameUa": "Соколове",
+    "nameRu": "Соколово"
+  },
+  {
+    "id": 6722149,
+    "name": "Sokol’nyky",
+    "country": "UA",
+    "coord": {
+      "lon": 36.261181,
+      "lat": 50.033634
+    },
+    "nameUa": "Сокольники",
+    "nameRu": "Сокольники"
+  },
+  {
+    "id": 812806,
+    "name": "Sinolitsovka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.042782,
+      "lat": 49.958889
+    },
+    "nameUa": "Синьолицівка",
+    "nameRu": "Синолицовка"
+  },
+  {
+    "id": 694246,
+    "name": "Shelkovichnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.099998,
+      "lat": 44.633331
+    },
+    "nameUa": "Шовковичне",
+    "nameRu": "Шелковичное"
+  },
+  {
+    "id": 6725648,
+    "name": "Shevchenka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.212448,
+      "lat": 50.36552
+    },
+    "nameUa": "Шевченка",
+    "nameRu": "Шевченко"
+  },
+  {
+    "id": 693598,
+    "name": "Slatino",
+    "country": "UA",
+    "coord": {
+      "lon": 36.160831,
+      "lat": 50.224171
+    },
+    "nameUa": "Слатине",
+    "nameRu": "Слатино"
+  },
+  {
+    "id": 692035,
+    "name": "Svobodnaya Zhizn’",
+    "country": "UA",
+    "coord": {
+      "lon": 35.049999,
+      "lat": 46.599998
+    },
+    "nameUa": "Новоданилівка",
+    "nameRu": "Новоданиловка"
+  },
+  {
+    "id": 694568,
+    "name": "Semikhatka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.066669,
+      "lat": 46.583328
+    },
+    "nameUa": "Семихатки",
+    "nameRu": "Семихатки"
+  },
+  {
+    "id": 693269,
+    "name": "Sokolohirne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.942539,
+      "lat": 46.498131
+    },
+    "nameUa": "Сокологірне",
+    "nameRu": "Сокологорное"
+  },
+  {
+    "id": 7032306,
+    "name": "Shchorsivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.68531,
+      "lat": 46.256531
+    },
+    "nameUa": "Олексіївка",
+    "nameRu": "Алексеевка"
+  },
+  {
+    "id": 7046678,
+    "name": "Sal’kove",
+    "country": "UA",
+    "coord": {
+      "lon": 34.606331,
+      "lat": 46.175251
+    },
+    "nameUa": "Салькове",
+    "nameRu": "Сальково"
+  },
+  {
+    "id": 693226,
+    "name": "Solone Ozero",
+    "country": "UA",
+    "coord": {
+      "lon": 34.447819,
+      "lat": 45.888481
+    },
+    "nameUa": "Солоне Озеро",
+    "nameRu": "Солёное Озеро"
+  },
+  {
+    "id": 692505,
+    "name": "Stovpove",
+    "country": "UA",
+    "coord": {
+      "lon": 34.467331,
+      "lat": 45.826759
+    },
+    "nameUa": "Стовпове",
+    "nameRu": "Столбовое"
+  },
+  {
+    "id": 6981123,
+    "name": "Shyroke",
+    "country": "UA",
+    "coord": {
+      "lon": 34.047321,
+      "lat": 45.20155
+    },
+    "nameUa": "Широке",
+    "nameRu": "Широкое"
+  },
+  {
+    "id": 693342,
+    "name": "Sofiyivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.001209,
+      "lat": 45.097092
+    },
+    "nameUa": "Софіївка",
+    "nameRu": "Софиевка"
+  },
+  {
+    "id": 7040016,
+    "name": "Samokhvalove",
+    "country": "UA",
+    "coord": {
+      "lon": 33.922482,
+      "lat": 44.824558
+    },
+    "nameUa": "Самохвалове",
+    "nameRu": "Самохвалово"
+  },
+  {
+    "id": 7040142,
+    "name": "Semarenka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.689098,
+      "lat": 44.700291
+    },
+    "nameUa": "Семеренка",
+    "nameRu": "Семеренка"
+  },
+  {
+    "id": 692909,
+    "name": "Staraya Darnitsa",
+    "country": "UA",
+    "coord": {
+      "lon": 30.633329,
+      "lat": 50.433331
+    },
+    "nameUa": "Стара Дарниця",
+    "nameRu": "Старая Дарница"
+  },
+  {
+    "id": 693805,
+    "name": "Simferopol",
+    "country": "UA",
+    "coord": {
+      "lon": 34.11079,
+      "lat": 44.957191
+    },
+    "nameUa": "Сімферополь",
+    "nameRu": "Симферополь"
+  },
+  {
+    "id": 694165,
+    "name": "Shevchenko",
+    "country": "UA",
+    "coord": {
+      "lon": 35,
+      "lat": 48.5
+    },
+    "nameUa": "Шевченко",
+    "nameRu": "Шевченко"
+  },
+  {
+    "id": 694197,
+    "name": "Shestakovka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.97595,
+      "lat": 48.515968
+    },
+    "nameUa": "Шостаківка",
+    "nameRu": "Шестаковка"
+  },
+  {
+    "id": 693360,
+    "name": "Sobatin",
+    "country": "UA",
+    "coord": {
+      "lon": 22.99712,
+      "lat": 48.324169
+    },
+    "nameUa": "Собатин",
+    "nameRu": "Собатин"
+  },
+  {
+    "id": 7040018,
+    "name": "Sevastyanivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.932999,
+      "lat": 44.81974
+    },
+    "nameUa": "Севастянівка",
+    "nameRu": "Севастьяновка"
+  },
+  {
+    "id": 692194,
+    "name": "Sumy",
+    "country": "UA",
+    "coord": {
+      "lon": 34.800289,
+      "lat": 50.9216
+    },
+    "nameUa": "Суми",
+    "nameRu": "Сумы"
+  },
+  {
+    "id": 692975,
+    "name": "Stakhanov",
+    "country": "UA",
+    "coord": {
+      "lon": 38.64352,
+      "lat": 48.56818
+    },
+    "nameUa": "Кадіївка",
+    "nameRu": "Кадиевка"
+  },
+  {
+    "id": 691999,
+    "name": "Syeverodonetsk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.491661,
+      "lat": 48.948318
+    },
+    "nameUa": "Сєвєродонецьк",
+    "nameRu": "Северодонецк"
+  },
+  {
+    "id": 694350,
+    "name": "Sharhorod",
+    "country": "UA",
+    "coord": {
+      "lon": 28.08497,
+      "lat": 48.73835
+    },
+    "nameUa": "Шаргород",
+    "nameRu": "Шаргород"
+  },
+  {
+    "id": 693468,
+    "name": "Sloviansk",
+    "country": "UA",
+    "coord": {
+      "lon": 37.616669,
+      "lat": 48.866669
+    },
+    "nameUa": "Слов’янськ",
+    "nameRu": "Славянск"
+  },
+  {
+    "id": 693709,
+    "name": "Skadovsk",
+    "country": "UA",
+    "coord": {
+      "lon": 32.91124,
+      "lat": 46.1161
+    },
+    "nameUa": "Скадовськ",
+    "nameRu": "Скадовск"
+  },
+  {
+    "id": 693581,
+    "name": "Slavuta",
+    "country": "UA",
+    "coord": {
+      "lon": 26.865061,
+      "lat": 50.301552
+    },
+    "nameUa": "Славута",
+    "nameRu": "Славута"
+  },
+  {
+    "id": 694216,
+    "name": "Shepetivka",
+    "country": "UA",
+    "coord": {
+      "lon": 27.06365,
+      "lat": 50.185452
+    },
+    "nameUa": "Шепетівка",
+    "nameRu": "Шепетовка"
+  },
+  {
+    "id": 693514,
+    "name": "Sloboda Zasluch’",
+    "country": "UA",
+    "coord": {
+      "lon": 27.216669,
+      "lat": 49.75
+    },
+    "nameUa": "Слобода Заслуш",
+    "nameRu": "Слобода Заслуш"
+  },
+  {
+    "id": 693942,
+    "name": "Shostka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.469799,
+      "lat": 51.862961
+    },
+    "nameUa": "Шостка",
+    "nameRu": "Шостка"
+  },
+  {
+    "id": 692176,
+    "name": "Sursko-Litovskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.93367,
+      "lat": 48.336658
+    },
+    "nameUa": "Сурсько-Литовське",
+    "nameRu": "Сурско-Литовское"
+  },
+  {
+    "id": 693301,
+    "name": "Sokal",
+    "country": "UA",
+    "coord": {
+      "lon": 24.282881,
+      "lat": 50.47438
+    },
+    "nameUa": "Сокаль",
+    "nameRu": "Сокаль"
+  },
+  {
+    "id": 694792,
+    "name": "Sarny",
+    "country": "UA",
+    "coord": {
+      "lon": 26.60191,
+      "lat": 51.337952
+    },
+    "nameUa": "Сарни",
+    "nameRu": "Сарны"
+  },
+  {
+    "id": 693379,
+    "name": "Snihurivka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.805161,
+      "lat": 47.07579
+    },
+    "nameUa": "Снігурівка",
+    "nameRu": "Снигирёвка"
+  },
+  {
+    "id": 693231,
+    "name": "Solone",
+    "country": "UA",
+    "coord": {
+      "lon": 34.872082,
+      "lat": 48.20805
+    },
+    "nameUa": "Солоне",
+    "nameRu": "Солёное"
+  },
+  {
+    "id": 694864,
+    "name": "Sambir",
+    "country": "UA",
+    "coord": {
+      "lon": 23.197519,
+      "lat": 49.518299
+    },
+    "nameUa": "Самбiр",
+    "nameRu": "Самбор"
+  },
+  {
+    "id": 692301,
+    "name": "Sudovaya Vishnya",
+    "country": "UA",
+    "coord": {
+      "lon": 23.372181,
+      "lat": 49.788921
+    },
+    "nameUa": "Судова Вишня",
+    "nameRu": "Судовая Вишня"
+  },
+  {
+    "id": 692372,
+    "name": "Stryi",
+    "country": "UA",
+    "coord": {
+      "lon": 23.856091,
+      "lat": 49.26223
+    },
+    "nameUa": "Стрий",
+    "nameRu": "Стрый"
+  },
+  {
+    "id": 692632,
+    "name": "Stebnik",
+    "country": "UA",
+    "coord": {
+      "lon": 23.56357,
+      "lat": 49.294159
+    },
+    "nameUa": "Стебник",
+    "nameRu": "Стебник"
+  },
+  {
+    "id": 806930,
+    "name": "Savkino",
+    "country": "UA",
+    "coord": {
+      "lon": 34.086109,
+      "lat": 51.583889
+    },
+    "nameUa": "Савкіне",
+    "nameRu": "Савкино"
+  },
+  {
+    "id": 693920,
+    "name": "Shpola",
+    "country": "UA",
+    "coord": {
+      "lon": 31.394711,
+      "lat": 49.00687
+    },
+    "nameUa": "Шпола",
+    "nameRu": "Шпола"
+  },
+  {
+    "id": 692129,
+    "name": "Svalyava",
+    "country": "UA",
+    "coord": {
+      "lon": 22.995781,
+      "lat": 48.548531
+    },
+    "nameUa": "Свалява",
+    "nameRu": "Свалява"
+  },
+  {
+    "id": 692287,
+    "name": "Sukharka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.23333,
+      "lat": 50.5
+    },
+    "nameUa": "Сухарка",
+    "nameRu": "Сухарка"
+  },
+  {
+    "id": 693457,
+    "name": "Smila",
+    "country": "UA",
+    "coord": {
+      "lon": 31.88714,
+      "lat": 49.22242
+    },
+    "nameUa": "Сміла",
+    "nameRu": "Смела"
+  },
+  {
+    "id": 692487,
+    "name": "Storozhynets’",
+    "country": "UA",
+    "coord": {
+      "lon": 25.72028,
+      "lat": 48.164299
+    },
+    "nameUa": "Сторожинець",
+    "nameRu": "Сторожинец"
+  },
+  {
+    "id": 694677,
+    "name": "Selidovo",
+    "country": "UA",
+    "coord": {
+      "lon": 37.30032,
+      "lat": 48.147079
+    },
+    "nameUa": "Селидове",
+    "nameRu": "Селидово"
+  },
+  {
+    "id": 693796,
+    "name": "Synelnykove",
+    "country": "UA",
+    "coord": {
+      "lon": 35.517921,
+      "lat": 48.320438
+    },
+    "nameUa": "Синельникове",
+    "nameRu": "Синельниково"
+  },
+  {
+    "id": 693705,
+    "name": "Skakunka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.049999,
+      "lat": 49.23333
+    },
+    "nameUa": "Липовець",
+    "nameRu": "Липовец"
+  },
+  {
+    "id": 692832,
+    "name": "Starobilsk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.91069,
+      "lat": 49.27832
+    },
+    "nameUa": "Старобільськ",
+    "nameRu": "Старобельск"
+  },
+  {
+    "id": 692254,
+    "name": "Sukhodol’sk",
+    "country": "UA",
+    "coord": {
+      "lon": 39.710499,
+      "lat": 48.35014
+    },
+    "nameUa": "Суходільськ",
+    "nameRu": "Суходольск"
+  },
+  {
+    "id": 706757,
+    "name": "Soledar",
+    "country": "UA",
+    "coord": {
+      "lon": 38.08902,
+      "lat": 48.679352
+    },
+    "nameUa": "Соледар",
+    "nameRu": "Соледар"
+  },
+  {
+    "id": 693615,
+    "name": "Skvyra",
+    "country": "UA",
+    "coord": {
+      "lon": 29.665689,
+      "lat": 49.73177
+    },
+    "nameUa": "Сквира",
+    "nameRu": "Сквира"
+  },
+  {
+    "id": 694812,
+    "name": "Sarata",
+    "country": "UA",
+    "coord": {
+      "lon": 29.66567,
+      "lat": 46.019661
+    },
+    "nameUa": "Сарата",
+    "nameRu": "Сарата"
+  },
+  {
+    "id": 692105,
+    "name": "Sverdlovsk",
+    "country": "UA",
+    "coord": {
+      "lon": 39.652431,
+      "lat": 48.089642
+    },
+    "nameUa": "Довжанськ",
+    "nameRu": "Должанск"
+  },
+  {
+    "id": 692118,
+    "name": "Svatove",
+    "country": "UA",
+    "coord": {
+      "lon": 38.150349,
+      "lat": 49.41029
+    },
+    "nameUa": "Сватове",
+    "nameRu": "Сватово"
+  },
+  {
+    "id": 694656,
+    "name": "Sel’tse",
+    "country": "UA",
+    "coord": {
+      "lon": 26.75,
+      "lat": 51
+    },
+    "nameUa": "Березне",
+    "nameRu": "Березно"
+  },
+  {
+    "id": 810784,
+    "name": "Slavyanoserbsk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.908329,
+      "lat": 48.549171
+    },
+    "nameUa": "Слов'яносербськ",
+    "nameRu": "Славяносербск"
+  },
+  {
+    "id": 693809,
+    "name": "Simeiz",
+    "country": "UA",
+    "coord": {
+      "lon": 34.007038,
+      "lat": 44.40646
+    },
+    "nameUa": "Сімеїз",
+    "nameRu": "Симеиз"
+  },
+  {
+    "id": 692146,
+    "name": "Sutysky",
+    "country": "UA",
+    "coord": {
+      "lon": 28.41732,
+      "lat": 49.04245
+    },
+    "nameUa": "Сутиски",
+    "nameRu": "Сутиски"
+  },
+  {
+    "id": 694745,
+    "name": "Savran",
+    "country": "UA",
+    "coord": {
+      "lon": 30.08247,
+      "lat": 48.132191
+    },
+    "nameUa": "Саврань",
+    "nameRu": "Саврань"
+  },
+  {
+    "id": 693381,
+    "name": "Snizhne",
+    "country": "UA",
+    "coord": {
+      "lon": 38.772251,
+      "lat": 48.026119
+    },
+    "nameUa": "Сніжне",
+    "nameRu": "Снежное"
+  },
+  {
+    "id": 692786,
+    "name": "Staroverovka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.696651,
+      "lat": 49.54361
+    },
+    "nameUa": "Старовірівка",
+    "nameRu": "Староверовка"
+  },
+  {
+    "id": 693365,
+    "name": "Snyatyn",
+    "country": "UA",
+    "coord": {
+      "lon": 25.56937,
+      "lat": 48.446918
+    },
+    "nameUa": "Снятин",
+    "nameRu": "Снятын"
+  },
+  {
+    "id": 694603,
+    "name": "Semenivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.180489,
+      "lat": 49.590309
+    },
+    "nameUa": "Семенівка",
+    "nameRu": "Семёновка"
+  },
+  {
+    "id": 692702,
+    "name": "Staryy Sambor",
+    "country": "UA",
+    "coord": {
+      "lon": 23.000561,
+      "lat": 49.43856
+    },
+    "nameUa": "Старий Самбір",
+    "nameRu": "Старый Самбор"
+  },
+  {
+    "id": 6930327,
+    "name": "Slavutich",
+    "country": "UA",
+    "coord": {
+      "lon": 30.734341,
+      "lat": 51.519642
+    },
+    "nameUa": "Славутич",
+    "nameRu": "Славутич"
+  },
+  {
+    "id": 694333,
+    "name": "Shatsk",
+    "country": "UA",
+    "coord": {
+      "lon": 23.938061,
+      "lat": 51.502079
+    },
+    "nameUa": "Шацьк",
+    "nameRu": "Шацк"
+  },
+  {
+    "id": 693284,
+    "name": "Sokyryany",
+    "country": "UA",
+    "coord": {
+      "lon": 27.41678,
+      "lat": 48.447472
+    },
+    "nameUa": "Сокиряни",
+    "nameRu": "Сокиряны"
+  },
+  {
+    "id": 692856,
+    "name": "Stara Vyzhivka",
+    "country": "UA",
+    "coord": {
+      "lon": 24.43997,
+      "lat": 51.437618
+    },
+    "nameUa": "Стара Вижівка",
+    "nameRu": "Старая Выжевка"
+  },
+  {
+    "id": 692210,
+    "name": "Sukhyy Lyman",
+    "country": "UA",
+    "coord": {
+      "lon": 30.6458,
+      "lat": 46.392132
+    },
+    "nameUa": "Сухий Лиман",
+    "nameRu": "Сухой Лиман"
+  },
+  {
+    "id": 693665,
+    "name": "Sknyliv",
+    "country": "UA",
+    "coord": {
+      "lon": 23.950001,
+      "lat": 49.799999
+    },
+    "nameUa": "Скнилів",
+    "nameRu": "Скнилов"
+  },
+  {
+    "id": 694817,
+    "name": "Sarabuz Russkiy",
+    "country": "UA",
+    "coord": {
+      "lon": 33.98333,
+      "lat": 45.049999
+    },
+    "nameUa": "Солов'ївка",
+    "nameRu": "Соловьёвка"
+  },
+  {
+    "id": 693960,
+    "name": "Shmidta",
+    "country": "UA",
+    "coord": {
+      "lon": 39.386108,
+      "lat": 48.399719
+    },
+    "nameUa": "Переможне",
+    "nameRu": "Переможное"
+  },
+  {
+    "id": 692087,
+    "name": "Svitlovodsk",
+    "country": "UA",
+    "coord": {
+      "lon": 33.241058,
+      "lat": 49.048939
+    },
+    "nameUa": "Світловодськ",
+    "nameRu": "Светловодск"
+  },
+  {
+    "id": 692818,
+    "name": "Starokostyantyniv",
+    "country": "UA",
+    "coord": {
+      "lon": 27.203421,
+      "lat": 49.757641
+    },
+    "nameUa": "Старокостянтинів",
+    "nameRu": "Староконстантинов"
+  },
+  {
+    "id": 694382,
+    "name": "Shakhtersk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.516651,
+      "lat": 48.062519
+    },
+    "nameUa": "Шахтарськ",
+    "nameRu": "Шахтёрск"
+  },
+  {
+    "id": 692016,
+    "name": "Svyatogorsk",
+    "country": "UA",
+    "coord": {
+      "lon": 37.566669,
+      "lat": 49.033329
+    },
+    "nameUa": "Святогірськ",
+    "nameRu": "Святогорск"
+  },
+  {
+    "id": 692039,
+    "name": "Svityaz",
+    "country": "UA",
+    "coord": {
+      "lon": 23.859039,
+      "lat": 51.482109
+    },
+    "nameUa": "Світязь",
+    "nameRu": "Свитязь"
+  },
+  {
+    "id": 692122,
+    "name": "Svarychiv",
+    "country": "UA",
+    "coord": {
+      "lon": 24.196581,
+      "lat": 48.9622
+    },
+    "nameUa": "Сваричів",
+    "nameRu": "Сварычев"
+  },
+  {
+    "id": 692175,
+    "name": "Sursko-Mikhaylovka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.727589,
+      "lat": 48.272018
+    },
+    "nameUa": "Сурсько-Михайлівка",
+    "nameRu": "Сурско-Михайловка"
+  },
+  {
+    "id": 692233,
+    "name": "Sukhovolya",
+    "country": "UA",
+    "coord": {
+      "lon": 23.8377,
+      "lat": 49.824261
+    },
+    "nameUa": "Суховоля",
+    "nameRu": "Суховоля"
+  },
+  {
+    "id": 692317,
+    "name": "Subottsi",
+    "country": "UA",
+    "coord": {
+      "lon": 32.520931,
+      "lat": 48.655449
+    },
+    "nameUa": "Суботці",
+    "nameRu": "Субботцы"
+  },
+  {
+    "id": 692352,
+    "name": "Studenok",
+    "country": "UA",
+    "coord": {
+      "lon": 37.486969,
+      "lat": 49.091068
+    },
+    "nameUa": "Студенок",
+    "nameRu": "Студенок"
+  },
+  {
+    "id": 692465,
+    "name": "Strabychovo",
+    "country": "UA",
+    "coord": {
+      "lon": 22.543079,
+      "lat": 48.392471
+    },
+    "nameUa": "Страбичово",
+    "nameRu": "Страбичово"
+  },
+  {
+    "id": 692531,
+    "name": "Stetseva",
+    "country": "UA",
+    "coord": {
+      "lon": 25.57572,
+      "lat": 48.527672
+    },
+    "nameUa": "Стецева",
+    "nameRu": "Стецева"
+  },
+  {
+    "id": 692638,
+    "name": "Steblev",
+    "country": "UA",
+    "coord": {
+      "lon": 31.097639,
+      "lat": 49.401859
+    },
+    "nameUa": "Стеблів",
+    "nameRu": "Стеблёв"
+  },
+  {
+    "id": 692703,
+    "name": "Staryy Saltov",
+    "country": "UA",
+    "coord": {
+      "lon": 36.79393,
+      "lat": 50.08268
+    },
+    "nameUa": "Старий Салтів",
+    "nameRu": "Старый Салтов"
+  },
+  {
+    "id": 692709,
+    "name": "Staryy Merchyk",
+    "country": "UA",
+    "coord": {
+      "lon": 35.759041,
+      "lat": 49.981468
+    },
+    "nameUa": "Старий Мерчик",
+    "nameRu": "Старый Мерчик"
+  },
+  {
+    "id": 692713,
+    "name": "Staryy Krym",
+    "country": "UA",
+    "coord": {
+      "lon": 37.489342,
+      "lat": 47.161461
+    },
+    "nameUa": "Старий Крим",
+    "nameRu": "Старый Крым"
+  },
+  {
+    "id": 692742,
+    "name": "Stari Kuty",
+    "country": "UA",
+    "coord": {
+      "lon": 25.17293,
+      "lat": 48.270931
+    },
+    "nameUa": "Старі Кути",
+    "nameRu": "Старые Куты"
+  },
+  {
+    "id": 692749,
+    "name": "Stari Bohorodchany",
+    "country": "UA",
+    "coord": {
+      "lon": 24.5243,
+      "lat": 48.833611
+    },
+    "nameUa": "Старі Богородчани",
+    "nameRu": "Старые Богородчаны"
+  },
+  {
+    "id": 692819,
+    "name": "Starokozache",
+    "country": "UA",
+    "coord": {
+      "lon": 29.985279,
+      "lat": 46.337219
+    },
+    "nameUa": "Старокозаче",
+    "nameRu": "Староказачье"
+  },
+  {
+    "id": 692829,
+    "name": "Starobesheve",
+    "country": "UA",
+    "coord": {
+      "lon": 38.03051,
+      "lat": 47.750381
+    },
+    "nameUa": "Старобешеве",
+    "nameRu": "Старобешево"
+  },
+  {
+    "id": 692844,
+    "name": "Starychi",
+    "country": "UA",
+    "coord": {
+      "lon": 23.558479,
+      "lat": 49.980011
+    },
+    "nameUa": "Старичі",
+    "nameRu": "Старичи"
+  },
+  {
+    "id": 692866,
+    "name": "Stara Synyava",
+    "country": "UA",
+    "coord": {
+      "lon": 27.619089,
+      "lat": 49.60318
+    },
+    "nameUa": "Стара Синява",
+    "nameRu": "Старая Синява"
+  },
+  {
+    "id": 692944,
+    "name": "Stanislav",
+    "country": "UA",
+    "coord": {
+      "lon": 32.14777,
+      "lat": 46.569092
+    },
+    "nameUa": "Станіслав",
+    "nameRu": "Станислав"
+  },
+  {
+    "id": 693001,
+    "name": "Serednye Vodyane",
+    "country": "UA",
+    "coord": {
+      "lon": 23.91041,
+      "lat": 47.98159
+    },
+    "nameUa": "Середнє Водяне",
+    "nameRu": "Среднее Водяное"
+  },
+  {
+    "id": 693010,
+    "name": "Sribne",
+    "country": "UA",
+    "coord": {
+      "lon": 32.918671,
+      "lat": 50.663841
+    },
+    "nameUa": "Срібне",
+    "nameRu": "Сребное"
+  },
+  {
+    "id": 693028,
+    "name": "Spasskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 35.052422,
+      "lat": 48.659828
+    },
+    "nameUa": "Спаське",
+    "nameRu": "Спасское"
+  },
+  {
+    "id": 693044,
+    "name": "Spas",
+    "country": "UA",
+    "coord": {
+      "lon": 24.062929,
+      "lat": 48.889919
+    },
+    "nameUa": "Спас",
+    "nameRu": "Спас"
+  },
+  {
+    "id": 693100,
+    "name": "Sosnytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 32.499851,
+      "lat": 51.523869
+    },
+    "nameUa": "Сосниця",
+    "nameRu": "Сосница"
+  },
+  {
+    "id": 693176,
+    "name": "Solotvyno",
+    "country": "UA",
+    "coord": {
+      "lon": 23.87035,
+      "lat": 47.946041
+    },
+    "nameUa": "Солотвино",
+    "nameRu": "Солотвино"
+  },
+  {
+    "id": 693178,
+    "name": "Solotvyn",
+    "country": "UA",
+    "coord": {
+      "lon": 24.422119,
+      "lat": 48.702122
+    },
+    "nameUa": "Солотвин",
+    "nameRu": "Солотвин"
+  },
+  {
+    "id": 693193,
+    "name": "Solonka",
+    "country": "UA",
+    "coord": {
+      "lon": 24.010281,
+      "lat": 49.75621
+    },
+    "nameUa": "Солонка",
+    "nameRu": "Солонка"
+  },
+  {
+    "id": 693194,
+    "name": "Solonytsivka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.034641,
+      "lat": 49.996819
+    },
+    "nameUa": "Солоницівка",
+    "nameRu": "Солоницевка"
+  },
+  {
+    "id": 693325,
+    "name": "Sofiyivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.874619,
+      "lat": 48.049271
+    },
+    "nameUa": "Софіївка",
+    "nameRu": "Софиевка"
+  },
+  {
+    "id": 693348,
+    "name": "Sobolivka",
+    "country": "UA",
+    "coord": {
+      "lon": 28.650961,
+      "lat": 49.33604
+    },
+    "nameUa": "Соболівка",
+    "nameRu": "Соболевка"
+  },
+  {
+    "id": 693510,
+    "name": "Slobidka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.346109,
+      "lat": 47.88694
+    },
+    "nameUa": "Слобідка",
+    "nameRu": "Слободка"
+  },
+  {
+    "id": 693546,
+    "name": "Sloboda",
+    "country": "UA",
+    "coord": {
+      "lon": 33.606949,
+      "lat": 51.198059
+    },
+    "nameUa": "Слобода",
+    "nameRu": "Слобода"
+  },
+  {
+    "id": 693582,
+    "name": "Slavske",
+    "country": "UA",
+    "coord": {
+      "lon": 23.445869,
+      "lat": 48.84734
+    },
+    "nameUa": "Славське",
+    "nameRu": "Славское"
+  },
+  {
+    "id": 693658,
+    "name": "Skole",
+    "country": "UA",
+    "coord": {
+      "lon": 23.51346,
+      "lat": 49.03717
+    },
+    "nameUa": "Сколе",
+    "nameRu": "Сколе"
+  },
+  {
+    "id": 693679,
+    "name": "Skhodnitsa",
+    "country": "UA",
+    "coord": {
+      "lon": 23.361691,
+      "lat": 49.201279
+    },
+    "nameUa": "Східниця",
+    "nameRu": "Сходница"
+  },
+  {
+    "id": 693700,
+    "name": "Skalat",
+    "country": "UA",
+    "coord": {
+      "lon": 25.978689,
+      "lat": 49.427319
+    },
+    "nameUa": "Скалат",
+    "nameRu": "Скалат"
+  },
+  {
+    "id": 693789,
+    "name": "Synevyrska Polyana",
+    "country": "UA",
+    "coord": {
+      "lon": 23.6891,
+      "lat": 48.584839
+    },
+    "nameUa": "Синевирська Поляна",
+    "nameRu": "Синевирская Поляна"
+  },
+  {
+    "id": 693791,
+    "name": "Synevyr",
+    "country": "UA",
+    "coord": {
+      "lon": 23.62575,
+      "lat": 48.48745
+    },
+    "nameUa": "Синевир",
+    "nameRu": "Синевир"
+  },
+  {
+    "id": 693953,
+    "name": "Sholokhove",
+    "country": "UA",
+    "coord": {
+      "lon": 34.031189,
+      "lat": 47.69453
+    },
+    "nameUa": "Шолохове",
+    "nameRu": "Шолохово"
+  },
+  {
+    "id": 693995,
+    "name": "Shklo",
+    "country": "UA",
+    "coord": {
+      "lon": 23.544081,
+      "lat": 49.956749
+    },
+    "nameUa": "Шкло",
+    "nameRu": "Шкло"
+  },
+  {
+    "id": 694013,
+    "name": "Shyshaky",
+    "country": "UA",
+    "coord": {
+      "lon": 34.011181,
+      "lat": 49.881748
+    },
+    "nameUa": "Шишаки",
+    "nameRu": "Шишаки"
+  },
+  {
+    "id": 694016,
+    "name": "Shyryayeve",
+    "country": "UA",
+    "coord": {
+      "lon": 30.196381,
+      "lat": 47.38052
+    },
+    "nameUa": "Ширяєве",
+    "nameRu": "Ширяево"
+  },
+  {
+    "id": 694023,
+    "name": "Shyroke",
+    "country": "UA",
+    "coord": {
+      "lon": 38.231602,
+      "lat": 47.957111
+    },
+    "nameUa": "Широке",
+    "nameRu": "Широкое"
+  },
+  {
+    "id": 694025,
+    "name": "Shyroke",
+    "country": "UA",
+    "coord": {
+      "lon": 33.257141,
+      "lat": 47.69173
+    },
+    "nameUa": "Широке",
+    "nameRu": "Широкое"
+  },
+  {
+    "id": 694073,
+    "name": "Shypyntsi",
+    "country": "UA",
+    "coord": {
+      "lon": 25.746639,
+      "lat": 48.37677
+    },
+    "nameUa": "Шипинці",
+    "nameRu": "Шипинцы"
+  },
+  {
+    "id": 694137,
+    "name": "Shevchenkove",
+    "country": "UA",
+    "coord": {
+      "lon": 37.173481,
+      "lat": 49.69585
+    },
+    "nameUa": "Шевченкове",
+    "nameRu": "Шевченково"
+  },
+  {
+    "id": 694148,
+    "name": "Shevchenkove",
+    "country": "UA",
+    "coord": {
+      "lon": 32.203869,
+      "lat": 46.862888
+    },
+    "nameUa": "Шевченкове",
+    "nameRu": "Шевченково"
+  },
+  {
+    "id": 694152,
+    "name": "Shevchenkove",
+    "country": "UA",
+    "coord": {
+      "lon": 29.33357,
+      "lat": 45.556042
+    },
+    "nameUa": "Шевченкове",
+    "nameRu": "Шевченково"
+  },
+  {
+    "id": 694198,
+    "name": "Sheshory",
+    "country": "UA",
+    "coord": {
+      "lon": 24.98329,
+      "lat": 48.33197
+    },
+    "nameUa": "Шешори",
+    "nameRu": "Шешоры"
+  },
+  {
+    "id": 694273,
+    "name": "Shchors",
+    "country": "UA",
+    "coord": {
+      "lon": 31.94504,
+      "lat": 51.818649
+    },
+    "nameUa": "Сновськ",
+    "nameRu": "Сновск"
+  },
+  {
+    "id": 694290,
+    "name": "Shcherbinovka",
+    "country": "UA",
+    "coord": {
+      "lon": 37.791019,
+      "lat": 48.39489
+    },
+    "nameUa": "Щербинівка",
+    "nameRu": "Щербиновка"
+  },
+  {
+    "id": 694369,
+    "name": "Shalyhyne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.12167,
+      "lat": 51.571678
+    },
+    "nameUa": "Шалигине",
+    "nameRu": "Шалыгино"
+  },
+  {
+    "id": 694392,
+    "name": "Shabo",
+    "country": "UA",
+    "coord": {
+      "lon": 30.38595,
+      "lat": 46.132622
+    },
+    "nameUa": "Шабо",
+    "nameRu": "Шабо"
+  },
+  {
+    "id": 694403,
+    "name": "Seversk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.100071,
+      "lat": 48.866989
+    },
+    "nameUa": "Сіверськ",
+    "nameRu": "Северск"
+  },
+  {
+    "id": 694427,
+    "name": "Serpneve",
+    "country": "UA",
+    "coord": {
+      "lon": 29.019581,
+      "lat": 46.300941
+    },
+    "nameUa": "Серпневе",
+    "nameRu": "Серпневое"
+  },
+  {
+    "id": 694467,
+    "name": "Sergeyevka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.37682,
+      "lat": 46.027199
+    },
+    "nameUa": "Сергіївка",
+    "nameRu": "Сергеевка"
+  },
+  {
+    "id": 694491,
+    "name": "Seredyna-Buda",
+    "country": "UA",
+    "coord": {
+      "lon": 34.036388,
+      "lat": 52.189018
+    },
+    "nameUa": "Середина-Буда",
+    "nameRu": "Середина-Буда"
+  },
+  {
+    "id": 694498,
+    "name": "Serebriya",
+    "country": "UA",
+    "coord": {
+      "lon": 27.719231,
+      "lat": 48.455929
+    },
+    "nameUa": "Серебрія",
+    "nameRu": "Серебрия"
+  },
+  {
+    "id": 694548,
+    "name": "Sencha",
+    "country": "UA",
+    "coord": {
+      "lon": 33.34602,
+      "lat": 50.254822
+    },
+    "nameUa": "Сенча",
+    "nameRu": "Сенча"
+  },
+  {
+    "id": 694579,
+    "name": "Semeykino",
+    "country": "UA",
+    "coord": {
+      "lon": 39.533661,
+      "lat": 48.326431
+    },
+    "nameUa": "Сімейкине",
+    "nameRu": "Семейкино"
+  },
+  {
+    "id": 694590,
+    "name": "Semenivka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.581829,
+      "lat": 52.178268
+    },
+    "nameUa": "Семенівка",
+    "nameRu": "Семёновка"
+  },
+  {
+    "id": 694691,
+    "name": "Selets",
+    "country": "UA",
+    "coord": {
+      "lon": 24.20462,
+      "lat": 50.297119
+    },
+    "nameUa": "Сілець",
+    "nameRu": "Селец"
+  },
+  {
+    "id": 694712,
+    "name": "Syedove",
+    "country": "UA",
+    "coord": {
+      "lon": 38.156021,
+      "lat": 47.076778
+    },
+    "nameUa": "Сєдове",
+    "nameRu": "Седово"
+  },
+  {
+    "id": 694715,
+    "name": "Sedniv",
+    "country": "UA",
+    "coord": {
+      "lon": 31.56496,
+      "lat": 51.644718
+    },
+    "nameUa": "Седнів",
+    "nameRu": "Седнев"
+  },
+  {
+    "id": 694725,
+    "name": "Schastye",
+    "country": "UA",
+    "coord": {
+      "lon": 39.2323,
+      "lat": 48.739632
+    },
+    "nameUa": "Щастя",
+    "nameRu": "Счастье"
+  },
+  {
+    "id": 694752,
+    "name": "Savyntsi",
+    "country": "UA",
+    "coord": {
+      "lon": 37.06266,
+      "lat": 49.402569
+    },
+    "nameUa": "Савинці",
+    "nameRu": "Савинцы"
+  },
+  {
+    "id": 694919,
+    "name": "Sakhnovshchyna",
+    "country": "UA",
+    "coord": {
+      "lon": 35.871979,
+      "lat": 49.151661
+    },
+    "nameUa": "Сахновщина",
+    "nameRu": "Сахновщина"
+  },
+  {
+    "id": 694934,
+    "name": "Sadzhavka",
+    "country": "UA",
+    "coord": {
+      "lon": 24.7882,
+      "lat": 48.566029
+    },
+    "nameUa": "Саджавка",
+    "nameRu": "Саджавка"
+  },
+  {
+    "id": 864933,
+    "name": "Smyga",
+    "country": "UA",
+    "coord": {
+      "lon": 25.765751,
+      "lat": 50.239101
+    },
+    "nameUa": "Смига",
+    "nameRu": "Смыга"
+  },
+  {
+    "id": 7039160,
+    "name": "Shkilne",
+    "country": "UA",
+    "coord": {
+      "lon": 33.897369,
+      "lat": 45.057579
+    },
+    "nameUa": "Шкільне",
+    "nameRu": "Школьное"
+  },
+  {
+    "id": 7303923,
+    "name": "Stepove",
+    "country": "UA",
+    "coord": {
+      "lon": 30.079189,
+      "lat": 46.70385
+    },
+    "nameUa": "Степове",
+    "nameRu": "Степовое"
+  },
+  {
+    "id": 7522123,
+    "name": "Scholkine",
+    "country": "UA",
+    "coord": {
+      "lon": 35.824699,
+      "lat": 45.427608
+    },
+    "nameUa": "Щолкіне",
+    "nameRu": "Щёлкино"
+  },
+  {
+    "id": 694342,
+    "name": "Sharovechka",
+    "country": "UA",
+    "coord": {
+      "lon": 26.911131,
+      "lat": 49.41457
+    },
+    "nameUa": "Шаровечка",
+    "nameRu": "Шаровечка"
+  },
+  {
+    "id": 693577,
+    "name": "Svyatohirs’k",
+    "country": "UA",
+    "coord": {
+      "lon": 37.567081,
+      "lat": 49.0382
+    },
+    "nameUa": "Святогірськ",
+    "nameRu": "Святогорск"
+  }
+]

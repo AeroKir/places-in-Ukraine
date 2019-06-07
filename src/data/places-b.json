@@ -1,0 +1,1498 @@
+[
+  {
+    "id": 711349,
+    "name": "Bucha",
+    "country": "UA",
+    "coord": {
+      "lon": 30.366671,
+      "lat": 50.583328
+    },
+    "nameUa": "Буча",
+    "nameRu": "Буча"
+  },
+  {
+    "id": 711987,
+    "name": "Bobyanskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.366669,
+      "lat": 44.650002
+    },
+    "nameUa": "Боб'янське",
+    "nameRu": "Бобянское"
+  },
+  {
+    "id": 712443,
+    "name": "Berdyanskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 37.44722,
+      "lat": 47.100559
+    },
+    "nameUa": "Бердянське",
+    "nameRu": "Бердянское"
+  },
+  {
+    "id": 711623,
+    "name": "Borova",
+    "country": "UA",
+    "coord": {
+      "lon": 37.621361,
+      "lat": 49.377701
+    },
+    "nameUa": "Борова",
+    "nameRu": "Боровая"
+  },
+  {
+    "id": 712160,
+    "name": "Bilhorod-Dnistrovskyy",
+    "country": "UA",
+    "coord": {
+      "lon": 30.35,
+      "lat": 46.200001
+    },
+    "nameUa": "Білгород-Дністровський",
+    "nameRu": "Белгород-Днестровский"
+  },
+  {
+    "id": 712374,
+    "name": "Berezhani",
+    "country": "UA",
+    "coord": {
+      "lon": 24.933332,
+      "lat": 49.450001
+    },
+    "nameUa": "Бережани",
+    "nameRu": "Бережаны"
+  },
+  {
+    "id": 712861,
+    "name": "Bar",
+    "country": "UA",
+    "coord": {
+      "lon": 27.68256,
+      "lat": 49.077171
+    },
+    "nameUa": "Бар",
+    "nameRu": "Бар"
+  },
+  {
+    "id": 711487,
+    "name": "Brailiv",
+    "country": "UA",
+    "coord": {
+      "lon": 28.174589,
+      "lat": 49.109859
+    },
+    "nameUa": "Браїлів",
+    "nameRu": "Браилов"
+  },
+  {
+    "id": 712969,
+    "name": "Bakhchysaray",
+    "country": "UA",
+    "coord": {
+      "lon": 33.866669,
+      "lat": 44.75
+    },
+    "nameUa": "Бахчисарай",
+    "nameRu": "Бахчисарай"
+  },
+  {
+    "id": 712773,
+    "name": "Bashtanivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.900002,
+      "lat": 44.683334
+    },
+    "nameUa": "Баштанівка",
+    "nameRu": "Баштановка"
+  },
+  {
+    "id": 711660,
+    "name": "Boryspil",
+    "country": "UA",
+    "coord": {
+      "lon": 30.950001,
+      "lat": 50.349998
+    },
+    "nameUa": "Бориспіль",
+    "nameRu": "Борисполь"
+  },
+  {
+    "id": 711562,
+    "name": "Bortnichi",
+    "country": "UA",
+    "coord": {
+      "lon": 30.683332,
+      "lat": 50.366669
+    },
+    "nameUa": "Бортничі",
+    "nameRu": "Бортничи"
+  },
+  {
+    "id": 701300,
+    "name": "Baksan",
+    "country": "UA",
+    "coord": {
+      "lon": 34.416668,
+      "lat": 44.966667
+    },
+    "nameUa": "Баксан",
+    "nameRu": "Баксан"
+  },
+  {
+    "id": 711999,
+    "name": "Bobrovytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 31.383333,
+      "lat": 50.75
+    },
+    "nameUa": "Бобровиця",
+    "nameRu": "Бобровица"
+  },
+  {
+    "id": 711055,
+    "name": "Buzovaya",
+    "country": "UA",
+    "coord": {
+      "lon": 30.033333,
+      "lat": 50.416668
+    },
+    "nameUa": "Бузова",
+    "nameRu": "Бузовая"
+  },
+  {
+    "id": 712590,
+    "name": "Belogorodka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.216667,
+      "lat": 50.383331
+    },
+    "nameUa": "Білогородка",
+    "nameRu": "Белогородка"
+  },
+  {
+    "id": 712631,
+    "name": "Belichi",
+    "country": "UA",
+    "coord": {
+      "lon": 30.35,
+      "lat": 50.466667
+    },
+    "nameUa": "Біличі",
+    "nameRu": "Беличи"
+  },
+  {
+    "id": 711390,
+    "name": "Brovary",
+    "country": "UA",
+    "coord": {
+      "lon": 30.766666,
+      "lat": 50.5
+    },
+    "nameUa": "Бровари",
+    "nameRu": "Бровары"
+  },
+  {
+    "id": 711919,
+    "name": "Bogdanovka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.916668,
+      "lat": 50.633331
+    },
+    "nameUa": "Богданівка",
+    "nameRu": "Богдановка"
+  },
+  {
+    "id": 712930,
+    "name": "Balaklava",
+    "country": "UA",
+    "coord": {
+      "lon": 33.599998,
+      "lat": 44.5
+    },
+    "nameUa": "Балаклава",
+    "nameRu": "Балаклава"
+  },
+  {
+    "id": 712223,
+    "name": "Beshuyskiye Kopi",
+    "country": "UA",
+    "coord": {
+      "lon": 34.183334,
+      "lat": 44.650002
+    },
+    "nameUa": "Бешуйські копалини",
+    "nameRu": "Бешуйские копи"
+  },
+  {
+    "id": 712796,
+    "name": "Bartenivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.549999,
+      "lat": 44.633331
+    },
+    "nameUa": "Бартенівка",
+    "nameRu": "Бартеневка"
+  },
+  {
+    "id": 712228,
+    "name": "Besh Terek",
+    "country": "UA",
+    "coord": {
+      "lon": 34.233334,
+      "lat": 45.016666
+    },
+    "nameUa": "Беш-Терек",
+    "nameRu": "Беш-Терек"
+  },
+  {
+    "id": 712654,
+    "name": "Bila Skelya",
+    "country": "UA",
+    "coord": {
+      "lon": 34.616669,
+      "lat": 45.099998
+    },
+    "nameUa": "Біла Скеля",
+    "nameRu": "Белая Скала"
+  },
+  {
+    "id": 712105,
+    "name": "Biyuk-Nayman",
+    "country": "UA",
+    "coord": {
+      "lon": 34.349998,
+      "lat": 46.016666
+    },
+    "nameUa": "Біюк-Найман",
+    "nameRu": "Биюк-Найман"
+  },
+  {
+    "id": 712587,
+    "name": "Bilohirsk",
+    "country": "UA",
+    "coord": {
+      "lon": 34.599998,
+      "lat": 45.049999
+    },
+    "nameUa": "Білогірськ",
+    "nameRu": "Белогорск"
+  },
+  {
+    "id": 712050,
+    "name": "Blyzhnye",
+    "country": "UA",
+    "coord": {
+      "lon": 35.333332,
+      "lat": 45.049999
+    },
+    "nameUa": "Ближнє",
+    "nameRu": "Ближнее"
+  },
+  {
+    "id": 712048,
+    "name": "Blizhniye Kamyshi",
+    "country": "UA",
+    "coord": {
+      "lon": 35.400002,
+      "lat": 45.083332
+    },
+    "nameUa": "Ближні Комиші",
+    "nameRu": "Ближние Камыши"
+  },
+  {
+    "id": 712427,
+    "name": "Berehove",
+    "country": "UA",
+    "coord": {
+      "lon": 35.433334,
+      "lat": 45.099998
+    },
+    "nameUa": "Берегове",
+    "nameRu": "Береговое"
+  },
+  {
+    "id": 712755,
+    "name": "Batal’ne",
+    "country": "UA",
+    "coord": {
+      "lon": 35.616669,
+      "lat": 45.200001
+    },
+    "nameUa": "Батальне",
+    "nameRu": "Батальное"
+  },
+  {
+    "id": 712236,
+    "name": "Besharan’",
+    "country": "UA",
+    "coord": {
+      "lon": 34.766666,
+      "lat": 45.450001
+    },
+    "nameUa": "Сім'яне",
+    "nameRu": "Семенное"
+  },
+  {
+    "id": 711820,
+    "name": "Bol’shaya Balka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.6,
+      "lat": 46.566666
+    },
+    "nameUa": "Велика Балка",
+    "nameRu": "Великая Балка"
+  },
+  {
+    "id": 712451,
+    "name": "Berdyansk",
+    "country": "UA",
+    "coord": {
+      "lon": 36.794445,
+      "lat": 46.750278
+    },
+    "nameUa": "Бердянськ",
+    "nameRu": "Бердянск"
+  },
+  {
+    "id": 712934,
+    "name": "Balabine",
+    "country": "UA",
+    "coord": {
+      "lon": 35.206112,
+      "lat": 47.734444
+    },
+    "nameUa": "Балабине",
+    "nameRu": "Балабино"
+  },
+  {
+    "id": 712142,
+    "name": "Birjukowo",
+    "country": "UA",
+    "coord": {
+      "lon": 39.733334,
+      "lat": 47.950001
+    },
+    "nameUa": "Бірюкове",
+    "nameRu": "Бирюково"
+  },
+  {
+    "id": 711756,
+    "name": "Bol’shiye Troyany",
+    "country": "UA",
+    "coord": {
+      "lon": 30.216667,
+      "lat": 48.400002
+    },
+    "nameUa": "Великі Трояни",
+    "nameRu": "Большие Трояны"
+  },
+  {
+    "id": 712615,
+    "name": "Belitskiy",
+    "country": "UA",
+    "coord": {
+      "lon": 35.299999,
+      "lat": 47.583328
+    },
+    "nameUa": "Приморське",
+    "nameRu": "Приморское"
+  },
+  {
+    "id": 711165,
+    "name": "Burchak",
+    "country": "UA",
+    "coord": {
+      "lon": 35.299999,
+      "lat": 47.383331
+    },
+    "nameUa": "Бурчак",
+    "nameRu": "Бурчак"
+  },
+  {
+    "id": 712053,
+    "name": "Blyzhn’ohorods’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 34.377159,
+      "lat": 45.640099
+    },
+    "nameUa": "Ближньогородське",
+    "nameRu": "Ближнегородское"
+  },
+  {
+    "id": 7019513,
+    "name": "Blyzhnye",
+    "country": "UA",
+    "coord": {
+      "lon": 34.298809,
+      "lat": 45.521919
+    },
+    "nameUa": "Ближнє",
+    "nameRu": "Ближнее"
+  },
+  {
+    "id": 711681,
+    "name": "Borangar",
+    "country": "UA",
+    "coord": {
+      "lon": 34.200001,
+      "lat": 45.400002
+    },
+    "nameUa": "Красний Партизан",
+    "nameRu": "Красный Партизан"
+  },
+  {
+    "id": 712987,
+    "name": "Baglikovo",
+    "country": "UA",
+    "coord": {
+      "lon": 34.183331,
+      "lat": 45.366669
+    },
+    "nameUa": "Баглікове",
+    "nameRu": "Багликово"
+  },
+  {
+    "id": 712005,
+    "name": "Bobritsa",
+    "country": "UA",
+    "coord": {
+      "lon": 30.18858,
+      "lat": 50.349979
+    },
+    "nameUa": "Бобриця",
+    "nameRu": "Бобрица"
+  },
+  {
+    "id": 712548,
+    "name": "Belostadnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 35.062222,
+      "lat": 45.530682
+    },
+    "nameUa": "Білостадне",
+    "nameRu": "Белостадное"
+  },
+  {
+    "id": 711621,
+    "name": "Borova",
+    "country": "UA",
+    "coord": {
+      "lon": 30.10429,
+      "lat": 50.17625
+    },
+    "nameUa": "Борова",
+    "nameRu": "Боровая"
+  },
+  {
+    "id": 712423,
+    "name": "Berehove",
+    "country": "UA",
+    "coord": {
+      "lon": 22.64418,
+      "lat": 48.205551
+    },
+    "nameUa": "Берегове",
+    "nameRu": "Берегово"
+  },
+  {
+    "id": 711134,
+    "name": "Burshtyn",
+    "country": "UA",
+    "coord": {
+      "lon": 24.62776,
+      "lat": 49.258659
+    },
+    "nameUa": "Бурштин",
+    "nameRu": "Бурштын"
+  },
+  {
+    "id": 711515,
+    "name": "Boyarka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.297279,
+      "lat": 50.319099
+    },
+    "nameUa": "Боярка",
+    "nameRu": "Боярка"
+  },
+  {
+    "id": 712808,
+    "name": "Barmashovo",
+    "country": "UA",
+    "coord": {
+      "lon": 32.449139,
+      "lat": 47.09037
+    },
+    "nameUa": "Білозірка",
+    "nameRu": "Белозёрка"
+  },
+  {
+    "id": 713019,
+    "name": "Babintsy",
+    "country": "UA",
+    "coord": {
+      "lon": 24.616671,
+      "lat": 49.416672
+    },
+    "nameUa": "Бабинці",
+    "nameRu": "Бабинцы"
+  },
+  {
+    "id": 711359,
+    "name": "Bryukhovychi",
+    "country": "UA",
+    "coord": {
+      "lon": 23.9597,
+      "lat": 49.904671
+    },
+    "nameUa": "Брюховичі",
+    "nameRu": "Брюховичи"
+  },
+  {
+    "id": 712926,
+    "name": "Balakliya",
+    "country": "UA",
+    "coord": {
+      "lon": 36.859509,
+      "lat": 49.4627
+    },
+    "nameUa": "Балаклія",
+    "nameRu": "Балаклея"
+  },
+  {
+    "id": 711382,
+    "name": "Brusyliv",
+    "country": "UA",
+    "coord": {
+      "lon": 29.52626,
+      "lat": 50.284489
+    },
+    "nameUa": "Брусилів",
+    "nameRu": "Брусилов"
+  },
+  {
+    "id": 713017,
+    "name": "Babintsy",
+    "country": "UA",
+    "coord": {
+      "lon": 30.023911,
+      "lat": 50.633141
+    },
+    "nameUa": "Бабинці",
+    "nameRu": "Бабинцы"
+  },
+  {
+    "id": 712775,
+    "name": "Bashtanka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.438679,
+      "lat": 47.407188
+    },
+    "nameUa": "Баштанка",
+    "nameRu": "Баштанка"
+  },
+  {
+    "id": 711669,
+    "name": "Boryslav",
+    "country": "UA",
+    "coord": {
+      "lon": 23.432381,
+      "lat": 49.28672
+    },
+    "nameUa": "Борислав",
+    "nameRu": "Борислав"
+  },
+  {
+    "id": 712471,
+    "name": "Belz",
+    "country": "UA",
+    "coord": {
+      "lon": 24.00642,
+      "lat": 50.382259
+    },
+    "nameUa": "Белз",
+    "nameRu": "Белз"
+  },
+  {
+    "id": 712441,
+    "name": "Berdychiv",
+    "country": "UA",
+    "coord": {
+      "lon": 28.60235,
+      "lat": 49.899281
+    },
+    "nameUa": "Бердичів",
+    "nameRu": "Бердичев"
+  },
+  {
+    "id": 810965,
+    "name": "Butovka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.38203,
+      "lat": 49.708038
+    },
+    "nameUa": "Бутівка",
+    "nameRu": "Бутовка"
+  },
+  {
+    "id": 712787,
+    "name": "Baryshivka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.32173,
+      "lat": 50.360981
+    },
+    "nameUa": "Баришівка",
+    "nameRu": "Барышевка"
+  },
+  {
+    "id": 712886,
+    "name": "Balta",
+    "country": "UA",
+    "coord": {
+      "lon": 29.61982,
+      "lat": 47.935478
+    },
+    "nameUa": "Балта",
+    "nameRu": "Балта"
+  },
+  {
+    "id": 711416,
+    "name": "Brody",
+    "country": "UA",
+    "coord": {
+      "lon": 25.15027,
+      "lat": 50.08791
+    },
+    "nameUa": "Броди",
+    "nameRu": "Броды"
+  },
+  {
+    "id": 711369,
+    "name": "Bryanka",
+    "country": "UA",
+    "coord": {
+      "lon": 38.672218,
+      "lat": 48.511002
+    },
+    "nameUa": "Брянка",
+    "nameRu": "Брянка"
+  },
+  {
+    "id": 711894,
+    "name": "Bohodukhiv",
+    "country": "UA",
+    "coord": {
+      "lon": 35.527649,
+      "lat": 50.164661
+    },
+    "nameUa": "Богодухів",
+    "nameRu": "Богодухов"
+  },
+  {
+    "id": 711867,
+    "name": "Bohuslav",
+    "country": "UA",
+    "coord": {
+      "lon": 30.874399,
+      "lat": 49.549389
+    },
+    "nameUa": "Богуслав",
+    "nameRu": "Богуслав"
+  },
+  {
+    "id": 712389,
+    "name": "Berezan’",
+    "country": "UA",
+    "coord": {
+      "lon": 31.467119,
+      "lat": 50.311199
+    },
+    "nameUa": "Березань",
+    "nameRu": "Березань"
+  },
+  {
+    "id": 712575,
+    "name": "Belokamenskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 38.099998,
+      "lat": 48.683331
+    },
+    "nameUa": "Білокам'янське",
+    "nameRu": "Белокаменское"
+  },
+  {
+    "id": 711841,
+    "name": "Bolhrad",
+    "country": "UA",
+    "coord": {
+      "lon": 28.61487,
+      "lat": 45.682621
+    },
+    "nameUa": "Болград",
+    "nameRu": "Болград"
+  },
+  {
+    "id": 712521,
+    "name": "Bilovodsk",
+    "country": "UA",
+    "coord": {
+      "lon": 39.589748,
+      "lat": 49.208462
+    },
+    "nameUa": "Біловодськ",
+    "nameRu": "Беловодск"
+  },
+  {
+    "id": 711887,
+    "name": "Bohorodchany",
+    "country": "UA",
+    "coord": {
+      "lon": 24.53834,
+      "lat": 48.806999
+    },
+    "nameUa": "Богородчани",
+    "nameRu": "Богородчаны"
+  },
+  {
+    "id": 712250,
+    "name": "Bershad’",
+    "country": "UA",
+    "coord": {
+      "lon": 29.51726,
+      "lat": 48.367821
+    },
+    "nameUa": "Бершадь",
+    "nameRu": "Бершадь"
+  },
+  {
+    "id": 712508,
+    "name": "Bilozerka",
+    "country": "UA",
+    "coord": {
+      "lon": 32.442509,
+      "lat": 46.624802
+    },
+    "nameUa": "Білозерка",
+    "nameRu": "Белозёрка"
+  },
+  {
+    "id": 711587,
+    "name": "Borshchiv",
+    "country": "UA",
+    "coord": {
+      "lon": 26.04347,
+      "lat": 48.803322
+    },
+    "nameUa": "Борщів",
+    "nameRu": "Борщёв"
+  },
+  {
+    "id": 712260,
+    "name": "Beryslav",
+    "country": "UA",
+    "coord": {
+      "lon": 33.428379,
+      "lat": 46.841518
+    },
+    "nameUa": "Берислав",
+    "nameRu": "Берислав"
+  },
+  {
+    "id": 712794,
+    "name": "Barvinkove",
+    "country": "UA",
+    "coord": {
+      "lon": 37.020512,
+      "lat": 48.909698
+    },
+    "nameUa": "Барвінкове",
+    "nameRu": "Барвенково"
+  },
+  {
+    "id": 712559,
+    "name": "Bilopillya",
+    "country": "UA",
+    "coord": {
+      "lon": 34.31287,
+      "lat": 51.150162
+    },
+    "nameUa": "Білопілля",
+    "nameRu": "Белополье"
+  },
+  {
+    "id": 712492,
+    "name": "Belyary",
+    "country": "UA",
+    "coord": {
+      "lon": 31.031811,
+      "lat": 46.623199
+    },
+    "nameUa": "Білярі",
+    "nameRu": "Беляры"
+  },
+  {
+    "id": 707202,
+    "name": "Bohdanivka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.107809,
+      "lat": 48.642208
+    },
+    "nameUa": "Богданівка",
+    "nameRu": "Богдановка"
+  },
+  {
+    "id": 712488,
+    "name": "Bilyayivka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.21678,
+      "lat": 46.483189
+    },
+    "nameUa": "Біляївка",
+    "nameRu": "Беляевка"
+  },
+  {
+    "id": 712887,
+    "name": "Balovnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 31.886169,
+      "lat": 47.051109
+    },
+    "nameUa": "Баловне",
+    "nameRu": "Баловное"
+  },
+  {
+    "id": 711350,
+    "name": "Bucha",
+    "country": "UA",
+    "coord": {
+      "lon": 30.212009,
+      "lat": 50.543449
+    },
+    "nameUa": "Буча",
+    "nameRu": "Буча"
+  },
+  {
+    "id": 712165,
+    "name": "Bila Tserkva",
+    "country": "UA",
+    "coord": {
+      "lon": 30.112089,
+      "lat": 49.809391
+    },
+    "nameUa": "Біла Церква",
+    "nameRu": "Белая Церковь"
+  },
+  {
+    "id": 712967,
+    "name": "Bakhmach",
+    "country": "UA",
+    "coord": {
+      "lon": 32.756939,
+      "lat": 51.180759
+    },
+    "nameUa": "Бахмач",
+    "nameRu": "Бахмач"
+  },
+  {
+    "id": 710981,
+    "name": "Bytkiv",
+    "country": "UA",
+    "coord": {
+      "lon": 24.47398,
+      "lat": 48.629681
+    },
+    "nameUa": "Битків",
+    "nameRu": "Бытков"
+  },
+  {
+    "id": 710995,
+    "name": "Bystrytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 24.245449,
+      "lat": 48.459309
+    },
+    "nameUa": "Бистриця",
+    "nameRu": "Быстрица"
+  },
+  {
+    "id": 711024,
+    "name": "Bykivka",
+    "country": "UA",
+    "coord": {
+      "lon": 27.983141,
+      "lat": 50.29285
+    },
+    "nameUa": "Биківка",
+    "nameRu": "Быковка"
+  },
+  {
+    "id": 711105,
+    "name": "Bushtyno",
+    "country": "UA",
+    "coord": {
+      "lon": 23.48579,
+      "lat": 48.051208
+    },
+    "nameUa": "Буштино",
+    "nameRu": "Буштыно"
+  },
+  {
+    "id": 711116,
+    "name": "Buryn",
+    "country": "UA",
+    "coord": {
+      "lon": 33.835232,
+      "lat": 51.19912
+    },
+    "nameUa": "Буринь",
+    "nameRu": "Бурынь"
+  },
+  {
+    "id": 711268,
+    "name": "Budy",
+    "country": "UA",
+    "coord": {
+      "lon": 36.02243,
+      "lat": 49.893372
+    },
+    "nameUa": "Буди",
+    "nameRu": "Буды"
+  },
+  {
+    "id": 711348,
+    "name": "Buchach",
+    "country": "UA",
+    "coord": {
+      "lon": 25.38798,
+      "lat": 49.062538
+    },
+    "nameUa": "Бучач",
+    "nameRu": "Бучач"
+  },
+  {
+    "id": 711398,
+    "name": "Broska",
+    "country": "UA",
+    "coord": {
+      "lon": 28.783001,
+      "lat": 45.37328
+    },
+    "nameUa": "Броска",
+    "nameRu": "Броска"
+  },
+  {
+    "id": 711400,
+    "name": "Broshniv-Osada",
+    "country": "UA",
+    "coord": {
+      "lon": 24.197479,
+      "lat": 48.996201
+    },
+    "nameUa": "Брошнів-Осада",
+    "nameRu": "Брошнев-Осада"
+  },
+  {
+    "id": 711435,
+    "name": "Brylivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.147209,
+      "lat": 46.424759
+    },
+    "nameUa": "Брилівка",
+    "nameRu": "Брилёвка"
+  },
+  {
+    "id": 711459,
+    "name": "Bratslav",
+    "country": "UA",
+    "coord": {
+      "lon": 28.940701,
+      "lat": 48.822571
+    },
+    "nameUa": "Брацлав",
+    "nameRu": "Брацлав"
+  },
+  {
+    "id": 711518,
+    "name": "Boyany",
+    "country": "UA",
+    "coord": {
+      "lon": 26.12624,
+      "lat": 48.270771
+    },
+    "nameUa": "Бояни",
+    "nameRu": "Бояны"
+  },
+  {
+    "id": 711536,
+    "name": "Borzna",
+    "country": "UA",
+    "coord": {
+      "lon": 32.426899,
+      "lat": 51.254639
+    },
+    "nameUa": "Борзна",
+    "nameRu": "Борзна"
+  },
+  {
+    "id": 711629,
+    "name": "Boromlya",
+    "country": "UA",
+    "coord": {
+      "lon": 34.970421,
+      "lat": 50.618382
+    },
+    "nameUa": "Боромля",
+    "nameRu": "Боромля"
+  },
+  {
+    "id": 711635,
+    "name": "Borodyanka",
+    "country": "UA",
+    "coord": {
+      "lon": 29.920099,
+      "lat": 50.64484
+    },
+    "nameUa": "Бородянка",
+    "nameRu": "Бородянка"
+  },
+  {
+    "id": 711637,
+    "name": "Borodino",
+    "country": "UA",
+    "coord": {
+      "lon": 29.241671,
+      "lat": 46.302502
+    },
+    "nameUa": "Бородіно",
+    "nameRu": "Бородино"
+  },
+  {
+    "id": 711752,
+    "name": "Bilshivtsi",
+    "country": "UA",
+    "coord": {
+      "lon": 24.75,
+      "lat": 49.183331
+    },
+    "nameUa": "Більшівці",
+    "nameRu": "Большовцы"
+  },
+  {
+    "id": 711850,
+    "name": "Bolekhiv",
+    "country": "UA",
+    "coord": {
+      "lon": 23.864349,
+      "lat": 49.066071
+    },
+    "nameUa": "Болехів",
+    "nameRu": "Болехов"
+  },
+  {
+    "id": 711952,
+    "name": "Bohdan",
+    "country": "UA",
+    "coord": {
+      "lon": 24.352221,
+      "lat": 48.041222
+    },
+    "nameUa": "Богдан",
+    "nameRu": "Богдан"
+  },
+  {
+    "id": 712003,
+    "name": "Bobrka",
+    "country": "UA",
+    "coord": {
+      "lon": 24.28874,
+      "lat": 49.64093
+    },
+    "nameUa": "Бібрка",
+    "nameRu": "Бобрка"
+  },
+  {
+    "id": 712023,
+    "name": "Bobovo",
+    "country": "UA",
+    "coord": {
+      "lon": 22.895849,
+      "lat": 48.071659
+    },
+    "nameUa": "Бобово",
+    "nameRu": "Бобово"
+  },
+  {
+    "id": 712041,
+    "name": "Blyznyuky",
+    "country": "UA",
+    "coord": {
+      "lon": 36.55505,
+      "lat": 48.85775
+    },
+    "nameUa": "Близнюки",
+    "nameRu": "Близнюки"
+  },
+  {
+    "id": 712091,
+    "name": "Blahodatne",
+    "country": "UA",
+    "coord": {
+      "lon": 38.484921,
+      "lat": 47.87928
+    },
+    "nameUa": "Благодатне",
+    "nameRu": "Благодатное"
+  },
+  {
+    "id": 712092,
+    "name": "Blagodatnoye",
+    "country": "UA",
+    "coord": {
+      "lon": 37.41898,
+      "lat": 47.70013
+    },
+    "nameUa": "Благодатне",
+    "nameRu": "Благодатное"
+  },
+  {
+    "id": 712131,
+    "name": "Biryukove",
+    "country": "UA",
+    "coord": {
+      "lon": 39.73843,
+      "lat": 47.95631
+    },
+    "nameUa": "Криничне",
+    "nameRu": "Криничное"
+  },
+  {
+    "id": 712181,
+    "name": "Bezimenne",
+    "country": "UA",
+    "coord": {
+      "lon": 37.938148,
+      "lat": 47.107159
+    },
+    "nameUa": "Безіменне",
+    "nameRu": "Безымянное"
+  },
+  {
+    "id": 712200,
+    "name": "Bezlyudivka",
+    "country": "UA",
+    "coord": {
+      "lon": 36.295158,
+      "lat": 49.871849
+    },
+    "nameUa": "Безлюдівка",
+    "nameRu": "Безлюдовка"
+  },
+  {
+    "id": 712276,
+    "name": "Berezovo",
+    "country": "UA",
+    "coord": {
+      "lon": 23.474001,
+      "lat": 48.309429
+    },
+    "nameUa": "Березово",
+    "nameRu": "Берёзово"
+  },
+  {
+    "id": 712300,
+    "name": "Berezivka",
+    "country": "UA",
+    "coord": {
+      "lon": 35.71167,
+      "lat": 49.441071
+    },
+    "nameUa": "Березівка",
+    "nameRu": "Березовка"
+  },
+  {
+    "id": 712312,
+    "name": "Berezivka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.907801,
+      "lat": 47.204288
+    },
+    "nameUa": "Березівка",
+    "nameRu": "Березовка"
+  },
+  {
+    "id": 712336,
+    "name": "Bereznyky",
+    "country": "UA",
+    "coord": {
+      "lon": 23.21982,
+      "lat": 48.514061
+    },
+    "nameUa": "Березники",
+    "nameRu": "Березники"
+  },
+  {
+    "id": 712339,
+    "name": "Bereznehuvate",
+    "country": "UA",
+    "coord": {
+      "lon": 32.84993,
+      "lat": 47.307831
+    },
+    "nameUa": "Березнегувате",
+    "nameRu": "Березнеговатое"
+  },
+  {
+    "id": 712343,
+    "name": "Berezna",
+    "country": "UA",
+    "coord": {
+      "lon": 31.784559,
+      "lat": 51.571602
+    },
+    "nameUa": "Березна",
+    "nameRu": "Березна"
+  },
+  {
+    "id": 712349,
+    "name": "Berezyne",
+    "country": "UA",
+    "coord": {
+      "lon": 29.202221,
+      "lat": 46.229439
+    },
+    "nameUa": "Березине",
+    "nameRu": "Березино"
+  },
+  {
+    "id": 712387,
+    "name": "Berezanka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.38802,
+      "lat": 46.852619
+    },
+    "nameUa": "Березанка",
+    "nameRu": "Березанка"
+  },
+  {
+    "id": 712416,
+    "name": "Berestechko",
+    "country": "UA",
+    "coord": {
+      "lon": 25.11071,
+      "lat": 50.36047
+    },
+    "nameUa": "Берестечко",
+    "nameRu": "Берестечко"
+  },
+  {
+    "id": 712430,
+    "name": "Berehomet",
+    "country": "UA",
+    "coord": {
+      "lon": 25.348551,
+      "lat": 48.178822
+    },
+    "nameUa": "Берегомет",
+    "nameRu": "Берегомет"
+  },
+  {
+    "id": 712477,
+    "name": "Bili Oslavy",
+    "country": "UA",
+    "coord": {
+      "lon": 24.700781,
+      "lat": 48.487221
+    },
+    "nameUa": "Білі Ослави",
+    "nameRu": "Белые Ославы"
+  },
+  {
+    "id": 712515,
+    "name": "Beloye",
+    "country": "UA",
+    "coord": {
+      "lon": 39.05051,
+      "lat": 48.495232
+    },
+    "nameUa": "Біле",
+    "nameRu": "Белое"
+  },
+  {
+    "id": 712569,
+    "name": "Bilokurakyne",
+    "country": "UA",
+    "coord": {
+      "lon": 38.730671,
+      "lat": 49.5341
+    },
+    "nameUa": "Білокуракине",
+    "nameRu": "Белокуракино"
+  },
+  {
+    "id": 712588,
+    "name": "Belogorovka",
+    "country": "UA",
+    "coord": {
+      "lon": 38.248219,
+      "lat": 48.92503
+    },
+    "nameUa": "Білогорівка",
+    "nameRu": "Белогоровка"
+  },
+  {
+    "id": 712602,
+    "name": "Bilky",
+    "country": "UA",
+    "coord": {
+      "lon": 23.132481,
+      "lat": 48.315029
+    },
+    "nameUa": "Білки",
+    "nameRu": "Белки"
+  },
+  {
+    "id": 712613,
+    "name": "Belitskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 37.18111,
+      "lat": 48.406422
+    },
+    "nameUa": "Білицьке",
+    "nameRu": "Белицкое"
+  },
+  {
+    "id": 712656,
+    "name": "Bila Krynytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 29.470409,
+      "lat": 50.63982
+    },
+    "nameUa": "Біла Криниця",
+    "nameRu": "Белая Криница"
+  },
+  {
+    "id": 712667,
+    "name": "Belaya",
+    "country": "UA",
+    "coord": {
+      "lon": 25.77059,
+      "lat": 49.028999
+    },
+    "nameUa": "Біла",
+    "nameRu": "Белая"
+  },
+  {
+    "id": 712682,
+    "name": "Bekhtery",
+    "country": "UA",
+    "coord": {
+      "lon": 32.292671,
+      "lat": 46.250992
+    },
+    "nameUa": "Бехтери",
+    "nameRu": "Бехтери"
+  },
+  {
+    "id": 712715,
+    "name": "Bazaliya",
+    "country": "UA",
+    "coord": {
+      "lon": 26.47331,
+      "lat": 49.712669
+    },
+    "nameUa": "Базалія",
+    "nameRu": "Базалия"
+  },
+  {
+    "id": 712745,
+    "name": "Baturyn",
+    "country": "UA",
+    "coord": {
+      "lon": 32.877941,
+      "lat": 51.345669
+    },
+    "nameUa": "Батурин",
+    "nameRu": "Батурин"
+  },
+  {
+    "id": 712839,
+    "name": "Baranovka",
+    "country": "UA",
+    "coord": {
+      "lon": 27.662201,
+      "lat": 50.296909
+    },
+    "nameUa": "Баранівка",
+    "nameRu": "Барановка"
+  },
+  {
+    "id": 712871,
+    "name": "Banyliv",
+    "country": "UA",
+    "coord": {
+      "lon": 25.34549,
+      "lat": 48.366119
+    },
+    "nameUa": "Банилів",
+    "nameRu": "Банилов"
+  },
+  {
+    "id": 712895,
+    "name": "Balky",
+    "country": "UA",
+    "coord": {
+      "lon": 34.943958,
+      "lat": 47.383362
+    },
+    "nameUa": "Балки",
+    "nameRu": "Балки"
+  },
+  {
+    "id": 712992,
+    "name": "Baherove",
+    "country": "UA",
+    "coord": {
+      "lon": 36.29705,
+      "lat": 45.374168
+    },
+    "nameUa": "Багерове",
+    "nameRu": "Багерово"
+  },
+  {
+    "id": 713055,
+    "name": "Babanka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.448271,
+      "lat": 48.709709
+    },
+    "nameUa": "Бабанка",
+    "nameRu": "Бабанка"
+  }
+]

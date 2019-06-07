@@ -1,0 +1,695 @@
+[
+  {
+    "id": 703363,
+    "name": "Laspi",
+    "country": "UA",
+    "coord": {
+      "lon": 33.731396,
+      "lat": 44.425337
+    },
+    "nameUa": "Ласпі",
+    "nameRu": "Ласпи"
+  },
+  {
+    "id": 703169,
+    "name": "Lisne",
+    "country": "UA",
+    "coord": {
+      "lon": 34.950001,
+      "lat": 44.933334
+    },
+    "nameUa": "Лісне",
+    "nameRu": "Лесное"
+  },
+  {
+    "id": 702907,
+    "name": "Livadiya",
+    "country": "UA",
+    "coord": {
+      "lon": 34.150002,
+      "lat": 44.466667
+    },
+    "nameUa": "Лівадія",
+    "nameRu": "Ливадия"
+  },
+  {
+    "id": 702463,
+    "name": "Lyubymivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.566666,
+      "lat": 44.666668
+    },
+    "nameUa": "Любимiвка",
+    "nameRu": "Любимовка"
+  },
+  {
+    "id": 702705,
+    "name": "Luchyste",
+    "country": "UA",
+    "coord": {
+      "lon": 34.400983,
+      "lat": 44.737101
+    },
+    "nameUa": "Лучисте",
+    "nameRu": "Лучистое"
+  },
+  {
+    "id": 703423,
+    "name": "Lagernoye",
+    "country": "UA",
+    "coord": {
+      "lon": 35.099998,
+      "lat": 44.883331
+    },
+    "nameUa": "Сонячна Долина",
+    "nameRu": "Солнечная Долина"
+  },
+  {
+    "id": 702741,
+    "name": "Lozove",
+    "country": "UA",
+    "coord": {
+      "lon": 34.160957,
+      "lat": 44.907745
+    },
+    "nameUa": "Лозове",
+    "nameRu": "Лозовое"
+  },
+  {
+    "id": 703168,
+    "name": "Lesnaya",
+    "country": "UA",
+    "coord": {
+      "lon": 34.349998,
+      "lat": 44.966667
+    },
+    "nameUa": "Лесна",
+    "nameRu": "Лесная"
+  },
+  {
+    "id": 702662,
+    "name": "Luhove",
+    "country": "UA",
+    "coord": {
+      "lon": 35.716667,
+      "lat": 45.233334
+    },
+    "nameUa": "Лугове",
+    "nameRu": "Луговое"
+  },
+  {
+    "id": 702962,
+    "name": "Liski",
+    "country": "UA",
+    "coord": {
+      "lon": 36.766666,
+      "lat": 46.766666
+    },
+    "nameUa": "Ліски",
+    "nameRu": "Лиски"
+  },
+  {
+    "id": 702657,
+    "name": "Luhans’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 39,
+      "lat": 49
+    },
+    "nameUa": "Луганська область",
+    "nameRu": "Луганская область"
+  },
+  {
+    "id": 702765,
+    "name": "Lozovatka Vtoraya",
+    "country": "UA",
+    "coord": {
+      "lon": 35.349998,
+      "lat": 48.433334
+    },
+    "nameUa": "Лозуватка",
+    "nameRu": "Лозоватка"
+  },
+  {
+    "id": 703014,
+    "name": "Lipovaya Rosheha",
+    "country": "UA",
+    "coord": {
+      "lon": 36.166672,
+      "lat": 49.950001
+    },
+    "nameUa": "Липовий Гай",
+    "nameRu": "Липовая Роща"
+  },
+  {
+    "id": 702417,
+    "name": "Lyubotyn",
+    "country": "UA",
+    "coord": {
+      "lon": 35.966671,
+      "lat": 49.950001
+    },
+    "nameUa": "Люботин",
+    "nameRu": "Люботин"
+  },
+  {
+    "id": 812917,
+    "name": "Losevo",
+    "country": "UA",
+    "coord": {
+      "lon": 36.377707,
+      "lat": 49.952587
+    },
+    "nameUa": "Лосєве",
+    "nameRu": "Лосево"
+  },
+  {
+    "id": 6986274,
+    "name": "Lazarivka",
+    "country": "UA",
+    "coord": {
+      "lon": 34.27541,
+      "lat": 44.927059
+    },
+    "nameUa": "Лазарівка",
+    "nameRu": "Лазаревка"
+  },
+  {
+    "id": 6988139,
+    "name": "Lavanda",
+    "country": "UA",
+    "coord": {
+      "lon": 34.366871,
+      "lat": 44.742569
+    },
+    "nameUa": "Лаванда",
+    "nameRu": "Лаванда"
+  },
+  {
+    "id": 702694,
+    "name": "Lug",
+    "country": "UA",
+    "coord": {
+      "lon": 24.58333,
+      "lat": 48.51667
+    },
+    "nameUa": "Луг",
+    "nameRu": "Луг"
+  },
+  {
+    "id": 702549,
+    "name": "L’vivs’ka Oblast’",
+    "country": "UA",
+    "coord": {
+      "lon": 24,
+      "lat": 50
+    },
+    "nameUa": "Львівська область",
+    "nameRu": "Львовская область"
+  },
+  {
+    "id": 702550,
+    "name": "Lviv",
+    "country": "UA",
+    "coord": {
+      "lon": 24.023239,
+      "lat": 49.838261
+    },
+    "nameUa": "Львів",
+    "nameRu": "Львов"
+  },
+  {
+    "id": 702569,
+    "name": "Lutsk",
+    "country": "UA",
+    "coord": {
+      "lon": 25.34244,
+      "lat": 50.759319
+    },
+    "nameUa": "Луцьк",
+    "nameRu": "Луцк"
+  },
+  {
+    "id": 702972,
+    "name": "Lisichansk",
+    "country": "UA",
+    "coord": {
+      "lon": 38.44207,
+      "lat": 48.90485
+    },
+    "nameUa": "Лисичанськ",
+    "nameRu": "Лисичанск"
+  },
+  {
+    "id": 703142,
+    "name": "Letychiv",
+    "country": "UA",
+    "coord": {
+      "lon": 27.63051,
+      "lat": 49.382629
+    },
+    "nameUa": "Летичів",
+    "nameRu": "Летичев"
+  },
+  {
+    "id": 702878,
+    "name": "Lokachi",
+    "country": "UA",
+    "coord": {
+      "lon": 24.649441,
+      "lat": 50.737
+    },
+    "nameUa": "Локачі",
+    "nameRu": "Локачи"
+  },
+  {
+    "id": 702844,
+    "name": "Lopatin",
+    "country": "UA",
+    "coord": {
+      "lon": 24.84831,
+      "lat": 50.220219
+    },
+    "nameUa": "Лопатин",
+    "nameRu": "Лопатин"
+  },
+  {
+    "id": 703071,
+    "name": "Lyman",
+    "country": "UA",
+    "coord": {
+      "lon": 36.46711,
+      "lat": 49.594799
+    },
+    "nameUa": "Лиман",
+    "nameRu": "Лиман"
+  },
+  {
+    "id": 702723,
+    "name": "Lubny",
+    "country": "UA",
+    "coord": {
+      "lon": 32.996941,
+      "lat": 50.016251
+    },
+    "nameUa": "Лубни",
+    "nameRu": "Лубны"
+  },
+  {
+    "id": 703311,
+    "name": "Lebedyn",
+    "country": "UA",
+    "coord": {
+      "lon": 31.52696,
+      "lat": 48.962421
+    },
+    "nameUa": "Лебедин",
+    "nameRu": "Лебедин"
+  },
+  {
+    "id": 613273,
+    "name": "Lebedyn",
+    "country": "UA",
+    "coord": {
+      "lon": 34.484901,
+      "lat": 50.585178
+    },
+    "nameUa": "Лебедин",
+    "nameRu": "Лебедин"
+  },
+  {
+    "id": 703428,
+    "name": "Ladyzhyn",
+    "country": "UA",
+    "coord": {
+      "lon": 29.23678,
+      "lat": 48.684959
+    },
+    "nameUa": "Ладижин",
+    "nameRu": "Ладыжин"
+  },
+  {
+    "id": 703061,
+    "name": "Lymanske",
+    "country": "UA",
+    "coord": {
+      "lon": 29.96722,
+      "lat": 46.655701
+    },
+    "nameUa": "Лиманське",
+    "nameRu": "Лиманское"
+  },
+  {
+    "id": 702563,
+    "name": "Lutugino",
+    "country": "UA",
+    "coord": {
+      "lon": 39.226749,
+      "lat": 48.405071
+    },
+    "nameUa": "Лутугине",
+    "nameRu": "Лутугино"
+  },
+  {
+    "id": 702658,
+    "name": "Luhansk",
+    "country": "UA",
+    "coord": {
+      "lon": 39.317059,
+      "lat": 48.567051
+    },
+    "nameUa": "Луганськ",
+    "nameRu": "Луганск"
+  },
+  {
+    "id": 702760,
+    "name": "Lozova",
+    "country": "UA",
+    "coord": {
+      "lon": 36.317551,
+      "lat": 48.88937
+    },
+    "nameUa": "Лозова",
+    "nameRu": "Лозовая"
+  },
+  {
+    "id": 702421,
+    "name": "Lyuboml",
+    "country": "UA",
+    "coord": {
+      "lon": 24.03727,
+      "lat": 51.226009
+    },
+    "nameUa": "Любомль",
+    "nameRu": "Любомль"
+  },
+  {
+    "id": 702459,
+    "name": "Lyubymivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.568619,
+      "lat": 46.810631
+    },
+    "nameUa": "Любимівка",
+    "nameRu": "Любимовка"
+  },
+  {
+    "id": 702477,
+    "name": "Lyubech",
+    "country": "UA",
+    "coord": {
+      "lon": 30.656919,
+      "lat": 51.702599
+    },
+    "nameUa": "Любеч",
+    "nameRu": "Любеч"
+  },
+  {
+    "id": 702486,
+    "name": "Lyubar",
+    "country": "UA",
+    "coord": {
+      "lon": 27.75918,
+      "lat": 49.920448
+    },
+    "nameUa": "Любар",
+    "nameRu": "Любар"
+  },
+  {
+    "id": 702491,
+    "name": "Lysyanka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.82946,
+      "lat": 49.252289
+    },
+    "nameUa": "Лисянка",
+    "nameRu": "Лысянка"
+  },
+  {
+    "id": 702507,
+    "name": "Lysa Hora",
+    "country": "UA",
+    "coord": {
+      "lon": 31.10994,
+      "lat": 48.170589
+    },
+    "nameUa": "Лиса Гора",
+    "nameRu": "Лысая Гора"
+  },
+  {
+    "id": 702557,
+    "name": "Luzhany",
+    "country": "UA",
+    "coord": {
+      "lon": 25.77173,
+      "lat": 48.364922
+    },
+    "nameUa": "Лужани",
+    "nameRu": "Лужаны"
+  },
+  {
+    "id": 702612,
+    "name": "Lukiv",
+    "country": "UA",
+    "coord": {
+      "lon": 25.400591,
+      "lat": 51.052101
+    },
+    "nameUa": "Луків",
+    "nameRu": "Луков"
+  },
+  {
+    "id": 702679,
+    "name": "Luhyny",
+    "country": "UA",
+    "coord": {
+      "lon": 28.40057,
+      "lat": 51.08202
+    },
+    "nameUa": "Лугини",
+    "nameRu": "Лугины"
+  },
+  {
+    "id": 702774,
+    "name": "Lozuvatka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.285809,
+      "lat": 48.057098
+    },
+    "nameUa": "Лозуватка",
+    "nameRu": "Лозоватка"
+  },
+  {
+    "id": 702782,
+    "name": "Lozno-Oleksandrivka",
+    "country": "UA",
+    "coord": {
+      "lon": 38.738079,
+      "lat": 49.83741
+    },
+    "nameUa": "Лозно-Олександрівка",
+    "nameRu": "Лозно-Александровка"
+  },
+  {
+    "id": 702834,
+    "name": "Lopukhiv",
+    "country": "UA",
+    "coord": {
+      "lon": 23.96382,
+      "lat": 48.365261
+    },
+    "nameUa": "Лопухів",
+    "nameRu": "Лопухов"
+  },
+  {
+    "id": 702874,
+    "name": "Lokhvytsya",
+    "country": "UA",
+    "coord": {
+      "lon": 33.260239,
+      "lat": 50.36776
+    },
+    "nameUa": "Лохвиця",
+    "nameRu": "Лохвица"
+  },
+  {
+    "id": 702898,
+    "name": "Lyubashivka",
+    "country": "UA",
+    "coord": {
+      "lon": 30.25976,
+      "lat": 47.837158
+    },
+    "nameUa": "Любашівка",
+    "nameRu": "Любашёвка"
+  },
+  {
+    "id": 702931,
+    "name": "Lityn",
+    "country": "UA",
+    "coord": {
+      "lon": 28.08094,
+      "lat": 49.325089
+    },
+    "nameUa": "Літин",
+    "nameRu": "Литин"
+  },
+  {
+    "id": 702971,
+    "name": "Lysychovo",
+    "country": "UA",
+    "coord": {
+      "lon": 23.289921,
+      "lat": 48.496769
+    },
+    "nameUa": "Лисичово",
+    "nameRu": "Лисичово"
+  },
+  {
+    "id": 703015,
+    "name": "Lypova Dolyna",
+    "country": "UA",
+    "coord": {
+      "lon": 33.797932,
+      "lat": 50.564281
+    },
+    "nameUa": "Липова Долина",
+    "nameRu": "Липовая Долина"
+  },
+  {
+    "id": 703017,
+    "name": "Lypnyazhka",
+    "country": "UA",
+    "coord": {
+      "lon": 31.076111,
+      "lat": 48.446941
+    },
+    "nameUa": "Липняжка",
+    "nameRu": "Липняжка"
+  },
+  {
+    "id": 703042,
+    "name": "Lypcha",
+    "country": "UA",
+    "coord": {
+      "lon": 23.38336,
+      "lat": 48.261082
+    },
+    "nameUa": "Липча",
+    "nameRu": "Липча"
+  },
+  {
+    "id": 703079,
+    "name": "Lykhivka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.922791,
+      "lat": 48.687351
+    },
+    "nameUa": "Лихівка",
+    "nameRu": "Лиховка"
+  },
+  {
+    "id": 703144,
+    "name": "Lesovy",
+    "country": "UA",
+    "coord": {
+      "lon": 32.329189,
+      "lat": 50.689201
+    },
+    "nameUa": "Лісові Сорочинці",
+    "nameRu": "Лесовые Сорочинцы"
+  },
+  {
+    "id": 703261,
+    "name": "Lenine",
+    "country": "UA",
+    "coord": {
+      "lon": 35.777081,
+      "lat": 45.298569
+    },
+    "nameUa": "Леніне",
+    "nameRu": "Ленино"
+  },
+  {
+    "id": 703270,
+    "name": "Lenina",
+    "country": "UA",
+    "coord": {
+      "lon": 39.145561,
+      "lat": 48.42944
+    },
+    "nameUa": "Леніна",
+    "nameRu": "Ленина"
+  },
+  {
+    "id": 703317,
+    "name": "Lazurne",
+    "country": "UA",
+    "coord": {
+      "lon": 32.529549,
+      "lat": 46.084
+    },
+    "nameUa": "Лазурне",
+    "nameRu": "Лазурное"
+  },
+  {
+    "id": 703325,
+    "name": "Lazi",
+    "country": "UA",
+    "coord": {
+      "lon": 24.23333,
+      "lat": 48.066669
+    },
+    "nameUa": "Лазі",
+    "nameRu": "Лази"
+  },
+  {
+    "id": 703328,
+    "name": "Lazeshchyna",
+    "country": "UA",
+    "coord": {
+      "lon": 24.420099,
+      "lat": 48.26852
+    },
+    "nameUa": "Лазещина",
+    "nameRu": "Лазещина"
+  },
+  {
+    "id": 703397,
+    "name": "Lanivtsi",
+    "country": "UA",
+    "coord": {
+      "lon": 26.09082,
+      "lat": 49.863281
+    },
+    "nameUa": "Ланівці",
+    "nameRu": "Лановцы"
+  },
+  {
+    "id": 703410,
+    "name": "Lanchyn",
+    "country": "UA",
+    "coord": {
+      "lon": 24.75622,
+      "lat": 48.557812
+    },
+    "nameUa": "Ланчин",
+    "nameRu": "Ланчин"
+  },
+  {
+    "id": 703438,
+    "name": "Ladan",
+    "country": "UA",
+    "coord": {
+      "lon": 32.581779,
+      "lat": 50.519588
+    },
+    "nameUa": "Ладан",
+    "nameRu": "Ладан"
+  }
+]
