@@ -1,2 +1,2 @@
 # places-in-Ukraine
-Database of Ukrainian cities and villages, containing Ukrainian and Russian names
+List of settlements of Ukraine in JSON format. Includes translation of the name in Ukrainian and Russian, as well as geographical coordinates of settlements
